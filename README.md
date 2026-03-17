@@ -37,7 +37,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary><strong>📋 Table of Contents</strong></summary>
+  <summary><strong>Table of Contents</strong></summary>
   <ol>
     <li><a href="#-highlights">Highlights</a></li>
     <li><a href="#-architecture">Architecture</a></li>
