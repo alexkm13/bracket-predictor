@@ -18,13 +18,6 @@
     A reusable NCAA tournament prediction engine powered by Bayesian hierarchical modeling and Monte Carlo simulation.
     <br />
     <br />
-    <a href="#-quick-start">Quick Start</a>
-    ·
-    <a href="#-2026-predictions">2026 Predictions</a>
-    ·
-    <a href="#-model-specification">Model Spec</a>
-    ·
-    <a href="#-interactive-bracket">Bracket UI</a>
   </p>
 </div>
 
