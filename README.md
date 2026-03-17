@@ -135,7 +135,6 @@ margin_ij ~ Student-t(ν=7, θ_i - θ_j, σ_game)
 
 | Decision | Rationale |
 |----------|-----------|
-| **Not BTD** | We have pre-computed ratings, not raw game results → measurement error model, not paired comparison |
 | **Student-t(df=7)** | Fat tails for realistic upset rates. Normal underestimates 12-over-5 upsets by ~40% |
 | **Raw AdjEM scale** | Keeps θ and game margins on the same scale. Z-scoring broke this relationship |
 | **5-source fusion** | More sources → tighter posteriors. The model learns that TeamRankings (σ=3.3) is 3× noisier than KenPom (σ=1.1) |
@@ -153,7 +152,7 @@ margin_ij ~ Student-t(ν=7, θ_i - θ_j, σ_game)
 | **TeamRankings** Predictive | Source 2 | 2008–2026 | 3.34 |
 | **ESPN BPI** | Source 3 | 2008–2026 | 1.34 |
 | **SRS** (Sports Reference) | Source 4 | 2008–2026 | 1.10 |
-| **Big Dance** results | Game margins for Layer 4 | 2008–2019 | — |
+| **Game** results | Game margins for Layer 4 | 2008–2019 | — |
 
 > **Source 1** = mean(KenPom, Barttorvik) — composited to avoid correlated residuals between two AdjEM-family systems.
 
