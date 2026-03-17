@@ -1,0 +1,352 @@
+team,srs,season
+Louisville,24.69,2014
+Arizona,23.36,2014
+Florida,20.69,2014
+Kansas,20.25,2014
+Wisconsin,19.69,2014
+Duke,19.51,2014
+Michigan State,19.35,2014
+Oklahoma State,19.02,2014
+Villanova,18.97,2014
+Iowa,18.58,2014
+Iowa State,18.52,2014
+Michigan,18.52,2014
+UCLA,18.4,2014
+Virginia,18.38,2014
+Kentucky,18.07,2014
+Creighton,18.03,2014
+Ohio State,17.84,2014
+Pittsburgh,17.46,2014
+Tennessee,17.34,2014
+Connecticut,17.23,2014
+Wichita State,16.65,2014
+Syracuse,16.05,2014
+Baylor,15.8,2014
+Oregon,15.75,2014
+Gonzaga,15.56,2014
+Cincinnati,15.26,2014
+North Carolina,15.24,2014
+San Diego State,14.95,2014
+Oklahoma,14.91,2014
+Virginia Commonwealth,14.55,2014
+Arkansas,14.34,2014
+Southern Methodist,13.73,2014
+Stanford,13.42,2014
+Arizona State,13.32,2014
+Memphis,13.02,2014
+New Mexico,12.72,2014
+Texas,12.67,2014
+Utah,12.66,2014
+Florida State,12.63,2014
+Louisiana Tech,12.44,2014
+Kansas State,12.14,2014
+Xavier,11.84,2014
+West Virginia,11.78,2014
+Minnesota,11.75,2014
+St. John's (NY),11.68,2014
+Brigham Young,11.63,2014
+Saint Louis,11.63,2014
+Providence,11.37,2014
+Maryland,11.33,2014
+Indiana,11.32,2014
+Clemson,11.08,2014
+Georgetown,10.96,2014
+Colorado,10.8,2014
+Harvard,10.79,2014
+California,10.7,2014
+Massachusetts,10.61,2014
+George Washington,10.6,2014
+Dayton,10.55,2014
+Illinois,10.33,2014
+Nebraska,10.13,2014
+Marquette,10.08,2014
+Missouri,10.06,2014
+Louisiana State,10.05,2014
+Saint Mary's (CA),9.35,2014
+Saint Joseph's,9.05,2014
+NC State,9.02,2014
+Boise State,8.83,2014
+Texas Tech,8.61,2014
+Nevada-Las Vegas,8.55,2014
+Alabama,8.34,2014
+Purdue,8.21,2014
+Notre Dame,8.19,2014
+Georgia,7.9,2014
+Mississippi,7.84,2014
+Penn State,7.68,2014
+Miami (FL),7.6,2014
+Seton Hall,7.53,2014
+Green Bay,7.18,2014
+Butler,7.04,2014
+Southern Mississippi,6.84,2014
+North Dakota State,6.31,2014
+Washington,6.26,2014
+Tulsa,6.23,2014
+New Mexico State,6.16,2014
+Georgia State,6.04,2014
+Manhattan,6.04,2014
+Oregon State,6.03,2014
+Iona,5.96,2014
+San Francisco,5.92,2014
+St. Bonaventure,5.92,2014
+Richmond,5.7,2014
+Vanderbilt,5.52,2014
+Texas A&M,5.5,2014
+Wake Forest,5.49,2014
+South Carolina,5.41,2014
+Mercer,5.33,2014
+Northern Iowa,5.29,2014
+Georgia Tech,5.12,2014
+Auburn,5.11,2014
+Stephen F. Austin,4.82,2014
+Middle Tennessee,4.77,2014
+Portland,4.77,2014
+Utah State,4.77,2014
+Northwestern,4.72,2014
+Vermont,4.52,2014
+Wyoming,4.4,2014
+UTEP,4.39,2014
+Cleveland State,4.38,2014
+UC Irvine,4.35,2014
+UC Santa Barbara,4.23,2014
+La Salle,4.1,2014
+North Carolina Central,3.97,2014
+Fresno State,3.59,2014
+Buffalo,3.58,2014
+Hawaii,3.43,2014
+Toledo,3.3,2014
+Belmont,3.29,2014
+Colorado State,3.29,2014
+Indiana State,3.29,2014
+Boston College,3.01,2014
+Princeton,3.01,2014
+Louisiana,2.91,2014
+Rhode Island,2.87,2014
+Delaware,2.73,2014
+Ohio,2.7,2014
+Temple,2.69,2014
+Houston,2.68,2014
+Southern California,2.6,2014
+UCF,2.35,2014
+Columbia,2.21,2014
+San Diego,2.16,2014
+George Mason,2.03,2014
+Nevada,1.98,2014
+Virginia Tech,1.9,2014
+Eastern Michigan,1.79,2014
+Boston University,1.77,2014
+Pacific,1.74,2014
+Western Michigan,1.73,2014
+DePaul,1.5,2014
+Long Beach State,1.44,2014
+Washington State,1.34,2014
+Canisius,1.24,2014
+Drexel,1.23,2014
+Akron,1.16,2014
+Illinois State,1.08,2014
+Murray State,0.98,2014
+Santa Clara,0.88,2014
+Denver,0.84,2014
+Davidson,0.81,2014
+Missouri State,0.81,2014
+Pepperdine,0.8,2014
+UAB,0.78,2014
+American,0.69,2014
+Duquesne,0.66,2014
+Eastern Kentucky,0.6,2014
+Towson,0.55,2014
+Valparaiso,0.21,2014
+Wright State,0.21,2014
+Quinnipiac,-0.13,2014
+South Dakota State,-0.17,2014
+Purdue Fort Wayne,-0.2,2014
+Rutgers,-0.29,2014
+Arkansas State,-0.44,2014
+Southern Illinois,-0.46,2014
+Loyola Marymount,-0.49,2014
+South Florida,-0.52,2014
+Charlotte,-0.69,2014
+Drake,-0.77,2014
+Mississippi State,-0.86,2014
+Siena,-0.86,2014
+Weber State,-0.92,2014
+Old Dominion,-1.12,2014
+Omaha,-1.19,2014
+Bucknell,-1.3,2014
+TCU,-1.33,2014
+Cal Poly,-1.34,2014
+Brown,-1.44,2014
+Western Kentucky,-1.47,2014
+William & Mary,-1.48,2014
+Milwaukee,-1.53,2014
+Holy Cross,-1.58,2014
+Yale,-1.66,2014
+Stony Brook,-1.71,2014
+Kent State,-1.81,2014
+Morehead State,-1.88,2014
+Florida Gulf Coast,-1.97,2014
+College of Charleston,-2.02,2014
+South Carolina Upstate,-2.02,2014
+Oakland,-2.23,2014
+Youngstown State,-2.3,2014
+Colgate,-2.51,2014
+Bradley,-2.72,2014
+Oral Roberts,-2.94,2014
+Northeastern,-3.11,2014
+Evansville,-3.12,2014
+Fordham,-3.16,2014
+Detroit Mercy,-3.25,2014
+Albany (NY),-3.31,2014
+Bowling Green,-3.45,2014
+Robert Morris,-3.52,2014
+Northern Illinois,-3.54,2014
+Northwestern State,-3.59,2014
+Wagner,-3.83,2014
+Elon,-4.02,2014
+Air Force,-4.08,2014
+East Carolina,-4.08,2014
+Southern,-4.22,2014
+Bryant,-4.25,2014
+Wofford,-4.32,2014
+Northern Colorado,-4.33,2014
+Rider,-4.34,2014
+Miami (OH),-4.37,2014
+Marshall,-4.42,2014
+Utah Valley,-4.42,2014
+Sam Houston,-4.45,2014
+Montana,-4.52,2014
+St. Francis (NY),-4.64,2014
+North Texas,-4.67,2014
+Loyola (IL),-4.75,2014
+Dartmouth,-4.85,2014
+Cal State Bakersfield,-4.86,2014
+Cal State Northridge,-4.89,2014
+UT Arlington,-4.92,2014
+Marist,-4.94,2014
+Cal State Fullerton,-5.08,2014
+South Alabama,-5.08,2014
+Florida Atlantic,-5.12,2014
+Hampton,-5.17,2014
+Coastal Carolina,-5.21,2014
+Louisiana-Monroe,-5.21,2014
+Charleston Southern,-5.27,2014
+Eastern Washington,-5.32,2014
+Little Rock,-5.39,2014
+Florida International,-5.4,2014
+Southeast Missouri State,-5.49,2014
+VMI,-5.53,2014
+Morgan State,-5.81,2014
+Seattle,-5.86,2014
+Saint Peter's,-5.88,2014
+East Tennessee State,-5.93,2014
+Army,-6.16,2014
+Troy,-6.17,2014
+Mount St. Mary's,-6.32,2014
+Grand Canyon,-6.4,2014
+Texas A&M-Corpus Christi,-6.41,2014
+Idaho,-6.42,2014
+Idaho State,-6.42,2014
+Winthrop,-6.43,2014
+Lehigh,-6.52,2014
+Hofstra,-6.56,2014
+Pennsylvania,-6.59,2014
+Northern Arizona,-6.6,2014
+Hartford,-6.63,2014
+Western Carolina,-6.75,2014
+UNC Asheville,-6.81,2014
+North Dakota,-6.84,2014
+Monmouth,-6.96,2014
+South Dakota,-7.07,2014
+Illinois-Chicago,-7.17,2014
+Gardner-Webb,-7.33,2014
+Fairfield,-7.37,2014
+North Florida,-7.52,2014
+Western Illinois,-7.55,2014
+Portland State,-7.59,2014
+Lafayette,-7.64,2014
+UC Riverside,-7.64,2014
+James Madison,-7.65,2014
+Texas State,-7.74,2014
+Norfolk State,-7.82,2014
+Tulane,-7.89,2014
+Radford,-7.9,2014
+San Jose State,-7.96,2014
+Sacramento State,-8.04,2014
+Tennessee Tech,-8.09,2014
+Niagara,-8.16,2014
+Lipscomb,-8.2,2014
+High Point,-8.23,2014
+Texas Southern,-8.41,2014
+Incarnate Word,-8.47,2014
+UNC Wilmington,-8.75,2014
+Central Michigan,-8.82,2014
+Kansas City,-9.0,2014
+Rice,-9.43,2014
+Savannah State,-9.57,2014
+Tennessee State,-9.82,2014
+Ball State,-10.17,2014
+Liberty,-10.26,2014
+Chicago State,-10.47,2014
+Austin Peay,-10.5,2014
+Northern Kentucky,-10.53,2014
+Loyola (MD),-10.58,2014
+SIU Edwardsville,-10.61,2014
+Texas-Rio Grande Valley,-10.65,2014
+Montana State,-10.7,2014
+Chattanooga,-10.83,2014
+Coppin State,-11.09,2014
+UTSA,-11.1,2014
+FDU,-11.24,2014
+Georgia Southern,-11.44,2014
+Eastern Illinois,-11.53,2014
+UC Davis,-11.55,2014
+Jackson State,-11.62,2014
+Jacksonville,-11.86,2014
+Navy,-11.95,2014
+Jacksonville State,-11.97,2014
+Florida A&M,-12.31,2014
+UNC Greensboro,-12.33,2014
+NJIT,-12.52,2014
+Delaware State,-12.64,2014
+Alabama State,-12.84,2014
+Sacred Heart,-12.93,2014
+Southeastern Louisiana,-13.06,2014
+Central Connecticut State,-13.1,2014
+Nicholls State,-13.13,2014
+McNeese State,-13.15,2014
+Saint Francis (PA),-13.2,2014
+Tennessee-Martin,-13.45,2014
+Long Island University,-13.66,2014
+Massachusetts-Lowell,-13.71,2014
+Alabama A&M,-13.86,2014
+New Hampshire,-13.97,2014
+Campbell,-14.04,2014
+Maryland-Baltimore County,-14.21,2014
+IU Indy,-14.33,2014
+Samford,-14.91,2014
+New Orleans,-15.03,2014
+Appalachian State,-15.32,2014
+Arkansas-Pine Bluff,-15.39,2014
+Cornell,-15.6,2014
+Stetson,-15.81,2014
+Alcorn State,-15.95,2014
+Binghamton,-16.15,2014
+Kennesaw State,-16.16,2014
+Central Arkansas,-16.25,2014
+North Carolina A&T,-16.43,2014
+Lamar,-16.61,2014
+Prairie View,-16.72,2014
+Howard,-16.77,2014
+Bethune-Cookman,-16.86,2014
+Maryland-Eastern Shore,-17.03,2014
+South Carolina State,-17.21,2014
+Houston Christian,-17.39,2014
+Furman,-17.44,2014
+Maine,-17.58,2014
+The Citadel,-17.61,2014
+Abilene Christian,-19.6,2014
+Southern Utah,-19.9,2014
+Longwood,-20.31,2014
+Presbyterian,-20.71,2014
+Mississippi Valley State,-21.08,2014
+Grambling,-24.61,2014

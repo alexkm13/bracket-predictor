@@ -1,0 +1,56 @@
+{
+  "year": 2025,
+  "n_sims": 10000,
+  "champion_favorites": [
+    {
+      "team": "Duke",
+      "seed": 1,
+      "champ_pct": 0.3277
+    },
+    {
+      "team": "Houston",
+      "seed": 1,
+      "champ_pct": 0.1908
+    },
+    {
+      "team": "Auburn",
+      "seed": 1,
+      "champ_pct": 0.1374
+    },
+    {
+      "team": "Florida",
+      "seed": 1,
+      "champ_pct": 0.1408
+    },
+    {
+      "team": "Alabama",
+      "seed": 2,
+      "champ_pct": 0.0484
+    },
+    {
+      "team": "Tennessee",
+      "seed": 2,
+      "champ_pct": 0.0359
+    },
+    {
+      "team": "Texas Tech",
+      "seed": 3,
+      "champ_pct": 0.019
+    },
+    {
+      "team": "Gonzaga",
+      "seed": 8,
+      "champ_pct": 0.0078
+    },
+    {
+      "team": "Arizona",
+      "seed": 4,
+      "champ_pct": 0.0112
+    },
+    {
+      "team": "Maryland",
+      "seed": 4,
+      "champ_pct": 0.0124
+    }
+  ]
+}

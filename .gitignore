@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Model artifacts too large for GitHub
+engine/output/trace.nc
+
+# Optional local envs
+.venv/
+venv/

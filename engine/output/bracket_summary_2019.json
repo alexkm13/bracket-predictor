@@ -1,0 +1,56 @@
+{
+  "year": 2019,
+  "n_sims": 10000,
+  "champion_favorites": [
+    {
+      "team": "Virginia",
+      "seed": 1,
+      "champ_pct": 0.2264
+    },
+    {
+      "team": "Gonzaga",
+      "seed": 1,
+      "champ_pct": 0.2237
+    },
+    {
+      "team": "Duke",
+      "seed": 1,
+      "champ_pct": 0.1847
+    },
+    {
+      "team": "Michigan State",
+      "seed": 2,
+      "champ_pct": 0.0946
+    },
+    {
+      "team": "North Carolina",
+      "seed": 1,
+      "champ_pct": 0.0741
+    },
+    {
+      "team": "Michigan",
+      "seed": 2,
+      "champ_pct": 0.0472
+    },
+    {
+      "team": "Texas Tech",
+      "seed": 3,
+      "champ_pct": 0.0314
+    },
+    {
+      "team": "Kentucky",
+      "seed": 2,
+      "champ_pct": 0.0323
+    },
+    {
+      "team": "Tennessee",
+      "seed": 2,
+      "champ_pct": 0.0255
+    },
+    {
+      "team": "Purdue",
+      "seed": 3,
+      "champ_pct": 0.0187
+    }
+  ]
+}

@@ -1,0 +1,8385 @@
+{
+  "team_keys": [
+    [
+      2001,
+      "Alabama State"
+    ],
+    [
+      2001,
+      "Arizona"
+    ],
+    [
+      2001,
+      "Arkansas"
+    ],
+    [
+      2001,
+      "BYU"
+    ],
+    [
+      2001,
+      "Boston College"
+    ],
+    [
+      2001,
+      "Butler"
+    ],
+    [
+      2001,
+      "Cal State Northridge"
+    ],
+    [
+      2001,
+      "California"
+    ],
+    [
+      2001,
+      "Charlotte"
+    ],
+    [
+      2001,
+      "Cincinnati"
+    ],
+    [
+      2001,
+      "Creighton"
+    ],
+    [
+      2001,
+      "Duke"
+    ],
+    [
+      2001,
+      "Eastern Illinois"
+    ],
+    [
+      2001,
+      "Florida"
+    ],
+    [
+      2001,
+      "Fresno State"
+    ],
+    [
+      2001,
+      "George Mason"
+    ],
+    [
+      2001,
+      "Georgetown"
+    ],
+    [
+      2001,
+      "Georgia"
+    ],
+    [
+      2001,
+      "Georgia State"
+    ],
+    [
+      2001,
+      "Georgia Tech"
+    ],
+    [
+      2001,
+      "Gonzaga"
+    ],
+    [
+      2001,
+      "Hampton"
+    ],
+    [
+      2001,
+      "Hawaii"
+    ],
+    [
+      2001,
+      "Hofstra"
+    ],
+    [
+      2001,
+      "Holy Cross"
+    ],
+    [
+      2001,
+      "Illinois"
+    ],
+    [
+      2001,
+      "Indiana"
+    ],
+    [
+      2001,
+      "Indiana State"
+    ],
+    [
+      2001,
+      "Iona"
+    ],
+    [
+      2001,
+      "Iowa"
+    ],
+    [
+      2001,
+      "Iowa State"
+    ],
+    [
+      2001,
+      "Kansas"
+    ],
+    [
+      2001,
+      "Kent St."
+    ],
+    [
+      2001,
+      "Kentucky"
+    ],
+    [
+      2001,
+      "Maryland"
+    ],
+    [
+      2001,
+      "Michigan State"
+    ],
+    [
+      2001,
+      "Mississippi"
+    ],
+    [
+      2001,
+      "Missouri"
+    ],
+    [
+      2001,
+      "Monmouth"
+    ],
+    [
+      2001,
+      "North Carolina"
+    ],
+    [
+      2001,
+      "Northwestern St."
+    ],
+    [
+      2001,
+      "Notre Dame"
+    ],
+    [
+      2001,
+      "Ohio State"
+    ],
+    [
+      2001,
+      "Oklahoma"
+    ],
+    [
+      2001,
+      "Oklahoma State"
+    ],
+    [
+      2001,
+      "Penn State"
+    ],
+    [
+      2001,
+      "Princeton"
+    ],
+    [
+      2001,
+      "Providence"
+    ],
+    [
+      2001,
+      "Saint Joseph's"
+    ],
+    [
+      2001,
+      "Southern Utah"
+    ],
+    [
+      2001,
+      "Stanford"
+    ],
+    [
+      2001,
+      "Syracuse"
+    ],
+    [
+      2001,
+      "Temple"
+    ],
+    [
+      2001,
+      "Tennessee"
+    ],
+    [
+      2001,
+      "Texas"
+    ],
+    [
+      2001,
+      "UCLA"
+    ],
+    [
+      2001,
+      "UNC Greensboro"
+    ],
+    [
+      2001,
+      "Southern California"
+    ],
+    [
+      2001,
+      "Utah State"
+    ],
+    [
+      2001,
+      "Virginia"
+    ],
+    [
+      2001,
+      "Wake Forest"
+    ],
+    [
+      2001,
+      "Western Kentucky"
+    ],
+    [
+      2001,
+      "Winthrop"
+    ],
+    [
+      2001,
+      "Wisconsin"
+    ],
+    [
+      2001,
+      "Xavier"
+    ],
+    [
+      2002,
+      "Alabama"
+    ],
+    [
+      2002,
+      "Alcorn State"
+    ],
+    [
+      2002,
+      "Arizona"
+    ],
+    [
+      2002,
+      "Boston College"
+    ],
+    [
+      2002,
+      "Boston University"
+    ],
+    [
+      2002,
+      "California"
+    ],
+    [
+      2002,
+      "Central Connecticut State"
+    ],
+    [
+      2002,
+      "Charlotte"
+    ],
+    [
+      2002,
+      "Cincinnati"
+    ],
+    [
+      2002,
+      "UConn"
+    ],
+    [
+      2002,
+      "Creighton"
+    ],
+    [
+      2002,
+      "Davidson"
+    ],
+    [
+      2002,
+      "Duke"
+    ],
+    [
+      2002,
+      "Florida"
+    ],
+    [
+      2002,
+      "Florida Atlantic"
+    ],
+    [
+      2002,
+      "Georgia"
+    ],
+    [
+      2002,
+      "Gonzaga"
+    ],
+    [
+      2002,
+      "Hampton"
+    ],
+    [
+      2002,
+      "Hawaii"
+    ],
+    [
+      2002,
+      "Holy Cross"
+    ],
+    [
+      2002,
+      "Illinois"
+    ],
+    [
+      2002,
+      "Illinois Chicago"
+    ],
+    [
+      2002,
+      "Indiana"
+    ],
+    [
+      2002,
+      "Kansas"
+    ],
+    [
+      2002,
+      "Kent St."
+    ],
+    [
+      2002,
+      "Kentucky"
+    ],
+    [
+      2002,
+      "Marquette"
+    ],
+    [
+      2002,
+      "Maryland"
+    ],
+    [
+      2002,
+      "McNeese"
+    ],
+    [
+      2002,
+      "Miami"
+    ],
+    [
+      2002,
+      "Michigan State"
+    ],
+    [
+      2002,
+      "Mississippi"
+    ],
+    [
+      2002,
+      "Mississippi State"
+    ],
+    [
+      2002,
+      "Missouri"
+    ],
+    [
+      2002,
+      "Montana"
+    ],
+    [
+      2002,
+      "Murray State"
+    ],
+    [
+      2002,
+      "N.C. State"
+    ],
+    [
+      2002,
+      "Notre Dame"
+    ],
+    [
+      2002,
+      "Ohio State"
+    ],
+    [
+      2002,
+      "Oklahoma"
+    ],
+    [
+      2002,
+      "Oklahoma State"
+    ],
+    [
+      2002,
+      "Oregon"
+    ],
+    [
+      2002,
+      "Penn"
+    ],
+    [
+      2002,
+      "Pepperdine"
+    ],
+    [
+      2002,
+      "Pittsburgh"
+    ],
+    [
+      2002,
+      "San Diego State"
+    ],
+    [
+      2002,
+      "Siena"
+    ],
+    [
+      2002,
+      "Southern Illinois"
+    ],
+    [
+      2002,
+      "St. John's"
+    ],
+    [
+      2002,
+      "Stanford"
+    ],
+    [
+      2002,
+      "Texas"
+    ],
+    [
+      2002,
+      "Texas Tech"
+    ],
+    [
+      2002,
+      "Tulsa"
+    ],
+    [
+      2002,
+      "UC Santa Barbara"
+    ],
+    [
+      2002,
+      "UCLA"
+    ],
+    [
+      2002,
+      "UNC Wilmington"
+    ],
+    [
+      2002,
+      "Southern California"
+    ],
+    [
+      2002,
+      "Utah"
+    ],
+    [
+      2002,
+      "Valparaiso"
+    ],
+    [
+      2002,
+      "Wake Forest"
+    ],
+    [
+      2002,
+      "Western Kentucky"
+    ],
+    [
+      2002,
+      "Winthrop"
+    ],
+    [
+      2002,
+      "Wisconsin"
+    ],
+    [
+      2002,
+      "Wyoming"
+    ],
+    [
+      2002,
+      "Xavier"
+    ],
+    [
+      2003,
+      "Alabama"
+    ],
+    [
+      2003,
+      "Arizona"
+    ],
+    [
+      2003,
+      "Arizona State"
+    ],
+    [
+      2003,
+      "Auburn"
+    ],
+    [
+      2003,
+      "Austin Peay"
+    ],
+    [
+      2003,
+      "BYU"
+    ],
+    [
+      2003,
+      "Butler"
+    ],
+    [
+      2003,
+      "California"
+    ],
+    [
+      2003,
+      "Central Michigan"
+    ],
+    [
+      2003,
+      "Cincinnati"
+    ],
+    [
+      2003,
+      "Colorado"
+    ],
+    [
+      2003,
+      "Colorado State"
+    ],
+    [
+      2003,
+      "UConn"
+    ],
+    [
+      2003,
+      "Creighton"
+    ],
+    [
+      2003,
+      "Dayton"
+    ],
+    [
+      2003,
+      "Duke"
+    ],
+    [
+      2003,
+      "East Tennessee St."
+    ],
+    [
+      2003,
+      "Florida"
+    ],
+    [
+      2003,
+      "Gonzaga"
+    ],
+    [
+      2003,
+      "Holy Cross"
+    ],
+    [
+      2003,
+      "IUPUI"
+    ],
+    [
+      2003,
+      "Illinois"
+    ],
+    [
+      2003,
+      "Indiana"
+    ],
+    [
+      2003,
+      "Kansas"
+    ],
+    [
+      2003,
+      "Kentucky"
+    ],
+    [
+      2003,
+      "LSU"
+    ],
+    [
+      2003,
+      "Louisville"
+    ],
+    [
+      2003,
+      "Manhattan"
+    ],
+    [
+      2003,
+      "Marquette"
+    ],
+    [
+      2003,
+      "Maryland"
+    ],
+    [
+      2003,
+      "Memphis"
+    ],
+    [
+      2003,
+      "Michigan State"
+    ],
+    [
+      2003,
+      "Milwaukee"
+    ],
+    [
+      2003,
+      "Mississippi State"
+    ],
+    [
+      2003,
+      "Missouri"
+    ],
+    [
+      2003,
+      "NC State"
+    ],
+    [
+      2003,
+      "Notre Dame"
+    ],
+    [
+      2003,
+      "Oklahoma"
+    ],
+    [
+      2003,
+      "Oklahoma State"
+    ],
+    [
+      2003,
+      "Oregon"
+    ],
+    [
+      2003,
+      "Penn"
+    ],
+    [
+      2003,
+      "Pittsburgh"
+    ],
+    [
+      2003,
+      "Purdue"
+    ],
+    [
+      2003,
+      "Saint Joseph's"
+    ],
+    [
+      2003,
+      "Sam Houston State"
+    ],
+    [
+      2003,
+      "San Diego"
+    ],
+    [
+      2003,
+      "South Carolina St."
+    ],
+    [
+      2003,
+      "Southern Illinois"
+    ],
+    [
+      2003,
+      "Stanford"
+    ],
+    [
+      2003,
+      "Syracuse"
+    ],
+    [
+      2003,
+      "Texas"
+    ],
+    [
+      2003,
+      "Texas Southern"
+    ],
+    [
+      2003,
+      "Troy St."
+    ],
+    [
+      2003,
+      "Tulsa"
+    ],
+    [
+      2003,
+      "UNC Asheville"
+    ],
+    [
+      2003,
+      "UNC Wilmington"
+    ],
+    [
+      2003,
+      "Utah"
+    ],
+    [
+      2003,
+      "Utah State"
+    ],
+    [
+      2003,
+      "Vermont"
+    ],
+    [
+      2003,
+      "Wagner"
+    ],
+    [
+      2003,
+      "Wake Forest"
+    ],
+    [
+      2003,
+      "Weber State"
+    ],
+    [
+      2003,
+      "Western Kentucky"
+    ],
+    [
+      2003,
+      "Wisconsin"
+    ],
+    [
+      2003,
+      "Xavier"
+    ],
+    [
+      2004,
+      "Air Force"
+    ],
+    [
+      2004,
+      "Alabama"
+    ],
+    [
+      2004,
+      "Alabama State"
+    ],
+    [
+      2004,
+      "Arizona"
+    ],
+    [
+      2004,
+      "BYU"
+    ],
+    [
+      2004,
+      "Boston College"
+    ],
+    [
+      2004,
+      "Charlotte"
+    ],
+    [
+      2004,
+      "Cincinnati"
+    ],
+    [
+      2004,
+      "UConn"
+    ],
+    [
+      2004,
+      "Dayton"
+    ],
+    [
+      2004,
+      "DePaul"
+    ],
+    [
+      2004,
+      "Duke"
+    ],
+    [
+      2004,
+      "East Tennessee St."
+    ],
+    [
+      2004,
+      "Eastern Washington"
+    ],
+    [
+      2004,
+      "Florida"
+    ],
+    [
+      2004,
+      "Florida A&M"
+    ],
+    [
+      2004,
+      "Georgia Tech"
+    ],
+    [
+      2004,
+      "Gonzaga"
+    ],
+    [
+      2004,
+      "Illinois"
+    ],
+    [
+      2004,
+      "Illinois Chicago"
+    ],
+    [
+      2004,
+      "Kansas"
+    ],
+    [
+      2004,
+      "Kentucky"
+    ],
+    [
+      2004,
+      "Lehigh"
+    ],
+    [
+      2004,
+      "Liberty"
+    ],
+    [
+      2004,
+      "Louisiana Lafayette"
+    ],
+    [
+      2004,
+      "Louisville"
+    ],
+    [
+      2004,
+      "Manhattan"
+    ],
+    [
+      2004,
+      "Maryland"
+    ],
+    [
+      2004,
+      "Memphis"
+    ],
+    [
+      2004,
+      "Michigan State"
+    ],
+    [
+      2004,
+      "Mississippi State"
+    ],
+    [
+      2004,
+      "Monmouth"
+    ],
+    [
+      2004,
+      "Murray State"
+    ],
+    [
+      2004,
+      "Nevada"
+    ],
+    [
+      2004,
+      "North Carolina"
+    ],
+    [
+      2004,
+      "NC State"
+    ],
+    [
+      2004,
+      "Northern Iowa"
+    ],
+    [
+      2004,
+      "Oklahoma State"
+    ],
+    [
+      2004,
+      "Pacific"
+    ],
+    [
+      2004,
+      "Pittsburgh"
+    ],
+    [
+      2004,
+      "Princeton"
+    ],
+    [
+      2004,
+      "Providence"
+    ],
+    [
+      2004,
+      "Richmond"
+    ],
+    [
+      2004,
+      "Saint Joseph's"
+    ],
+    [
+      2004,
+      "Seton Hall"
+    ],
+    [
+      2004,
+      "South Carolina"
+    ],
+    [
+      2004,
+      "Southern Illinois"
+    ],
+    [
+      2004,
+      "Stanford"
+    ],
+    [
+      2004,
+      "Syracuse"
+    ],
+    [
+      2004,
+      "Texas"
+    ],
+    [
+      2004,
+      "Texas Tech"
+    ],
+    [
+      2004,
+      "UAB"
+    ],
+    [
+      2004,
+      "UCF"
+    ],
+    [
+      2004,
+      "UTEP"
+    ],
+    [
+      2004,
+      "UT San Antonio"
+    ],
+    [
+      2004,
+      "Utah"
+    ],
+    [
+      2004,
+      "VCU"
+    ],
+    [
+      2004,
+      "Valparaiso"
+    ],
+    [
+      2004,
+      "Vanderbilt"
+    ],
+    [
+      2004,
+      "Vermont"
+    ],
+    [
+      2004,
+      "Wake Forest"
+    ],
+    [
+      2004,
+      "Washington"
+    ],
+    [
+      2004,
+      "Western Michigan"
+    ],
+    [
+      2004,
+      "Wisconsin"
+    ],
+    [
+      2004,
+      "Xavier"
+    ],
+    [
+      2005,
+      "Alabama"
+    ],
+    [
+      2005,
+      "Alabama A&M"
+    ],
+    [
+      2005,
+      "Arizona"
+    ],
+    [
+      2005,
+      "Boston College"
+    ],
+    [
+      2005,
+      "Bucknell"
+    ],
+    [
+      2005,
+      "Charlotte"
+    ],
+    [
+      2005,
+      "Chattanooga"
+    ],
+    [
+      2005,
+      "Cincinnati"
+    ],
+    [
+      2005,
+      "UConn"
+    ],
+    [
+      2005,
+      "Creighton"
+    ],
+    [
+      2005,
+      "Delaware State"
+    ],
+    [
+      2005,
+      "Duke"
+    ],
+    [
+      2005,
+      "Eastern Kentucky"
+    ],
+    [
+      2005,
+      "Fairleigh Dickinson"
+    ],
+    [
+      2005,
+      "Florida"
+    ],
+    [
+      2005,
+      "George Washington"
+    ],
+    [
+      2005,
+      "Georgia Tech"
+    ],
+    [
+      2005,
+      "Gonzaga"
+    ],
+    [
+      2005,
+      "Illinois"
+    ],
+    [
+      2005,
+      "Iowa"
+    ],
+    [
+      2005,
+      "Iowa State"
+    ],
+    [
+      2005,
+      "Kansas"
+    ],
+    [
+      2005,
+      "Kentucky"
+    ],
+    [
+      2005,
+      "LSU"
+    ],
+    [
+      2005,
+      "Louisiana Lafayette"
+    ],
+    [
+      2005,
+      "Louisville"
+    ],
+    [
+      2005,
+      "Michigan State"
+    ],
+    [
+      2005,
+      "Milwaukee"
+    ],
+    [
+      2005,
+      "Minnesota"
+    ],
+    [
+      2005,
+      "Mississippi State"
+    ],
+    [
+      2005,
+      "Montana"
+    ],
+    [
+      2005,
+      "Nevada"
+    ],
+    [
+      2005,
+      "New Mexico"
+    ],
+    [
+      2005,
+      "Niagara"
+    ],
+    [
+      2005,
+      "North Carolina"
+    ],
+    [
+      2005,
+      "NC State"
+    ],
+    [
+      2005,
+      "Northern Iowa"
+    ],
+    [
+      2005,
+      "Oakland"
+    ],
+    [
+      2005,
+      "Ohio"
+    ],
+    [
+      2005,
+      "Oklahoma"
+    ],
+    [
+      2005,
+      "Oklahoma State"
+    ],
+    [
+      2005,
+      "Old Dominion"
+    ],
+    [
+      2005,
+      "Pacific"
+    ],
+    [
+      2005,
+      "Penn"
+    ],
+    [
+      2005,
+      "Pittsburgh"
+    ],
+    [
+      2005,
+      "Saint Mary's"
+    ],
+    [
+      2005,
+      "Southeastern Louisiana"
+    ],
+    [
+      2005,
+      "Southern Illinois"
+    ],
+    [
+      2005,
+      "Stanford"
+    ],
+    [
+      2005,
+      "Syracuse"
+    ],
+    [
+      2005,
+      "Texas"
+    ],
+    [
+      2005,
+      "Texas Tech"
+    ],
+    [
+      2005,
+      "UAB"
+    ],
+    [
+      2005,
+      "UCF"
+    ],
+    [
+      2005,
+      "UCLA"
+    ],
+    [
+      2005,
+      "UTEP"
+    ],
+    [
+      2005,
+      "Utah"
+    ],
+    [
+      2005,
+      "Utah State"
+    ],
+    [
+      2005,
+      "Vermont"
+    ],
+    [
+      2005,
+      "Villanova"
+    ],
+    [
+      2005,
+      "Wake Forest"
+    ],
+    [
+      2005,
+      "Washington"
+    ],
+    [
+      2005,
+      "West Virginia"
+    ],
+    [
+      2005,
+      "Winthrop"
+    ],
+    [
+      2005,
+      "Wisconsin"
+    ],
+    [
+      2006,
+      "Air Force"
+    ],
+    [
+      2006,
+      "Alabama"
+    ],
+    [
+      2006,
+      "Albany"
+    ],
+    [
+      2006,
+      "Arizona"
+    ],
+    [
+      2006,
+      "Arkansas"
+    ],
+    [
+      2006,
+      "Belmont"
+    ],
+    [
+      2006,
+      "Boston College"
+    ],
+    [
+      2006,
+      "Bradley"
+    ],
+    [
+      2006,
+      "Bucknell"
+    ],
+    [
+      2006,
+      "California"
+    ],
+    [
+      2006,
+      "UConn"
+    ],
+    [
+      2006,
+      "Davidson"
+    ],
+    [
+      2006,
+      "Duke"
+    ],
+    [
+      2006,
+      "Florida"
+    ],
+    [
+      2006,
+      "George Mason"
+    ],
+    [
+      2006,
+      "George Washington"
+    ],
+    [
+      2006,
+      "Georgetown"
+    ],
+    [
+      2006,
+      "Gonzaga"
+    ],
+    [
+      2006,
+      "Hampton"
+    ],
+    [
+      2006,
+      "Illinois"
+    ],
+    [
+      2006,
+      "Indiana"
+    ],
+    [
+      2006,
+      "Iona"
+    ],
+    [
+      2006,
+      "Iowa"
+    ],
+    [
+      2006,
+      "Kansas"
+    ],
+    [
+      2006,
+      "Kent St."
+    ],
+    [
+      2006,
+      "Kentucky"
+    ],
+    [
+      2006,
+      "LSU"
+    ],
+    [
+      2006,
+      "Marquette"
+    ],
+    [
+      2006,
+      "Memphis"
+    ],
+    [
+      2006,
+      "Michigan State"
+    ],
+    [
+      2006,
+      "Milwaukee"
+    ],
+    [
+      2006,
+      "Monmouth"
+    ],
+    [
+      2006,
+      "Montana"
+    ],
+    [
+      2006,
+      "Murray State"
+    ],
+    [
+      2006,
+      "Nevada"
+    ],
+    [
+      2006,
+      "North Carolina"
+    ],
+    [
+      2006,
+      "NC State"
+    ],
+    [
+      2006,
+      "Northern Iowa"
+    ],
+    [
+      2006,
+      "Northwestern St."
+    ],
+    [
+      2006,
+      "Ohio State"
+    ],
+    [
+      2006,
+      "Oklahoma"
+    ],
+    [
+      2006,
+      "Oral Roberts"
+    ],
+    [
+      2006,
+      "Pacific"
+    ],
+    [
+      2006,
+      "Penn"
+    ],
+    [
+      2006,
+      "Pittsburgh"
+    ],
+    [
+      2006,
+      "San Diego State"
+    ],
+    [
+      2006,
+      "Seton Hall"
+    ],
+    [
+      2006,
+      "South Alabama"
+    ],
+    [
+      2006,
+      "Southern"
+    ],
+    [
+      2006,
+      "Southern Illinois"
+    ],
+    [
+      2006,
+      "Syracuse"
+    ],
+    [
+      2006,
+      "Tennessee"
+    ],
+    [
+      2006,
+      "Texas"
+    ],
+    [
+      2006,
+      "Texas A&M"
+    ],
+    [
+      2006,
+      "UAB"
+    ],
+    [
+      2006,
+      "UCLA"
+    ],
+    [
+      2006,
+      "UNC Wilmington"
+    ],
+    [
+      2006,
+      "Utah State"
+    ],
+    [
+      2006,
+      "Villanova"
+    ],
+    [
+      2006,
+      "Washington"
+    ],
+    [
+      2006,
+      "West Virginia"
+    ],
+    [
+      2006,
+      "Wichita State"
+    ],
+    [
+      2006,
+      "Winthrop"
+    ],
+    [
+      2006,
+      "Wisconsin"
+    ],
+    [
+      2006,
+      "Xavier"
+    ],
+    [
+      2007,
+      "Albany"
+    ],
+    [
+      2007,
+      "Arizona"
+    ],
+    [
+      2007,
+      "Arkansas"
+    ],
+    [
+      2007,
+      "BYU"
+    ],
+    [
+      2007,
+      "Belmont"
+    ],
+    [
+      2007,
+      "Boston College"
+    ],
+    [
+      2007,
+      "Butler"
+    ],
+    [
+      2007,
+      "Central Connecticut State"
+    ],
+    [
+      2007,
+      "Creighton"
+    ],
+    [
+      2007,
+      "Davidson"
+    ],
+    [
+      2007,
+      "Duke"
+    ],
+    [
+      2007,
+      "Eastern Kentucky"
+    ],
+    [
+      2007,
+      "Florida"
+    ],
+    [
+      2007,
+      "Florida A&M"
+    ],
+    [
+      2007,
+      "George Washington"
+    ],
+    [
+      2007,
+      "Georgetown"
+    ],
+    [
+      2007,
+      "Georgia Tech"
+    ],
+    [
+      2007,
+      "Gonzaga"
+    ],
+    [
+      2007,
+      "Holy Cross"
+    ],
+    [
+      2007,
+      "Illinois"
+    ],
+    [
+      2007,
+      "Indiana"
+    ],
+    [
+      2007,
+      "Jackson St."
+    ],
+    [
+      2007,
+      "Kansas"
+    ],
+    [
+      2007,
+      "Kentucky"
+    ],
+    [
+      2007,
+      "Long Beach State"
+    ],
+    [
+      2007,
+      "Louisville"
+    ],
+    [
+      2007,
+      "Marquette"
+    ],
+    [
+      2007,
+      "Maryland"
+    ],
+    [
+      2007,
+      "Memphis"
+    ],
+    [
+      2007,
+      "Miami (OH)"
+    ],
+    [
+      2007,
+      "Michigan State"
+    ],
+    [
+      2007,
+      "Nevada"
+    ],
+    [
+      2007,
+      "New Mexico State"
+    ],
+    [
+      2007,
+      "Niagara"
+    ],
+    [
+      2007,
+      "North Carolina"
+    ],
+    [
+      2007,
+      "North Texas"
+    ],
+    [
+      2007,
+      "Notre Dame"
+    ],
+    [
+      2007,
+      "Ohio State"
+    ],
+    [
+      2007,
+      "Old Dominion"
+    ],
+    [
+      2007,
+      "Oral Roberts"
+    ],
+    [
+      2007,
+      "Oregon"
+    ],
+    [
+      2007,
+      "Penn"
+    ],
+    [
+      2007,
+      "Pittsburgh"
+    ],
+    [
+      2007,
+      "Purdue"
+    ],
+    [
+      2007,
+      "Southern Illinois"
+    ],
+    [
+      2007,
+      "Stanford"
+    ],
+    [
+      2007,
+      "Tennessee"
+    ],
+    [
+      2007,
+      "Texas"
+    ],
+    [
+      2007,
+      "Texas A&M"
+    ],
+    [
+      2007,
+      "Texas A&M-CC"
+    ],
+    [
+      2007,
+      "Texas Tech"
+    ],
+    [
+      2007,
+      "UCLA"
+    ],
+    [
+      2007,
+      "UNLV"
+    ],
+    [
+      2007,
+      "Southern California"
+    ],
+    [
+      2007,
+      "VCU"
+    ],
+    [
+      2007,
+      "Vanderbilt"
+    ],
+    [
+      2007,
+      "Villanova"
+    ],
+    [
+      2007,
+      "Virginia"
+    ],
+    [
+      2007,
+      "Virginia Tech"
+    ],
+    [
+      2007,
+      "Washington State"
+    ],
+    [
+      2007,
+      "Weber State"
+    ],
+    [
+      2007,
+      "Winthrop"
+    ],
+    [
+      2007,
+      "Wisconsin"
+    ],
+    [
+      2007,
+      "Wright State"
+    ],
+    [
+      2007,
+      "Xavier"
+    ],
+    [
+      2008,
+      "American"
+    ],
+    [
+      2008,
+      "Arizona"
+    ],
+    [
+      2008,
+      "Arkansas"
+    ],
+    [
+      2008,
+      "Austin Peay"
+    ],
+    [
+      2008,
+      "BYU"
+    ],
+    [
+      2008,
+      "Baylor"
+    ],
+    [
+      2008,
+      "Belmont"
+    ],
+    [
+      2008,
+      "Boise State"
+    ],
+    [
+      2008,
+      "Butler"
+    ],
+    [
+      2008,
+      "Cal State Fullerton"
+    ],
+    [
+      2008,
+      "Clemson"
+    ],
+    [
+      2008,
+      "UConn"
+    ],
+    [
+      2008,
+      "Coppin State"
+    ],
+    [
+      2008,
+      "Cornell"
+    ],
+    [
+      2008,
+      "Davidson"
+    ],
+    [
+      2008,
+      "Drake"
+    ],
+    [
+      2008,
+      "Duke"
+    ],
+    [
+      2008,
+      "George Mason"
+    ],
+    [
+      2008,
+      "Georgetown"
+    ],
+    [
+      2008,
+      "Georgia"
+    ],
+    [
+      2008,
+      "Gonzaga"
+    ],
+    [
+      2008,
+      "Indiana"
+    ],
+    [
+      2008,
+      "Kansas"
+    ],
+    [
+      2008,
+      "Kansas State"
+    ],
+    [
+      2008,
+      "Kent St."
+    ],
+    [
+      2008,
+      "Kentucky"
+    ],
+    [
+      2008,
+      "Louisville"
+    ],
+    [
+      2008,
+      "Marquette"
+    ],
+    [
+      2008,
+      "Memphis"
+    ],
+    [
+      2008,
+      "Miami"
+    ],
+    [
+      2008,
+      "Michigan State"
+    ],
+    [
+      2008,
+      "Mississippi State"
+    ],
+    [
+      2008,
+      "Mississippi Valley St."
+    ],
+    [
+      2008,
+      "Mount St. Mary's"
+    ],
+    [
+      2008,
+      "North Carolina"
+    ],
+    [
+      2008,
+      "Notre Dame"
+    ],
+    [
+      2008,
+      "Oklahoma"
+    ],
+    [
+      2008,
+      "Oral Roberts"
+    ],
+    [
+      2008,
+      "Oregon"
+    ],
+    [
+      2008,
+      "Pittsburgh"
+    ],
+    [
+      2008,
+      "Portland State"
+    ],
+    [
+      2008,
+      "Purdue"
+    ],
+    [
+      2008,
+      "Saint Joseph's"
+    ],
+    [
+      2008,
+      "Saint Mary's"
+    ],
+    [
+      2008,
+      "San Diego"
+    ],
+    [
+      2008,
+      "Siena"
+    ],
+    [
+      2008,
+      "South Alabama"
+    ],
+    [
+      2008,
+      "Stanford"
+    ],
+    [
+      2008,
+      "Temple"
+    ],
+    [
+      2008,
+      "Tennessee"
+    ],
+    [
+      2008,
+      "Texas"
+    ],
+    [
+      2008,
+      "Texas A&M"
+    ],
+    [
+      2008,
+      "UCLA"
+    ],
+    [
+      2008,
+      "UMBC"
+    ],
+    [
+      2008,
+      "UNLV"
+    ],
+    [
+      2008,
+      "Southern California"
+    ],
+    [
+      2008,
+      "UT Arlington"
+    ],
+    [
+      2008,
+      "Vanderbilt"
+    ],
+    [
+      2008,
+      "Villanova"
+    ],
+    [
+      2008,
+      "Washington State"
+    ],
+    [
+      2008,
+      "West Virginia"
+    ],
+    [
+      2008,
+      "Western Kentucky"
+    ],
+    [
+      2008,
+      "Winthrop"
+    ],
+    [
+      2008,
+      "Wisconsin"
+    ],
+    [
+      2008,
+      "Xavier"
+    ],
+    [
+      2009,
+      "Akron"
+    ],
+    [
+      2009,
+      "Alabama State"
+    ],
+    [
+      2009,
+      "American"
+    ],
+    [
+      2009,
+      "Arizona"
+    ],
+    [
+      2009,
+      "Arizona State"
+    ],
+    [
+      2009,
+      "BYU"
+    ],
+    [
+      2009,
+      "Binghamton"
+    ],
+    [
+      2009,
+      "Boston College"
+    ],
+    [
+      2009,
+      "Butler"
+    ],
+    [
+      2009,
+      "Cal State Northridge"
+    ],
+    [
+      2009,
+      "California"
+    ],
+    [
+      2009,
+      "Chattanooga"
+    ],
+    [
+      2009,
+      "Clemson"
+    ],
+    [
+      2009,
+      "Cleveland State"
+    ],
+    [
+      2009,
+      "UConn"
+    ],
+    [
+      2009,
+      "Cornell"
+    ],
+    [
+      2009,
+      "Dayton"
+    ],
+    [
+      2009,
+      "Duke"
+    ],
+    [
+      2009,
+      "East Tennessee St."
+    ],
+    [
+      2009,
+      "Florida St."
+    ],
+    [
+      2009,
+      "Gonzaga"
+    ],
+    [
+      2009,
+      "Illinois"
+    ],
+    [
+      2009,
+      "Kansas"
+    ],
+    [
+      2009,
+      "LSU"
+    ],
+    [
+      2009,
+      "Louisville"
+    ],
+    [
+      2009,
+      "Marquette"
+    ],
+    [
+      2009,
+      "Maryland"
+    ],
+    [
+      2009,
+      "Memphis"
+    ],
+    [
+      2009,
+      "Michigan"
+    ],
+    [
+      2009,
+      "Michigan State"
+    ],
+    [
+      2009,
+      "Minnesota"
+    ],
+    [
+      2009,
+      "Mississippi State"
+    ],
+    [
+      2009,
+      "Missouri"
+    ],
+    [
+      2009,
+      "Morehead State"
+    ],
+    [
+      2009,
+      "Morgan St."
+    ],
+    [
+      2009,
+      "North Carolina"
+    ],
+    [
+      2009,
+      "North Dakota State"
+    ],
+    [
+      2009,
+      "Northern Iowa"
+    ],
+    [
+      2009,
+      "Ohio State"
+    ],
+    [
+      2009,
+      "Oklahoma"
+    ],
+    [
+      2009,
+      "Oklahoma State"
+    ],
+    [
+      2009,
+      "Pittsburgh"
+    ],
+    [
+      2009,
+      "Portland State"
+    ],
+    [
+      2009,
+      "Purdue"
+    ],
+    [
+      2009,
+      "Radford"
+    ],
+    [
+      2009,
+      "Robert Morris"
+    ],
+    [
+      2009,
+      "Siena"
+    ],
+    [
+      2009,
+      "Stephen F. Austin"
+    ],
+    [
+      2009,
+      "Syracuse"
+    ],
+    [
+      2009,
+      "Temple"
+    ],
+    [
+      2009,
+      "Tennessee"
+    ],
+    [
+      2009,
+      "Texas"
+    ],
+    [
+      2009,
+      "Texas A&M"
+    ],
+    [
+      2009,
+      "UCLA"
+    ],
+    [
+      2009,
+      "Southern California"
+    ],
+    [
+      2009,
+      "Utah"
+    ],
+    [
+      2009,
+      "Utah"
+    ],
+    [
+      2009,
+      "Utah State"
+    ],
+    [
+      2009,
+      "VCU"
+    ],
+    [
+      2009,
+      "Villanova"
+    ],
+    [
+      2009,
+      "Wake Forest"
+    ],
+    [
+      2009,
+      "Washington"
+    ],
+    [
+      2009,
+      "West Virginia"
+    ],
+    [
+      2009,
+      "Western Kentucky"
+    ],
+    [
+      2009,
+      "Wisconsin"
+    ],
+    [
+      2009,
+      "Xavier"
+    ],
+    [
+      2010,
+      "Arkansas Pine Bluff"
+    ],
+    [
+      2010,
+      "BYU"
+    ],
+    [
+      2010,
+      "Baylor"
+    ],
+    [
+      2010,
+      "Butler"
+    ],
+    [
+      2010,
+      "California"
+    ],
+    [
+      2010,
+      "Clemson"
+    ],
+    [
+      2010,
+      "Cornell"
+    ],
+    [
+      2010,
+      "Duke"
+    ],
+    [
+      2010,
+      "East Tennessee St."
+    ],
+    [
+      2010,
+      "Florida"
+    ],
+    [
+      2010,
+      "Florida St."
+    ],
+    [
+      2010,
+      "Georgetown"
+    ],
+    [
+      2010,
+      "Georgia Tech"
+    ],
+    [
+      2010,
+      "Gonzaga"
+    ],
+    [
+      2010,
+      "Houston"
+    ],
+    [
+      2010,
+      "Kansas"
+    ],
+    [
+      2010,
+      "Kansas State"
+    ],
+    [
+      2010,
+      "Kentucky"
+    ],
+    [
+      2010,
+      "Lehigh"
+    ],
+    [
+      2010,
+      "Louisville"
+    ],
+    [
+      2010,
+      "Marquette"
+    ],
+    [
+      2010,
+      "Maryland"
+    ],
+    [
+      2010,
+      "Michigan State"
+    ],
+    [
+      2010,
+      "Minnesota"
+    ],
+    [
+      2010,
+      "Missouri"
+    ],
+    [
+      2010,
+      "Montana"
+    ],
+    [
+      2010,
+      "Morgan St."
+    ],
+    [
+      2010,
+      "Murray State"
+    ],
+    [
+      2010,
+      "New Mexico"
+    ],
+    [
+      2010,
+      "New Mexico State"
+    ],
+    [
+      2010,
+      "North Texas"
+    ],
+    [
+      2010,
+      "Northern Iowa"
+    ],
+    [
+      2010,
+      "Notre Dame"
+    ],
+    [
+      2010,
+      "Oakland"
+    ],
+    [
+      2010,
+      "Ohio"
+    ],
+    [
+      2010,
+      "Ohio State"
+    ],
+    [
+      2010,
+      "Oklahoma State"
+    ],
+    [
+      2010,
+      "Old Dominion"
+    ],
+    [
+      2010,
+      "Pittsburgh"
+    ],
+    [
+      2010,
+      "Purdue"
+    ],
+    [
+      2010,
+      "Richmond"
+    ],
+    [
+      2010,
+      "Robert Morris"
+    ],
+    [
+      2010,
+      "Saint Mary's"
+    ],
+    [
+      2010,
+      "Sam Houston State"
+    ],
+    [
+      2010,
+      "San Diego State"
+    ],
+    [
+      2010,
+      "Siena"
+    ],
+    [
+      2010,
+      "Syracuse"
+    ],
+    [
+      2010,
+      "Temple"
+    ],
+    [
+      2010,
+      "Tennessee"
+    ],
+    [
+      2010,
+      "Texas"
+    ],
+    [
+      2010,
+      "Texas A&M"
+    ],
+    [
+      2010,
+      "UC Santa Barbara"
+    ],
+    [
+      2010,
+      "UNLV"
+    ],
+    [
+      2010,
+      "UTEP"
+    ],
+    [
+      2010,
+      "Utah State"
+    ],
+    [
+      2010,
+      "Vanderbilt"
+    ],
+    [
+      2010,
+      "Vermont"
+    ],
+    [
+      2010,
+      "Villanova"
+    ],
+    [
+      2010,
+      "Wake Forest"
+    ],
+    [
+      2010,
+      "Washington"
+    ],
+    [
+      2010,
+      "West Virginia"
+    ],
+    [
+      2010,
+      "Winthrop"
+    ],
+    [
+      2010,
+      "Wisconsin"
+    ],
+    [
+      2010,
+      "Wofford"
+    ],
+    [
+      2010,
+      "Xavier"
+    ],
+    [
+      2011,
+      "Akron"
+    ],
+    [
+      2011,
+      "Alabama State"
+    ],
+    [
+      2011,
+      "Arizona"
+    ],
+    [
+      2011,
+      "Arkansas Little Rock"
+    ],
+    [
+      2011,
+      "BYU"
+    ],
+    [
+      2011,
+      "Belmont"
+    ],
+    [
+      2011,
+      "Boston University"
+    ],
+    [
+      2011,
+      "Bucknell"
+    ],
+    [
+      2011,
+      "Butler"
+    ],
+    [
+      2011,
+      "Cincinnati"
+    ],
+    [
+      2011,
+      "Clemson"
+    ],
+    [
+      2011,
+      "UConn"
+    ],
+    [
+      2011,
+      "Duke"
+    ],
+    [
+      2011,
+      "Florida"
+    ],
+    [
+      2011,
+      "Florida St."
+    ],
+    [
+      2011,
+      "George Mason"
+    ],
+    [
+      2011,
+      "Georgetown"
+    ],
+    [
+      2011,
+      "Georgia"
+    ],
+    [
+      2011,
+      "Gonzaga"
+    ],
+    [
+      2011,
+      "Hampton"
+    ],
+    [
+      2011,
+      "Illinois"
+    ],
+    [
+      2011,
+      "Indiana State"
+    ],
+    [
+      2011,
+      "Kansas"
+    ],
+    [
+      2011,
+      "Kansas State"
+    ],
+    [
+      2011,
+      "Kentucky"
+    ],
+    [
+      2011,
+      "LIU"
+    ],
+    [
+      2011,
+      "Louisville"
+    ],
+    [
+      2011,
+      "Marquette"
+    ],
+    [
+      2011,
+      "Memphis"
+    ],
+    [
+      2011,
+      "Michigan"
+    ],
+    [
+      2011,
+      "Michigan State"
+    ],
+    [
+      2011,
+      "Missouri"
+    ],
+    [
+      2011,
+      "Morehead State"
+    ],
+    [
+      2011,
+      "North Carolina"
+    ],
+    [
+      2011,
+      "Northern Colorado"
+    ],
+    [
+      2011,
+      "Notre Dame"
+    ],
+    [
+      2011,
+      "Oakland"
+    ],
+    [
+      2011,
+      "Ohio State"
+    ],
+    [
+      2011,
+      "Old Dominion"
+    ],
+    [
+      2011,
+      "Penn State"
+    ],
+    [
+      2011,
+      "Pittsburgh"
+    ],
+    [
+      2011,
+      "Princeton"
+    ],
+    [
+      2011,
+      "Purdue"
+    ],
+    [
+      2011,
+      "Richmond"
+    ],
+    [
+      2011,
+      "Saint Peter's"
+    ],
+    [
+      2011,
+      "San Diego State"
+    ],
+    [
+      2011,
+      "St. John's"
+    ],
+    [
+      2011,
+      "Syracuse"
+    ],
+    [
+      2011,
+      "Temple"
+    ],
+    [
+      2011,
+      "Tennessee"
+    ],
+    [
+      2011,
+      "Texas"
+    ],
+    [
+      2011,
+      "Texas A&M"
+    ],
+    [
+      2011,
+      "UAB"
+    ],
+    [
+      2011,
+      "UC Santa Barbara"
+    ],
+    [
+      2011,
+      "UCLA"
+    ],
+    [
+      2011,
+      "UNC Asheville"
+    ],
+    [
+      2011,
+      "UNLV"
+    ],
+    [
+      2011,
+      "Southern California"
+    ],
+    [
+      2011,
+      "UT San Antonio"
+    ],
+    [
+      2011,
+      "Utah State"
+    ],
+    [
+      2011,
+      "VCU"
+    ],
+    [
+      2011,
+      "Vanderbilt"
+    ],
+    [
+      2011,
+      "Villanova"
+    ],
+    [
+      2011,
+      "Washington"
+    ],
+    [
+      2011,
+      "West Virginia"
+    ],
+    [
+      2011,
+      "Wisconsin"
+    ],
+    [
+      2011,
+      "Wofford"
+    ],
+    [
+      2011,
+      "Xavier"
+    ],
+    [
+      2012,
+      "Alabama"
+    ],
+    [
+      2012,
+      "BYU"
+    ],
+    [
+      2012,
+      "Baylor"
+    ],
+    [
+      2012,
+      "Belmont"
+    ],
+    [
+      2012,
+      "California"
+    ],
+    [
+      2012,
+      "Cincinnati"
+    ],
+    [
+      2012,
+      "Colorado"
+    ],
+    [
+      2012,
+      "Colorado State"
+    ],
+    [
+      2012,
+      "UConn"
+    ],
+    [
+      2012,
+      "Creighton"
+    ],
+    [
+      2012,
+      "Davidson"
+    ],
+    [
+      2012,
+      "Detroit Mercy"
+    ],
+    [
+      2012,
+      "Duke"
+    ],
+    [
+      2012,
+      "Florida"
+    ],
+    [
+      2012,
+      "Florida St."
+    ],
+    [
+      2012,
+      "Georgetown"
+    ],
+    [
+      2012,
+      "Gonzaga"
+    ],
+    [
+      2012,
+      "Harvard"
+    ],
+    [
+      2012,
+      "Indiana"
+    ],
+    [
+      2012,
+      "Iona"
+    ],
+    [
+      2012,
+      "Iowa State"
+    ],
+    [
+      2012,
+      "Kansas"
+    ],
+    [
+      2012,
+      "Kansas State"
+    ],
+    [
+      2012,
+      "Kentucky"
+    ],
+    [
+      2012,
+      "LIU"
+    ],
+    [
+      2012,
+      "Lamar"
+    ],
+    [
+      2012,
+      "Lehigh"
+    ],
+    [
+      2012,
+      "Long Beach State"
+    ],
+    [
+      2012,
+      "Louisville"
+    ],
+    [
+      2012,
+      "Loyola MD"
+    ],
+    [
+      2012,
+      "Marquette"
+    ],
+    [
+      2012,
+      "Memphis"
+    ],
+    [
+      2012,
+      "Michigan"
+    ],
+    [
+      2012,
+      "Michigan State"
+    ],
+    [
+      2012,
+      "Mississippi Valley St."
+    ],
+    [
+      2012,
+      "Missouri"
+    ],
+    [
+      2012,
+      "Montana"
+    ],
+    [
+      2012,
+      "Murray State"
+    ],
+    [
+      2012,
+      "New Mexico"
+    ],
+    [
+      2012,
+      "New Mexico State"
+    ],
+    [
+      2012,
+      "Norfolk State"
+    ],
+    [
+      2012,
+      "North Carolina"
+    ],
+    [
+      2012,
+      "NC State"
+    ],
+    [
+      2012,
+      "Notre Dame"
+    ],
+    [
+      2012,
+      "Ohio"
+    ],
+    [
+      2012,
+      "Ohio State"
+    ],
+    [
+      2012,
+      "Purdue"
+    ],
+    [
+      2012,
+      "Saint Louis"
+    ],
+    [
+      2012,
+      "Saint Mary's"
+    ],
+    [
+      2012,
+      "San Diego State"
+    ],
+    [
+      2012,
+      "South Dakota State"
+    ],
+    [
+      2012,
+      "South Florida"
+    ],
+    [
+      2012,
+      "Southern Miss"
+    ],
+    [
+      2012,
+      "St. Bonaventure"
+    ],
+    [
+      2012,
+      "Syracuse"
+    ],
+    [
+      2012,
+      "Temple"
+    ],
+    [
+      2012,
+      "Texas"
+    ],
+    [
+      2012,
+      "UNC Asheville"
+    ],
+    [
+      2012,
+      "UNLV"
+    ],
+    [
+      2012,
+      "VCU"
+    ],
+    [
+      2012,
+      "Vanderbilt"
+    ],
+    [
+      2012,
+      "Vermont"
+    ],
+    [
+      2012,
+      "Virginia"
+    ],
+    [
+      2012,
+      "West Virginia"
+    ],
+    [
+      2012,
+      "Western Kentucky"
+    ],
+    [
+      2012,
+      "Wichita State"
+    ],
+    [
+      2012,
+      "Wisconsin"
+    ],
+    [
+      2012,
+      "Xavier"
+    ],
+    [
+      2013,
+      "Akron"
+    ],
+    [
+      2013,
+      "Albany"
+    ],
+    [
+      2013,
+      "Arizona"
+    ],
+    [
+      2013,
+      "Belmont"
+    ],
+    [
+      2013,
+      "Boise State"
+    ],
+    [
+      2013,
+      "Bucknell"
+    ],
+    [
+      2013,
+      "Butler"
+    ],
+    [
+      2013,
+      "California"
+    ],
+    [
+      2013,
+      "Cincinnati"
+    ],
+    [
+      2013,
+      "Colorado"
+    ],
+    [
+      2013,
+      "Colorado State"
+    ],
+    [
+      2013,
+      "Creighton"
+    ],
+    [
+      2013,
+      "Davidson"
+    ],
+    [
+      2013,
+      "Duke"
+    ],
+    [
+      2013,
+      "Florida"
+    ],
+    [
+      2013,
+      "Florida Gulf Coast"
+    ],
+    [
+      2013,
+      "Georgetown"
+    ],
+    [
+      2013,
+      "Gonzaga"
+    ],
+    [
+      2013,
+      "Harvard"
+    ],
+    [
+      2013,
+      "Illinois"
+    ],
+    [
+      2013,
+      "Indiana"
+    ],
+    [
+      2013,
+      "Iona"
+    ],
+    [
+      2013,
+      "Iowa State"
+    ],
+    [
+      2013,
+      "James Madison"
+    ],
+    [
+      2013,
+      "Kansas"
+    ],
+    [
+      2013,
+      "Kansas State"
+    ],
+    [
+      2013,
+      "LIU"
+    ],
+    [
+      2013,
+      "La Salle"
+    ],
+    [
+      2013,
+      "Liberty"
+    ],
+    [
+      2013,
+      "Louisville"
+    ],
+    [
+      2013,
+      "Marquette"
+    ],
+    [
+      2013,
+      "Memphis"
+    ],
+    [
+      2013,
+      "Miami"
+    ],
+    [
+      2013,
+      "Michigan"
+    ],
+    [
+      2013,
+      "Michigan State"
+    ],
+    [
+      2013,
+      "Middle Tennessee"
+    ],
+    [
+      2013,
+      "Minnesota"
+    ],
+    [
+      2013,
+      "Mississippi"
+    ],
+    [
+      2013,
+      "Missouri"
+    ],
+    [
+      2013,
+      "Montana"
+    ],
+    [
+      2013,
+      "New Mexico"
+    ],
+    [
+      2013,
+      "New Mexico State"
+    ],
+    [
+      2013,
+      "North Carolina"
+    ],
+    [
+      2013,
+      "North Carolina A&T"
+    ],
+    [
+      2013,
+      "NC State"
+    ],
+    [
+      2013,
+      "Northwestern St."
+    ],
+    [
+      2013,
+      "Notre Dame"
+    ],
+    [
+      2013,
+      "Ohio State"
+    ],
+    [
+      2013,
+      "Oklahoma"
+    ],
+    [
+      2013,
+      "Oklahoma State"
+    ],
+    [
+      2013,
+      "Oregon"
+    ],
+    [
+      2013,
+      "Pacific"
+    ],
+    [
+      2013,
+      "Pittsburgh"
+    ],
+    [
+      2013,
+      "Saint Louis"
+    ],
+    [
+      2013,
+      "Saint Mary's"
+    ],
+    [
+      2013,
+      "San Diego State"
+    ],
+    [
+      2013,
+      "South Dakota State"
+    ],
+    [
+      2013,
+      "Southern"
+    ],
+    [
+      2013,
+      "Syracuse"
+    ],
+    [
+      2013,
+      "Temple"
+    ],
+    [
+      2013,
+      "UCLA"
+    ],
+    [
+      2013,
+      "UNLV"
+    ],
+    [
+      2013,
+      "VCU"
+    ],
+    [
+      2013,
+      "Valparaiso"
+    ],
+    [
+      2013,
+      "Villanova"
+    ],
+    [
+      2013,
+      "Western Kentucky"
+    ],
+    [
+      2013,
+      "Wichita State"
+    ],
+    [
+      2013,
+      "Wisconsin"
+    ],
+    [
+      2014,
+      "Albany"
+    ],
+    [
+      2014,
+      "American"
+    ],
+    [
+      2014,
+      "Arizona"
+    ],
+    [
+      2014,
+      "Arizona State"
+    ],
+    [
+      2014,
+      "BYU"
+    ],
+    [
+      2014,
+      "Baylor"
+    ],
+    [
+      2014,
+      "Cal Poly"
+    ],
+    [
+      2014,
+      "Cincinnati"
+    ],
+    [
+      2014,
+      "Coastal Carolina"
+    ],
+    [
+      2014,
+      "Colorado"
+    ],
+    [
+      2014,
+      "UConn"
+    ],
+    [
+      2014,
+      "Creighton"
+    ],
+    [
+      2014,
+      "Dayton"
+    ],
+    [
+      2014,
+      "Delaware"
+    ],
+    [
+      2014,
+      "Duke"
+    ],
+    [
+      2014,
+      "Eastern Kentucky"
+    ],
+    [
+      2014,
+      "Florida"
+    ],
+    [
+      2014,
+      "George Washington"
+    ],
+    [
+      2014,
+      "Gonzaga"
+    ],
+    [
+      2014,
+      "Harvard"
+    ],
+    [
+      2014,
+      "Iowa"
+    ],
+    [
+      2014,
+      "Iowa State"
+    ],
+    [
+      2014,
+      "Kansas"
+    ],
+    [
+      2014,
+      "Kansas State"
+    ],
+    [
+      2014,
+      "Kentucky"
+    ],
+    [
+      2014,
+      "Louisiana Lafayette"
+    ],
+    [
+      2014,
+      "Louisville"
+    ],
+    [
+      2014,
+      "Manhattan"
+    ],
+    [
+      2014,
+      "Massachusetts"
+    ],
+    [
+      2014,
+      "Memphis"
+    ],
+    [
+      2014,
+      "Mercer"
+    ],
+    [
+      2014,
+      "Michigan"
+    ],
+    [
+      2014,
+      "Michigan State"
+    ],
+    [
+      2014,
+      "Milwaukee"
+    ],
+    [
+      2014,
+      "Mount St. Mary's"
+    ],
+    [
+      2014,
+      "Nebraska"
+    ],
+    [
+      2014,
+      "New Mexico"
+    ],
+    [
+      2014,
+      "New Mexico State"
+    ],
+    [
+      2014,
+      "North Carolina"
+    ],
+    [
+      2014,
+      "North Carolina Central"
+    ],
+    [
+      2014,
+      "NC State"
+    ],
+    [
+      2014,
+      "North Dakota State"
+    ],
+    [
+      2014,
+      "Ohio State"
+    ],
+    [
+      2014,
+      "Oklahoma"
+    ],
+    [
+      2014,
+      "Oklahoma State"
+    ],
+    [
+      2014,
+      "Oregon"
+    ],
+    [
+      2014,
+      "Pittsburgh"
+    ],
+    [
+      2014,
+      "Providence"
+    ],
+    [
+      2014,
+      "Saint Joseph's"
+    ],
+    [
+      2014,
+      "Saint Louis"
+    ],
+    [
+      2014,
+      "San Diego State"
+    ],
+    [
+      2014,
+      "Stanford"
+    ],
+    [
+      2014,
+      "Stephen F. Austin"
+    ],
+    [
+      2014,
+      "Syracuse"
+    ],
+    [
+      2014,
+      "Tennessee"
+    ],
+    [
+      2014,
+      "Texas"
+    ],
+    [
+      2014,
+      "Texas Southern"
+    ],
+    [
+      2014,
+      "Tulsa"
+    ],
+    [
+      2014,
+      "UCLA"
+    ],
+    [
+      2014,
+      "VCU"
+    ],
+    [
+      2014,
+      "Villanova"
+    ],
+    [
+      2014,
+      "Virginia"
+    ],
+    [
+      2014,
+      "Weber State"
+    ],
+    [
+      2014,
+      "Western Michigan"
+    ],
+    [
+      2014,
+      "Wichita State"
+    ],
+    [
+      2014,
+      "Wisconsin"
+    ],
+    [
+      2014,
+      "Wofford"
+    ],
+    [
+      2014,
+      "Xavier"
+    ],
+    [
+      2015,
+      "Albany"
+    ],
+    [
+      2015,
+      "Arizona"
+    ],
+    [
+      2015,
+      "Arkansas"
+    ],
+    [
+      2015,
+      "BYU"
+    ],
+    [
+      2015,
+      "Baylor"
+    ],
+    [
+      2015,
+      "Belmont"
+    ],
+    [
+      2015,
+      "Boise State"
+    ],
+    [
+      2015,
+      "Buffalo"
+    ],
+    [
+      2015,
+      "Butler"
+    ],
+    [
+      2015,
+      "Cincinnati"
+    ],
+    [
+      2015,
+      "Coastal Carolina"
+    ],
+    [
+      2015,
+      "Davidson"
+    ],
+    [
+      2015,
+      "Dayton"
+    ],
+    [
+      2015,
+      "Duke"
+    ],
+    [
+      2015,
+      "Eastern Washington"
+    ],
+    [
+      2015,
+      "Georgetown"
+    ],
+    [
+      2015,
+      "Georgia"
+    ],
+    [
+      2015,
+      "Georgia State"
+    ],
+    [
+      2015,
+      "Gonzaga"
+    ],
+    [
+      2015,
+      "Hampton"
+    ],
+    [
+      2015,
+      "Harvard"
+    ],
+    [
+      2015,
+      "Indiana"
+    ],
+    [
+      2015,
+      "Iowa"
+    ],
+    [
+      2015,
+      "Iowa State"
+    ],
+    [
+      2015,
+      "Kansas"
+    ],
+    [
+      2015,
+      "Kentucky"
+    ],
+    [
+      2015,
+      "LSU"
+    ],
+    [
+      2015,
+      "Lafayette"
+    ],
+    [
+      2015,
+      "Louisville"
+    ],
+    [
+      2015,
+      "Manhattan"
+    ],
+    [
+      2015,
+      "Maryland"
+    ],
+    [
+      2015,
+      "Michigan State"
+    ],
+    [
+      2015,
+      "Mississippi"
+    ],
+    [
+      2015,
+      "New Mexico State"
+    ],
+    [
+      2015,
+      "North Carolina"
+    ],
+    [
+      2015,
+      "NC State"
+    ],
+    [
+      2015,
+      "North Dakota State"
+    ],
+    [
+      2015,
+      "North Florida"
+    ],
+    [
+      2015,
+      "Northeastern"
+    ],
+    [
+      2015,
+      "Northern Iowa"
+    ],
+    [
+      2015,
+      "Notre Dame"
+    ],
+    [
+      2015,
+      "Ohio State"
+    ],
+    [
+      2015,
+      "Oklahoma"
+    ],
+    [
+      2015,
+      "Oklahoma State"
+    ],
+    [
+      2015,
+      "Oregon"
+    ],
+    [
+      2015,
+      "Providence"
+    ],
+    [
+      2015,
+      "Purdue"
+    ],
+    [
+      2015,
+      "Robert Morris"
+    ],
+    [
+      2015,
+      "SMU"
+    ],
+    [
+      2015,
+      "San Diego State"
+    ],
+    [
+      2015,
+      "St. John's"
+    ],
+    [
+      2015,
+      "Stephen F. Austin"
+    ],
+    [
+      2015,
+      "Texas"
+    ],
+    [
+      2015,
+      "Texas Southern"
+    ],
+    [
+      2015,
+      "UAB"
+    ],
+    [
+      2015,
+      "UC Irvine"
+    ],
+    [
+      2015,
+      "UCLA"
+    ],
+    [
+      2015,
+      "Utah"
+    ],
+    [
+      2015,
+      "Utah"
+    ],
+    [
+      2015,
+      "VCU"
+    ],
+    [
+      2015,
+      "Valparaiso"
+    ],
+    [
+      2015,
+      "Villanova"
+    ],
+    [
+      2015,
+      "Virginia"
+    ],
+    [
+      2015,
+      "West Virginia"
+    ],
+    [
+      2015,
+      "Wichita State"
+    ],
+    [
+      2015,
+      "Wisconsin"
+    ],
+    [
+      2015,
+      "Wofford"
+    ],
+    [
+      2015,
+      "Wyoming"
+    ],
+    [
+      2015,
+      "Xavier"
+    ],
+    [
+      2016,
+      "Arizona"
+    ],
+    [
+      2016,
+      "Arkansas Little Rock"
+    ],
+    [
+      2016,
+      "Austin Peay"
+    ],
+    [
+      2016,
+      "Baylor"
+    ],
+    [
+      2016,
+      "Buffalo"
+    ],
+    [
+      2016,
+      "Butler"
+    ],
+    [
+      2016,
+      "Cal State Bakersfield"
+    ],
+    [
+      2016,
+      "California"
+    ],
+    [
+      2016,
+      "Chattanooga"
+    ],
+    [
+      2016,
+      "Cincinnati"
+    ],
+    [
+      2016,
+      "Colorado"
+    ],
+    [
+      2016,
+      "UConn"
+    ],
+    [
+      2016,
+      "Dayton"
+    ],
+    [
+      2016,
+      "Duke"
+    ],
+    [
+      2016,
+      "Fairleigh Dickinson"
+    ],
+    [
+      2016,
+      "Florida Gulf Coast"
+    ],
+    [
+      2016,
+      "Fresno State"
+    ],
+    [
+      2016,
+      "Gonzaga"
+    ],
+    [
+      2016,
+      "Green Bay"
+    ],
+    [
+      2016,
+      "Hampton"
+    ],
+    [
+      2016,
+      "Hawaii"
+    ],
+    [
+      2016,
+      "Holy Cross"
+    ],
+    [
+      2016,
+      "Indiana"
+    ],
+    [
+      2016,
+      "Iona"
+    ],
+    [
+      2016,
+      "Iowa"
+    ],
+    [
+      2016,
+      "Iowa State"
+    ],
+    [
+      2016,
+      "Kansas"
+    ],
+    [
+      2016,
+      "Kentucky"
+    ],
+    [
+      2016,
+      "Maryland"
+    ],
+    [
+      2016,
+      "Miami"
+    ],
+    [
+      2016,
+      "Michigan"
+    ],
+    [
+      2016,
+      "Michigan State"
+    ],
+    [
+      2016,
+      "Middle Tennessee"
+    ],
+    [
+      2016,
+      "North Carolina"
+    ],
+    [
+      2016,
+      "Northern Iowa"
+    ],
+    [
+      2016,
+      "Notre Dame"
+    ],
+    [
+      2016,
+      "Oklahoma"
+    ],
+    [
+      2016,
+      "Oregon"
+    ],
+    [
+      2016,
+      "Oregon State"
+    ],
+    [
+      2016,
+      "Pittsburgh"
+    ],
+    [
+      2016,
+      "Providence"
+    ],
+    [
+      2016,
+      "Purdue"
+    ],
+    [
+      2016,
+      "Saint Joseph's"
+    ],
+    [
+      2016,
+      "Seton Hall"
+    ],
+    [
+      2016,
+      "South Dakota State"
+    ],
+    [
+      2016,
+      "Southern"
+    ],
+    [
+      2016,
+      "Stephen F. Austin"
+    ],
+    [
+      2016,
+      "Stony Brook"
+    ],
+    [
+      2016,
+      "Syracuse"
+    ],
+    [
+      2016,
+      "Temple"
+    ],
+    [
+      2016,
+      "Texas"
+    ],
+    [
+      2016,
+      "Texas A&M"
+    ],
+    [
+      2016,
+      "Texas Tech"
+    ],
+    [
+      2016,
+      "Tulsa"
+    ],
+    [
+      2016,
+      "UNC Asheville"
+    ],
+    [
+      2016,
+      "UNC Wilmington"
+    ],
+    [
+      2016,
+      "Southern California"
+    ],
+    [
+      2016,
+      "Utah"
+    ],
+    [
+      2016,
+      "Utah"
+    ],
+    [
+      2016,
+      "VCU"
+    ],
+    [
+      2016,
+      "Vanderbilt"
+    ],
+    [
+      2016,
+      "Villanova"
+    ],
+    [
+      2016,
+      "Virginia"
+    ],
+    [
+      2016,
+      "Weber State"
+    ],
+    [
+      2016,
+      "West Virginia"
+    ],
+    [
+      2016,
+      "Wichita State"
+    ],
+    [
+      2016,
+      "Wisconsin"
+    ],
+    [
+      2016,
+      "Xavier"
+    ],
+    [
+      2016,
+      "Yale"
+    ],
+    [
+      2017,
+      "Arizona"
+    ],
+    [
+      2017,
+      "Arkansas"
+    ],
+    [
+      2017,
+      "Baylor"
+    ],
+    [
+      2017,
+      "Bucknell"
+    ],
+    [
+      2017,
+      "Butler"
+    ],
+    [
+      2017,
+      "Cincinnati"
+    ],
+    [
+      2017,
+      "Creighton"
+    ],
+    [
+      2017,
+      "Dayton"
+    ],
+    [
+      2017,
+      "Duke"
+    ],
+    [
+      2017,
+      "East Tennessee St."
+    ],
+    [
+      2017,
+      "Florida"
+    ],
+    [
+      2017,
+      "Florida Gulf Coast"
+    ],
+    [
+      2017,
+      "Florida St."
+    ],
+    [
+      2017,
+      "Gonzaga"
+    ],
+    [
+      2017,
+      "Iona"
+    ],
+    [
+      2017,
+      "Iowa State"
+    ],
+    [
+      2017,
+      "Jacksonville State"
+    ],
+    [
+      2017,
+      "Kansas"
+    ],
+    [
+      2017,
+      "Kansas State"
+    ],
+    [
+      2017,
+      "Kent St."
+    ],
+    [
+      2017,
+      "Kentucky"
+    ],
+    [
+      2017,
+      "Louisville"
+    ],
+    [
+      2017,
+      "Marquette"
+    ],
+    [
+      2017,
+      "Maryland"
+    ],
+    [
+      2017,
+      "Miami"
+    ],
+    [
+      2017,
+      "Michigan"
+    ],
+    [
+      2017,
+      "Michigan State"
+    ],
+    [
+      2017,
+      "Middle Tennessee"
+    ],
+    [
+      2017,
+      "Minnesota"
+    ],
+    [
+      2017,
+      "Mount St. Mary's"
+    ],
+    [
+      2017,
+      "Nevada"
+    ],
+    [
+      2017,
+      "New Mexico State"
+    ],
+    [
+      2017,
+      "New Orleans"
+    ],
+    [
+      2017,
+      "North Carolina"
+    ],
+    [
+      2017,
+      "North Carolina Central"
+    ],
+    [
+      2017,
+      "North Dakota"
+    ],
+    [
+      2017,
+      "Northern Kentucky"
+    ],
+    [
+      2017,
+      "Northwestern"
+    ],
+    [
+      2017,
+      "Notre Dame"
+    ],
+    [
+      2017,
+      "Oklahoma State"
+    ],
+    [
+      2017,
+      "Oregon"
+    ],
+    [
+      2017,
+      "Princeton"
+    ],
+    [
+      2017,
+      "Providence"
+    ],
+    [
+      2017,
+      "Purdue"
+    ],
+    [
+      2017,
+      "Rhode Island"
+    ],
+    [
+      2017,
+      "SMU"
+    ],
+    [
+      2017,
+      "Saint Mary's"
+    ],
+    [
+      2017,
+      "Seton Hall"
+    ],
+    [
+      2017,
+      "South Carolina"
+    ],
+    [
+      2017,
+      "South Dakota State"
+    ],
+    [
+      2017,
+      "Texas Southern"
+    ],
+    [
+      2017,
+      "Troy"
+    ],
+    [
+      2017,
+      "UC Davis"
+    ],
+    [
+      2017,
+      "UCLA"
+    ],
+    [
+      2017,
+      "UNC Wilmington"
+    ],
+    [
+      2017,
+      "Southern California"
+    ],
+    [
+      2017,
+      "VCU"
+    ],
+    [
+      2017,
+      "Vanderbilt"
+    ],
+    [
+      2017,
+      "Vermont"
+    ],
+    [
+      2017,
+      "Villanova"
+    ],
+    [
+      2017,
+      "Virginia"
+    ],
+    [
+      2017,
+      "Virginia Tech"
+    ],
+    [
+      2017,
+      "Wake Forest"
+    ],
+    [
+      2017,
+      "West Virginia"
+    ],
+    [
+      2017,
+      "Wichita State"
+    ],
+    [
+      2017,
+      "Winthrop"
+    ],
+    [
+      2017,
+      "Wisconsin"
+    ],
+    [
+      2017,
+      "Xavier"
+    ],
+    [
+      2018,
+      "Alabama"
+    ],
+    [
+      2018,
+      "Arizona"
+    ],
+    [
+      2018,
+      "Arizona State"
+    ],
+    [
+      2018,
+      "Arkansas"
+    ],
+    [
+      2018,
+      "Auburn"
+    ],
+    [
+      2018,
+      "Bucknell"
+    ],
+    [
+      2018,
+      "Buffalo"
+    ],
+    [
+      2018,
+      "Butler"
+    ],
+    [
+      2018,
+      "Cal State Fullerton"
+    ],
+    [
+      2018,
+      "Cincinnati"
+    ],
+    [
+      2018,
+      "Clemson"
+    ],
+    [
+      2018,
+      "College of Charleston"
+    ],
+    [
+      2018,
+      "Creighton"
+    ],
+    [
+      2018,
+      "Davidson"
+    ],
+    [
+      2018,
+      "Duke"
+    ],
+    [
+      2018,
+      "Florida"
+    ],
+    [
+      2018,
+      "Florida St."
+    ],
+    [
+      2018,
+      "Georgia State"
+    ],
+    [
+      2018,
+      "Gonzaga"
+    ],
+    [
+      2018,
+      "Houston"
+    ],
+    [
+      2018,
+      "Iona"
+    ],
+    [
+      2018,
+      "Kansas"
+    ],
+    [
+      2018,
+      "Kansas State"
+    ],
+    [
+      2018,
+      "Kentucky"
+    ],
+    [
+      2018,
+      "LIU"
+    ],
+    [
+      2018,
+      "Lipscomb"
+    ],
+    [
+      2018,
+      "Loyola Chicago"
+    ],
+    [
+      2018,
+      "Marshall"
+    ],
+    [
+      2018,
+      "Miami"
+    ],
+    [
+      2018,
+      "Michigan"
+    ],
+    [
+      2018,
+      "Michigan State"
+    ],
+    [
+      2018,
+      "Missouri"
+    ],
+    [
+      2018,
+      "Montana"
+    ],
+    [
+      2018,
+      "Murray State"
+    ],
+    [
+      2018,
+      "Nevada"
+    ],
+    [
+      2018,
+      "New Mexico State"
+    ],
+    [
+      2018,
+      "North Carolina"
+    ],
+    [
+      2018,
+      "North Carolina Central"
+    ],
+    [
+      2018,
+      "NC State"
+    ],
+    [
+      2018,
+      "Ohio State"
+    ],
+    [
+      2018,
+      "Oklahoma"
+    ],
+    [
+      2018,
+      "Penn"
+    ],
+    [
+      2018,
+      "Providence"
+    ],
+    [
+      2018,
+      "Purdue"
+    ],
+    [
+      2018,
+      "Radford"
+    ],
+    [
+      2018,
+      "Rhode Island"
+    ],
+    [
+      2018,
+      "San Diego State"
+    ],
+    [
+      2018,
+      "Seton Hall"
+    ],
+    [
+      2018,
+      "South Dakota State"
+    ],
+    [
+      2018,
+      "St. Bonaventure"
+    ],
+    [
+      2018,
+      "Stephen F. Austin"
+    ],
+    [
+      2018,
+      "Syracuse"
+    ],
+    [
+      2018,
+      "TCU"
+    ],
+    [
+      2018,
+      "Tennessee"
+    ],
+    [
+      2018,
+      "Texas"
+    ],
+    [
+      2018,
+      "Texas A&M"
+    ],
+    [
+      2018,
+      "Texas Southern"
+    ],
+    [
+      2018,
+      "Texas Tech"
+    ],
+    [
+      2018,
+      "UCLA"
+    ],
+    [
+      2018,
+      "UMBC"
+    ],
+    [
+      2018,
+      "UNC Greensboro"
+    ],
+    [
+      2018,
+      "Villanova"
+    ],
+    [
+      2018,
+      "Virginia"
+    ],
+    [
+      2018,
+      "Virginia Tech"
+    ],
+    [
+      2018,
+      "West Virginia"
+    ],
+    [
+      2018,
+      "Wichita State"
+    ],
+    [
+      2018,
+      "Wright State"
+    ],
+    [
+      2018,
+      "Xavier"
+    ],
+    [
+      2019,
+      "Abilene Christian"
+    ],
+    [
+      2019,
+      "Arizona State"
+    ],
+    [
+      2019,
+      "Auburn"
+    ],
+    [
+      2019,
+      "Baylor"
+    ],
+    [
+      2019,
+      "Belmont"
+    ],
+    [
+      2019,
+      "Bradley"
+    ],
+    [
+      2019,
+      "Buffalo"
+    ],
+    [
+      2019,
+      "Cincinnati"
+    ],
+    [
+      2019,
+      "Colgate"
+    ],
+    [
+      2019,
+      "Duke"
+    ],
+    [
+      2019,
+      "Fairleigh Dickinson"
+    ],
+    [
+      2019,
+      "Florida"
+    ],
+    [
+      2019,
+      "Florida St."
+    ],
+    [
+      2019,
+      "Gardner Webb"
+    ],
+    [
+      2019,
+      "Georgia State"
+    ],
+    [
+      2019,
+      "Gonzaga"
+    ],
+    [
+      2019,
+      "Houston"
+    ],
+    [
+      2019,
+      "Iona"
+    ],
+    [
+      2019,
+      "Iowa"
+    ],
+    [
+      2019,
+      "Iowa State"
+    ],
+    [
+      2019,
+      "Kansas"
+    ],
+    [
+      2019,
+      "Kansas State"
+    ],
+    [
+      2019,
+      "Kentucky"
+    ],
+    [
+      2019,
+      "LSU"
+    ],
+    [
+      2019,
+      "Liberty"
+    ],
+    [
+      2019,
+      "Louisville"
+    ],
+    [
+      2019,
+      "Marquette"
+    ],
+    [
+      2019,
+      "Maryland"
+    ],
+    [
+      2019,
+      "Michigan"
+    ],
+    [
+      2019,
+      "Michigan State"
+    ],
+    [
+      2019,
+      "Minnesota"
+    ],
+    [
+      2019,
+      "Mississippi"
+    ],
+    [
+      2019,
+      "Mississippi State"
+    ],
+    [
+      2019,
+      "Montana"
+    ],
+    [
+      2019,
+      "Murray State"
+    ],
+    [
+      2019,
+      "Nevada"
+    ],
+    [
+      2019,
+      "New Mexico State"
+    ],
+    [
+      2019,
+      "North Carolina"
+    ],
+    [
+      2019,
+      "North Carolina Central"
+    ],
+    [
+      2019,
+      "North Dakota State"
+    ],
+    [
+      2019,
+      "Northeastern"
+    ],
+    [
+      2019,
+      "Northern Kentucky"
+    ],
+    [
+      2019,
+      "Ohio State"
+    ],
+    [
+      2019,
+      "Oklahoma"
+    ],
+    [
+      2019,
+      "Old Dominion"
+    ],
+    [
+      2019,
+      "Oregon"
+    ],
+    [
+      2019,
+      "Prairie View A&M"
+    ],
+    [
+      2019,
+      "Purdue"
+    ],
+    [
+      2019,
+      "Saint Louis"
+    ],
+    [
+      2019,
+      "Saint Mary's"
+    ],
+    [
+      2019,
+      "Seton Hall"
+    ],
+    [
+      2019,
+      "St. John's"
+    ],
+    [
+      2019,
+      "Syracuse"
+    ],
+    [
+      2019,
+      "Temple"
+    ],
+    [
+      2019,
+      "Tennessee"
+    ],
+    [
+      2019,
+      "Texas Tech"
+    ],
+    [
+      2019,
+      "UC Irvine"
+    ],
+    [
+      2019,
+      "UCF"
+    ],
+    [
+      2019,
+      "Utah State"
+    ],
+    [
+      2019,
+      "VCU"
+    ],
+    [
+      2019,
+      "Vermont"
+    ],
+    [
+      2019,
+      "Villanova"
+    ],
+    [
+      2019,
+      "Virginia"
+    ],
+    [
+      2019,
+      "Virginia Tech"
+    ],
+    [
+      2019,
+      "Washington"
+    ],
+    [
+      2019,
+      "Wisconsin"
+    ],
+    [
+      2019,
+      "Wofford"
+    ],
+    [
+      2019,
+      "Yale"
+    ],
+    [
+      2021,
+      "Abilene Christian"
+    ],
+    [
+      2021,
+      "Alabama"
+    ],
+    [
+      2021,
+      "Appalachian State"
+    ],
+    [
+      2021,
+      "Arkansas"
+    ],
+    [
+      2021,
+      "BYU"
+    ],
+    [
+      2021,
+      "Baylor"
+    ],
+    [
+      2021,
+      "Clemson"
+    ],
+    [
+      2021,
+      "Cleveland State"
+    ],
+    [
+      2021,
+      "Colgate"
+    ],
+    [
+      2021,
+      "Colorado"
+    ],
+    [
+      2021,
+      "UConn"
+    ],
+    [
+      2021,
+      "Creighton"
+    ],
+    [
+      2021,
+      "Drake"
+    ],
+    [
+      2021,
+      "Drexel"
+    ],
+    [
+      2021,
+      "Eastern Washington"
+    ],
+    [
+      2021,
+      "Florida"
+    ],
+    [
+      2021,
+      "Florida St."
+    ],
+    [
+      2021,
+      "Georgetown"
+    ],
+    [
+      2021,
+      "Georgia Tech"
+    ],
+    [
+      2021,
+      "Gonzaga"
+    ],
+    [
+      2021,
+      "Grand Canyon"
+    ],
+    [
+      2021,
+      "Hartford"
+    ],
+    [
+      2021,
+      "Houston"
+    ],
+    [
+      2021,
+      "Illinois"
+    ],
+    [
+      2021,
+      "Iona"
+    ],
+    [
+      2021,
+      "Iowa"
+    ],
+    [
+      2021,
+      "Kansas"
+    ],
+    [
+      2021,
+      "LSU"
+    ],
+    [
+      2021,
+      "Liberty"
+    ],
+    [
+      2021,
+      "Loyola Chicago"
+    ],
+    [
+      2021,
+      "Maryland"
+    ],
+    [
+      2021,
+      "Michigan"
+    ],
+    [
+      2021,
+      "Michigan State"
+    ],
+    [
+      2021,
+      "Missouri"
+    ],
+    [
+      2021,
+      "Morehead State"
+    ],
+    [
+      2021,
+      "Mount St. Mary's"
+    ],
+    [
+      2021,
+      "Norfolk State"
+    ],
+    [
+      2021,
+      "North Carolina"
+    ],
+    [
+      2021,
+      "North Texas"
+    ],
+    [
+      2021,
+      "Ohio"
+    ],
+    [
+      2021,
+      "Ohio State"
+    ],
+    [
+      2021,
+      "Oklahoma"
+    ],
+    [
+      2021,
+      "Oklahoma State"
+    ],
+    [
+      2021,
+      "Oral Roberts"
+    ],
+    [
+      2021,
+      "Oregon"
+    ],
+    [
+      2021,
+      "Oregon State"
+    ],
+    [
+      2021,
+      "Purdue"
+    ],
+    [
+      2021,
+      "Rutgers"
+    ],
+    [
+      2021,
+      "San Diego State"
+    ],
+    [
+      2021,
+      "St. Bonaventure"
+    ],
+    [
+      2021,
+      "Syracuse"
+    ],
+    [
+      2021,
+      "Tennessee"
+    ],
+    [
+      2021,
+      "Texas"
+    ],
+    [
+      2021,
+      "Texas Southern"
+    ],
+    [
+      2021,
+      "Texas Tech"
+    ],
+    [
+      2021,
+      "UC Santa Barbara"
+    ],
+    [
+      2021,
+      "UCLA"
+    ],
+    [
+      2021,
+      "UNC Greensboro"
+    ],
+    [
+      2021,
+      "Southern California"
+    ],
+    [
+      2021,
+      "Utah State"
+    ],
+    [
+      2021,
+      "VCU"
+    ],
+    [
+      2021,
+      "Villanova"
+    ],
+    [
+      2021,
+      "Virginia"
+    ],
+    [
+      2021,
+      "Virginia Tech"
+    ],
+    [
+      2021,
+      "West Virginia"
+    ],
+    [
+      2021,
+      "Wichita State"
+    ],
+    [
+      2021,
+      "Winthrop"
+    ],
+    [
+      2021,
+      "Wisconsin"
+    ],
+    [
+      2022,
+      "Akron"
+    ],
+    [
+      2022,
+      "Alabama"
+    ],
+    [
+      2022,
+      "Arizona"
+    ],
+    [
+      2022,
+      "Arkansas"
+    ],
+    [
+      2022,
+      "Auburn"
+    ],
+    [
+      2022,
+      "Baylor"
+    ],
+    [
+      2022,
+      "Boise State"
+    ],
+    [
+      2022,
+      "Bryant"
+    ],
+    [
+      2022,
+      "Cal State Fullerton"
+    ],
+    [
+      2022,
+      "Chattanooga"
+    ],
+    [
+      2022,
+      "Colgate"
+    ],
+    [
+      2022,
+      "Colorado State"
+    ],
+    [
+      2022,
+      "UConn"
+    ],
+    [
+      2022,
+      "Creighton"
+    ],
+    [
+      2022,
+      "Davidson"
+    ],
+    [
+      2022,
+      "Delaware"
+    ],
+    [
+      2022,
+      "Duke"
+    ],
+    [
+      2022,
+      "Georgia State"
+    ],
+    [
+      2022,
+      "Gonzaga"
+    ],
+    [
+      2022,
+      "Houston"
+    ],
+    [
+      2022,
+      "Illinois"
+    ],
+    [
+      2022,
+      "Indiana"
+    ],
+    [
+      2022,
+      "Iowa"
+    ],
+    [
+      2022,
+      "Iowa State"
+    ],
+    [
+      2022,
+      "Jacksonville State"
+    ],
+    [
+      2022,
+      "Kansas"
+    ],
+    [
+      2022,
+      "Kentucky"
+    ],
+    [
+      2022,
+      "LSU"
+    ],
+    [
+      2022,
+      "Longwood"
+    ],
+    [
+      2022,
+      "Loyola Chicago"
+    ],
+    [
+      2022,
+      "Marquette"
+    ],
+    [
+      2022,
+      "Memphis"
+    ],
+    [
+      2022,
+      "Miami"
+    ],
+    [
+      2022,
+      "Michigan"
+    ],
+    [
+      2022,
+      "Michigan State"
+    ],
+    [
+      2022,
+      "Montana State"
+    ],
+    [
+      2022,
+      "Murray State"
+    ],
+    [
+      2022,
+      "New Mexico State"
+    ],
+    [
+      2022,
+      "Norfolk State"
+    ],
+    [
+      2022,
+      "North Carolina"
+    ],
+    [
+      2022,
+      "Notre Dame"
+    ],
+    [
+      2022,
+      "Ohio State"
+    ],
+    [
+      2022,
+      "Providence"
+    ],
+    [
+      2022,
+      "Purdue"
+    ],
+    [
+      2022,
+      "Richmond"
+    ],
+    [
+      2022,
+      "Rutgers"
+    ],
+    [
+      2022,
+      "Saint Mary's"
+    ],
+    [
+      2022,
+      "Saint Peter's"
+    ],
+    [
+      2022,
+      "San Diego State"
+    ],
+    [
+      2022,
+      "San Francisco"
+    ],
+    [
+      2022,
+      "Seton Hall"
+    ],
+    [
+      2022,
+      "South Dakota State"
+    ],
+    [
+      2022,
+      "TCU"
+    ],
+    [
+      2022,
+      "Tennessee"
+    ],
+    [
+      2022,
+      "Texas"
+    ],
+    [
+      2022,
+      "Texas A&M-CC"
+    ],
+    [
+      2022,
+      "Texas Southern"
+    ],
+    [
+      2022,
+      "Texas Tech"
+    ],
+    [
+      2022,
+      "UAB"
+    ],
+    [
+      2022,
+      "UCLA"
+    ],
+    [
+      2022,
+      "Southern California"
+    ],
+    [
+      2022,
+      "Vermont"
+    ],
+    [
+      2022,
+      "Villanova"
+    ],
+    [
+      2022,
+      "Virginia Tech"
+    ],
+    [
+      2022,
+      "Wisconsin"
+    ],
+    [
+      2022,
+      "Wright State"
+    ],
+    [
+      2022,
+      "Wyoming"
+    ],
+    [
+      2022,
+      "Yale"
+    ],
+    [
+      2023,
+      "Alabama"
+    ],
+    [
+      2023,
+      "Arizona"
+    ],
+    [
+      2023,
+      "Arizona State"
+    ],
+    [
+      2023,
+      "Arkansas"
+    ],
+    [
+      2023,
+      "Auburn"
+    ],
+    [
+      2023,
+      "Baylor"
+    ],
+    [
+      2023,
+      "Boise State"
+    ],
+    [
+      2023,
+      "Charleston"
+    ],
+    [
+      2023,
+      "Colgate"
+    ],
+    [
+      2023,
+      "UConn"
+    ],
+    [
+      2023,
+      "Creighton"
+    ],
+    [
+      2023,
+      "Drake"
+    ],
+    [
+      2023,
+      "Duke"
+    ],
+    [
+      2023,
+      "Fairleigh Dickinson"
+    ],
+    [
+      2023,
+      "Florida Atlantic"
+    ],
+    [
+      2023,
+      "Furman"
+    ],
+    [
+      2023,
+      "Gonzaga"
+    ],
+    [
+      2023,
+      "Grand Canyon"
+    ],
+    [
+      2023,
+      "Houston"
+    ],
+    [
+      2023,
+      "Howard"
+    ],
+    [
+      2023,
+      "Illinois"
+    ],
+    [
+      2023,
+      "Indiana"
+    ],
+    [
+      2023,
+      "Iona"
+    ],
+    [
+      2023,
+      "Iowa"
+    ],
+    [
+      2023,
+      "Iowa State"
+    ],
+    [
+      2023,
+      "Kansas"
+    ],
+    [
+      2023,
+      "Kansas State"
+    ],
+    [
+      2023,
+      "Kennesaw State"
+    ],
+    [
+      2023,
+      "Kent St."
+    ],
+    [
+      2023,
+      "Kentucky"
+    ],
+    [
+      2023,
+      "Louisiana"
+    ],
+    [
+      2023,
+      "Marquette"
+    ],
+    [
+      2023,
+      "Maryland"
+    ],
+    [
+      2023,
+      "Memphis"
+    ],
+    [
+      2023,
+      "Miami"
+    ],
+    [
+      2023,
+      "Michigan State"
+    ],
+    [
+      2023,
+      "Mississippi State"
+    ],
+    [
+      2023,
+      "Missouri"
+    ],
+    [
+      2023,
+      "Montana State"
+    ],
+    [
+      2023,
+      "N.C. State"
+    ],
+    [
+      2023,
+      "Nevada"
+    ],
+    [
+      2023,
+      "Northern Kentucky"
+    ],
+    [
+      2023,
+      "Northwestern"
+    ],
+    [
+      2023,
+      "Oral Roberts"
+    ],
+    [
+      2023,
+      "Penn State"
+    ],
+    [
+      2023,
+      "Pittsburgh"
+    ],
+    [
+      2023,
+      "Princeton"
+    ],
+    [
+      2023,
+      "Providence"
+    ],
+    [
+      2023,
+      "Purdue"
+    ],
+    [
+      2023,
+      "Saint Mary's"
+    ],
+    [
+      2023,
+      "San Diego State"
+    ],
+    [
+      2023,
+      "Southeast Missouri St."
+    ],
+    [
+      2023,
+      "TCU"
+    ],
+    [
+      2023,
+      "Tennessee"
+    ],
+    [
+      2023,
+      "Texas"
+    ],
+    [
+      2023,
+      "Texas A&M"
+    ],
+    [
+      2023,
+      "Texas A&M-CC"
+    ],
+    [
+      2023,
+      "Texas Southern"
+    ],
+    [
+      2023,
+      "UC Santa Barbara"
+    ],
+    [
+      2023,
+      "UCLA"
+    ],
+    [
+      2023,
+      "UNC Asheville"
+    ],
+    [
+      2023,
+      "Southern California"
+    ],
+    [
+      2023,
+      "Utah State"
+    ],
+    [
+      2023,
+      "VCU"
+    ],
+    [
+      2023,
+      "Vermont"
+    ],
+    [
+      2023,
+      "Virginia"
+    ],
+    [
+      2023,
+      "West Virginia"
+    ],
+    [
+      2023,
+      "Xavier"
+    ],
+    [
+      2024,
+      "Akron"
+    ],
+    [
+      2024,
+      "Alabama"
+    ],
+    [
+      2024,
+      "Arizona"
+    ],
+    [
+      2024,
+      "Auburn"
+    ],
+    [
+      2024,
+      "BYU"
+    ],
+    [
+      2024,
+      "Baylor"
+    ],
+    [
+      2024,
+      "Boise State"
+    ],
+    [
+      2024,
+      "Charleston"
+    ],
+    [
+      2024,
+      "Clemson"
+    ],
+    [
+      2024,
+      "Colgate"
+    ],
+    [
+      2024,
+      "Colorado"
+    ],
+    [
+      2024,
+      "Colorado State"
+    ],
+    [
+      2024,
+      "UConn"
+    ],
+    [
+      2024,
+      "Creighton"
+    ],
+    [
+      2024,
+      "Dayton"
+    ],
+    [
+      2024,
+      "Drake"
+    ],
+    [
+      2024,
+      "Duke"
+    ],
+    [
+      2024,
+      "Duquesne"
+    ],
+    [
+      2024,
+      "Florida"
+    ],
+    [
+      2024,
+      "Florida Atlantic"
+    ],
+    [
+      2024,
+      "Gonzaga"
+    ],
+    [
+      2024,
+      "Grambling"
+    ],
+    [
+      2024,
+      "Grand Canyon"
+    ],
+    [
+      2024,
+      "Houston"
+    ],
+    [
+      2024,
+      "Howard"
+    ],
+    [
+      2024,
+      "Illinois"
+    ],
+    [
+      2024,
+      "Iowa State"
+    ],
+    [
+      2024,
+      "James Madison"
+    ],
+    [
+      2024,
+      "Kansas"
+    ],
+    [
+      2024,
+      "Kentucky"
+    ],
+    [
+      2024,
+      "Long Beach State"
+    ],
+    [
+      2024,
+      "Longwood"
+    ],
+    [
+      2024,
+      "Marquette"
+    ],
+    [
+      2024,
+      "McNeese"
+    ],
+    [
+      2024,
+      "Michigan State"
+    ],
+    [
+      2024,
+      "Mississippi State"
+    ],
+    [
+      2024,
+      "Montana State"
+    ],
+    [
+      2024,
+      "Morehead State"
+    ],
+    [
+      2024,
+      "N.C. State"
+    ],
+    [
+      2024,
+      "Nebraska"
+    ],
+    [
+      2024,
+      "Nevada"
+    ],
+    [
+      2024,
+      "New Mexico"
+    ],
+    [
+      2024,
+      "North Carolina"
+    ],
+    [
+      2024,
+      "Northwestern"
+    ],
+    [
+      2024,
+      "Oakland"
+    ],
+    [
+      2024,
+      "Oregon"
+    ],
+    [
+      2024,
+      "Purdue"
+    ],
+    [
+      2024,
+      "Saint Mary's"
+    ],
+    [
+      2024,
+      "Saint Peter's"
+    ],
+    [
+      2024,
+      "Samford"
+    ],
+    [
+      2024,
+      "San Diego State"
+    ],
+    [
+      2024,
+      "South Carolina"
+    ],
+    [
+      2024,
+      "South Dakota State"
+    ],
+    [
+      2024,
+      "Stetson"
+    ],
+    [
+      2024,
+      "Stetson"
+    ],
+    [
+      2024,
+      "TCU"
+    ],
+    [
+      2024,
+      "Tennessee"
+    ],
+    [
+      2024,
+      "Texas"
+    ],
+    [
+      2024,
+      "Texas A&M"
+    ],
+    [
+      2024,
+      "Texas Tech"
+    ],
+    [
+      2024,
+      "UAB"
+    ],
+    [
+      2024,
+      "Utah State"
+    ],
+    [
+      2024,
+      "Vermont"
+    ],
+    [
+      2024,
+      "Virginia"
+    ],
+    [
+      2024,
+      "Wagner"
+    ],
+    [
+      2024,
+      "Washington State"
+    ],
+    [
+      2024,
+      "Western Kentucky"
+    ],
+    [
+      2024,
+      "Wisconsin"
+    ],
+    [
+      2024,
+      "Yale"
+    ],
+    [
+      2025,
+      "Akron"
+    ],
+    [
+      2025,
+      "Alabama"
+    ],
+    [
+      2025,
+      "Alabama State"
+    ],
+    [
+      2025,
+      "American"
+    ],
+    [
+      2025,
+      "Arizona"
+    ],
+    [
+      2025,
+      "Arkansas"
+    ],
+    [
+      2025,
+      "Auburn"
+    ],
+    [
+      2025,
+      "BYU"
+    ],
+    [
+      2025,
+      "Baylor"
+    ],
+    [
+      2025,
+      "Bryant"
+    ],
+    [
+      2025,
+      "Clemson"
+    ],
+    [
+      2025,
+      "Colorado State"
+    ],
+    [
+      2025,
+      "UConn"
+    ],
+    [
+      2025,
+      "Creighton"
+    ],
+    [
+      2025,
+      "Drake"
+    ],
+    [
+      2025,
+      "Duke"
+    ],
+    [
+      2025,
+      "Florida"
+    ],
+    [
+      2025,
+      "Georgia"
+    ],
+    [
+      2025,
+      "Gonzaga"
+    ],
+    [
+      2025,
+      "Grand Canyon"
+    ],
+    [
+      2025,
+      "High Point"
+    ],
+    [
+      2025,
+      "Houston"
+    ],
+    [
+      2025,
+      "Illinois"
+    ],
+    [
+      2025,
+      "Iowa State"
+    ],
+    [
+      2025,
+      "Kansas"
+    ],
+    [
+      2025,
+      "Kentucky"
+    ],
+    [
+      2025,
+      "Liberty"
+    ],
+    [
+      2025,
+      "Lipscomb"
+    ],
+    [
+      2025,
+      "Louisville"
+    ],
+    [
+      2025,
+      "Marquette"
+    ],
+    [
+      2025,
+      "Maryland"
+    ],
+    [
+      2025,
+      "McNeese"
+    ],
+    [
+      2025,
+      "Memphis"
+    ],
+    [
+      2025,
+      "Michigan"
+    ],
+    [
+      2025,
+      "Michigan State"
+    ],
+    [
+      2025,
+      "Mississippi"
+    ],
+    [
+      2025,
+      "Mississippi State"
+    ],
+    [
+      2025,
+      "Missouri"
+    ],
+    [
+      2025,
+      "Montana"
+    ],
+    [
+      2025,
+      "Mount St. Mary's"
+    ],
+    [
+      2025,
+      "Nebraska Omaha"
+    ],
+    [
+      2025,
+      "New Mexico"
+    ],
+    [
+      2025,
+      "Norfolk State"
+    ],
+    [
+      2025,
+      "North Carolina"
+    ],
+    [
+      2025,
+      "Oklahoma"
+    ],
+    [
+      2025,
+      "Oregon"
+    ],
+    [
+      2025,
+      "Purdue"
+    ],
+    [
+      2025,
+      "Robert Morris"
+    ],
+    [
+      2025,
+      "SIUE"
+    ],
+    [
+      2025,
+      "Saint Francis"
+    ],
+    [
+      2025,
+      "Saint Mary's"
+    ],
+    [
+      2025,
+      "San Diego State"
+    ],
+    [
+      2025,
+      "St. John's"
+    ],
+    [
+      2025,
+      "Tennessee"
+    ],
+    [
+      2025,
+      "Texas"
+    ],
+    [
+      2025,
+      "Texas A&M"
+    ],
+    [
+      2025,
+      "Texas Tech"
+    ],
+    [
+      2025,
+      "Troy"
+    ],
+    [
+      2025,
+      "UC San Diego"
+    ],
+    [
+      2025,
+      "UCLA"
+    ],
+    [
+      2025,
+      "UNC Wilmington"
+    ],
+    [
+      2025,
+      "Utah State"
+    ],
+    [
+      2025,
+      "VCU"
+    ],
+    [
+      2025,
+      "Vanderbilt"
+    ],
+    [
+      2025,
+      "Wisconsin"
+    ],
+    [
+      2025,
+      "Wofford"
+    ],
+    [
+      2025,
+      "Xavier"
+    ],
+    [
+      2025,
+      "Yale"
+    ],
+    [
+      2026,
+      "Akron"
+    ],
+    [
+      2026,
+      "Alabama"
+    ],
+    [
+      2026,
+      "Arizona"
+    ],
+    [
+      2026,
+      "Arkansas"
+    ],
+    [
+      2026,
+      "BYU"
+    ],
+    [
+      2026,
+      "Cal Baptist"
+    ],
+    [
+      2026,
+      "Clemson"
+    ],
+    [
+      2026,
+      "UConn"
+    ],
+    [
+      2026,
+      "Duke"
+    ],
+    [
+      2026,
+      "Florida"
+    ],
+    [
+      2026,
+      "Georgia"
+    ],
+    [
+      2026,
+      "Gonzaga"
+    ],
+    [
+      2026,
+      "Hawaii"
+    ],
+    [
+      2026,
+      "High Point"
+    ],
+    [
+      2026,
+      "Hofstra"
+    ],
+    [
+      2026,
+      "Houston"
+    ],
+    [
+      2026,
+      "Idaho"
+    ],
+    [
+      2026,
+      "Illinois"
+    ],
+    [
+      2026,
+      "Iowa"
+    ],
+    [
+      2026,
+      "Iowa State"
+    ],
+    [
+      2026,
+      "Kansas"
+    ],
+    [
+      2026,
+      "Kentucky"
+    ],
+    [
+      2026,
+      "Lehigh"
+    ],
+    [
+      2026,
+      "Lipscomb"
+    ],
+    [
+      2026,
+      "Louisville"
+    ],
+    [
+      2026,
+      "McNeese"
+    ],
+    [
+      2026,
+      "Miami (OH)"
+    ],
+    [
+      2026,
+      "Michigan"
+    ],
+    [
+      2026,
+      "Michigan State"
+    ],
+    [
+      2026,
+      "Missouri"
+    ],
+    [
+      2026,
+      "N.C. State"
+    ],
+    [
+      2026,
+      "Nebraska"
+    ],
+    [
+      2026,
+      "North Carolina"
+    ],
+    [
+      2026,
+      "North Dakota State"
+    ],
+    [
+      2026,
+      "Northern Iowa"
+    ],
+    [
+      2026,
+      "Ohio State"
+    ],
+    [
+      2026,
+      "Penn"
+    ],
+    [
+      2026,
+      "Prairie View A&M"
+    ],
+    [
+      2026,
+      "Purdue"
+    ],
+    [
+      2026,
+      "Queens"
+    ],
+    [
+      2026,
+      "SIUE"
+    ],
+    [
+      2026,
+      "SMU"
+    ],
+    [
+      2026,
+      "Saint Louis"
+    ],
+    [
+      2026,
+      "Saint Mary's"
+    ],
+    [
+      2026,
+      "Santa Clara"
+    ],
+    [
+      2026,
+      "Siena"
+    ],
+    [
+      2026,
+      "South Florida"
+    ],
+    [
+      2026,
+      "St. John's"
+    ],
+    [
+      2026,
+      "TCU"
+    ],
+    [
+      2026,
+      "Tennessee"
+    ],
+    [
+      2026,
+      "Texas"
+    ],
+    [
+      2026,
+      "Texas A&M"
+    ],
+    [
+      2026,
+      "Texas Tech"
+    ],
+    [
+      2026,
+      "Troy"
+    ],
+    [
+      2026,
+      "UCF"
+    ],
+    [
+      2026,
+      "UCLA"
+    ],
+    [
+      2026,
+      "UMBC"
+    ],
+    [
+      2026,
+      "Utah State"
+    ],
+    [
+      2026,
+      "VCU"
+    ],
+    [
+      2026,
+      "Vanderbilt"
+    ],
+    [
+      2026,
+      "Villanova"
+    ],
+    [
+      2026,
+      "Virginia"
+    ],
+    [
+      2026,
+      "Wisconsin"
+    ],
+    [
+      2026,
+      "Wright State"
+    ]
+  ],
+  "key_to_idx": {
+    "2001_Alabama State": 0,
+    "2001_Arizona": 1,
+    "2001_Arkansas": 2,
+    "2001_BYU": 3,
+    "2001_Boston College": 4,
+    "2001_Butler": 5,
+    "2001_Cal State Northridge": 6,
+    "2001_California": 7,
+    "2001_Charlotte": 8,
+    "2001_Cincinnati": 9,
+    "2001_Creighton": 10,
+    "2001_Duke": 11,
+    "2001_Eastern Illinois": 12,
+    "2001_Florida": 13,
+    "2001_Fresno State": 14,
+    "2001_George Mason": 15,
+    "2001_Georgetown": 16,
+    "2001_Georgia": 17,
+    "2001_Georgia State": 18,
+    "2001_Georgia Tech": 19,
+    "2001_Gonzaga": 20,
+    "2001_Hampton": 21,
+    "2001_Hawaii": 22,
+    "2001_Hofstra": 23,
+    "2001_Holy Cross": 24,
+    "2001_Illinois": 25,
+    "2001_Indiana": 26,
+    "2001_Indiana State": 27,
+    "2001_Iona": 28,
+    "2001_Iowa": 29,
+    "2001_Iowa State": 30,
+    "2001_Kansas": 31,
+    "2001_Kent St.": 32,
+    "2001_Kentucky": 33,
+    "2001_Maryland": 34,
+    "2001_Michigan State": 35,
+    "2001_Mississippi": 36,
+    "2001_Missouri": 37,
+    "2001_Monmouth": 38,
+    "2001_North Carolina": 39,
+    "2001_Northwestern St.": 40,
+    "2001_Notre Dame": 41,
+    "2001_Ohio State": 42,
+    "2001_Oklahoma": 43,
+    "2001_Oklahoma State": 44,
+    "2001_Penn State": 45,
+    "2001_Princeton": 46,
+    "2001_Providence": 47,
+    "2001_Saint Joseph's": 48,
+    "2001_Southern Utah": 49,
+    "2001_Stanford": 50,
+    "2001_Syracuse": 51,
+    "2001_Temple": 52,
+    "2001_Tennessee": 53,
+    "2001_Texas": 54,
+    "2001_UCLA": 55,
+    "2001_UNC Greensboro": 56,
+    "2001_Southern California": 57,
+    "2001_Utah State": 58,
+    "2001_Virginia": 59,
+    "2001_Wake Forest": 60,
+    "2001_Western Kentucky": 61,
+    "2001_Winthrop": 62,
+    "2001_Wisconsin": 63,
+    "2001_Xavier": 64,
+    "2002_Alabama": 65,
+    "2002_Alcorn State": 66,
+    "2002_Arizona": 67,
+    "2002_Boston College": 68,
+    "2002_Boston University": 69,
+    "2002_California": 70,
+    "2002_Central Connecticut State": 71,
+    "2002_Charlotte": 72,
+    "2002_Cincinnati": 73,
+    "2002_UConn": 74,
+    "2002_Creighton": 75,
+    "2002_Davidson": 76,
+    "2002_Duke": 77,
+    "2002_Florida": 78,
+    "2002_Florida Atlantic": 79,
+    "2002_Georgia": 80,
+    "2002_Gonzaga": 81,
+    "2002_Hampton": 82,
+    "2002_Hawaii": 83,
+    "2002_Holy Cross": 84,
+    "2002_Illinois": 85,
+    "2002_Illinois Chicago": 86,
+    "2002_Indiana": 87,
+    "2002_Kansas": 88,
+    "2002_Kent St.": 89,
+    "2002_Kentucky": 90,
+    "2002_Marquette": 91,
+    "2002_Maryland": 92,
+    "2002_McNeese": 93,
+    "2002_Miami": 94,
+    "2002_Michigan State": 95,
+    "2002_Mississippi": 96,
+    "2002_Mississippi State": 97,
+    "2002_Missouri": 98,
+    "2002_Montana": 99,
+    "2002_Murray State": 100,
+    "2002_N.C. State": 101,
+    "2002_Notre Dame": 102,
+    "2002_Ohio State": 103,
+    "2002_Oklahoma": 104,
+    "2002_Oklahoma State": 105,
+    "2002_Oregon": 106,
+    "2002_Penn": 107,
+    "2002_Pepperdine": 108,
+    "2002_Pittsburgh": 109,
+    "2002_San Diego State": 110,
+    "2002_Siena": 111,
+    "2002_Southern Illinois": 112,
+    "2002_St. John's": 113,
+    "2002_Stanford": 114,
+    "2002_Texas": 115,
+    "2002_Texas Tech": 116,
+    "2002_Tulsa": 117,
+    "2002_UC Santa Barbara": 118,
+    "2002_UCLA": 119,
+    "2002_UNC Wilmington": 120,
+    "2002_Southern California": 121,
+    "2002_Utah": 122,
+    "2002_Valparaiso": 123,
+    "2002_Wake Forest": 124,
+    "2002_Western Kentucky": 125,
+    "2002_Winthrop": 126,
+    "2002_Wisconsin": 127,
+    "2002_Wyoming": 128,
+    "2002_Xavier": 129,
+    "2003_Alabama": 130,
+    "2003_Arizona": 131,
+    "2003_Arizona State": 132,
+    "2003_Auburn": 133,
+    "2003_Austin Peay": 134,
+    "2003_BYU": 135,
+    "2003_Butler": 136,
+    "2003_California": 137,
+    "2003_Central Michigan": 138,
+    "2003_Cincinnati": 139,
+    "2003_Colorado": 140,
+    "2003_Colorado State": 141,
+    "2003_UConn": 142,
+    "2003_Creighton": 143,
+    "2003_Dayton": 144,
+    "2003_Duke": 145,
+    "2003_East Tennessee St.": 146,
+    "2003_Florida": 147,
+    "2003_Gonzaga": 148,
+    "2003_Holy Cross": 149,
+    "2003_IUPUI": 150,
+    "2003_Illinois": 151,
+    "2003_Indiana": 152,
+    "2003_Kansas": 153,
+    "2003_Kentucky": 154,
+    "2003_LSU": 155,
+    "2003_Louisville": 156,
+    "2003_Manhattan": 157,
+    "2003_Marquette": 158,
+    "2003_Maryland": 159,
+    "2003_Memphis": 160,
+    "2003_Michigan State": 161,
+    "2003_Milwaukee": 162,
+    "2003_Mississippi State": 163,
+    "2003_Missouri": 164,
+    "2003_NC State": 165,
+    "2003_Notre Dame": 166,
+    "2003_Oklahoma": 167,
+    "2003_Oklahoma State": 168,
+    "2003_Oregon": 169,
+    "2003_Penn": 170,
+    "2003_Pittsburgh": 171,
+    "2003_Purdue": 172,
+    "2003_Saint Joseph's": 173,
+    "2003_Sam Houston State": 174,
+    "2003_San Diego": 175,
+    "2003_South Carolina St.": 176,
+    "2003_Southern Illinois": 177,
+    "2003_Stanford": 178,
+    "2003_Syracuse": 179,
+    "2003_Texas": 180,
+    "2003_Texas Southern": 181,
+    "2003_Troy St.": 182,
+    "2003_Tulsa": 183,
+    "2003_UNC Asheville": 184,
+    "2003_UNC Wilmington": 185,
+    "2003_Utah": 186,
+    "2003_Utah State": 187,
+    "2003_Vermont": 188,
+    "2003_Wagner": 189,
+    "2003_Wake Forest": 190,
+    "2003_Weber State": 191,
+    "2003_Western Kentucky": 192,
+    "2003_Wisconsin": 193,
+    "2003_Xavier": 194,
+    "2004_Air Force": 195,
+    "2004_Alabama": 196,
+    "2004_Alabama State": 197,
+    "2004_Arizona": 198,
+    "2004_BYU": 199,
+    "2004_Boston College": 200,
+    "2004_Charlotte": 201,
+    "2004_Cincinnati": 202,
+    "2004_UConn": 203,
+    "2004_Dayton": 204,
+    "2004_DePaul": 205,
+    "2004_Duke": 206,
+    "2004_East Tennessee St.": 207,
+    "2004_Eastern Washington": 208,
+    "2004_Florida": 209,
+    "2004_Florida A&M": 210,
+    "2004_Georgia Tech": 211,
+    "2004_Gonzaga": 212,
+    "2004_Illinois": 213,
+    "2004_Illinois Chicago": 214,
+    "2004_Kansas": 215,
+    "2004_Kentucky": 216,
+    "2004_Lehigh": 217,
+    "2004_Liberty": 218,
+    "2004_Louisiana Lafayette": 219,
+    "2004_Louisville": 220,
+    "2004_Manhattan": 221,
+    "2004_Maryland": 222,
+    "2004_Memphis": 223,
+    "2004_Michigan State": 224,
+    "2004_Mississippi State": 225,
+    "2004_Monmouth": 226,
+    "2004_Murray State": 227,
+    "2004_Nevada": 228,
+    "2004_North Carolina": 229,
+    "2004_NC State": 230,
+    "2004_Northern Iowa": 231,
+    "2004_Oklahoma State": 232,
+    "2004_Pacific": 233,
+    "2004_Pittsburgh": 234,
+    "2004_Princeton": 235,
+    "2004_Providence": 236,
+    "2004_Richmond": 237,
+    "2004_Saint Joseph's": 238,
+    "2004_Seton Hall": 239,
+    "2004_South Carolina": 240,
+    "2004_Southern Illinois": 241,
+    "2004_Stanford": 242,
+    "2004_Syracuse": 243,
+    "2004_Texas": 244,
+    "2004_Texas Tech": 245,
+    "2004_UAB": 246,
+    "2004_UCF": 247,
+    "2004_UTEP": 248,
+    "2004_UT San Antonio": 249,
+    "2004_Utah": 250,
+    "2004_VCU": 251,
+    "2004_Valparaiso": 252,
+    "2004_Vanderbilt": 253,
+    "2004_Vermont": 254,
+    "2004_Wake Forest": 255,
+    "2004_Washington": 256,
+    "2004_Western Michigan": 257,
+    "2004_Wisconsin": 258,
+    "2004_Xavier": 259,
+    "2005_Alabama": 260,
+    "2005_Alabama A&M": 261,
+    "2005_Arizona": 262,
+    "2005_Boston College": 263,
+    "2005_Bucknell": 264,
+    "2005_Charlotte": 265,
+    "2005_Chattanooga": 266,
+    "2005_Cincinnati": 267,
+    "2005_UConn": 268,
+    "2005_Creighton": 269,
+    "2005_Delaware State": 270,
+    "2005_Duke": 271,
+    "2005_Eastern Kentucky": 272,
+    "2005_Fairleigh Dickinson": 273,
+    "2005_Florida": 274,
+    "2005_George Washington": 275,
+    "2005_Georgia Tech": 276,
+    "2005_Gonzaga": 277,
+    "2005_Illinois": 278,
+    "2005_Iowa": 279,
+    "2005_Iowa State": 280,
+    "2005_Kansas": 281,
+    "2005_Kentucky": 282,
+    "2005_LSU": 283,
+    "2005_Louisiana Lafayette": 284,
+    "2005_Louisville": 285,
+    "2005_Michigan State": 286,
+    "2005_Milwaukee": 287,
+    "2005_Minnesota": 288,
+    "2005_Mississippi State": 289,
+    "2005_Montana": 290,
+    "2005_Nevada": 291,
+    "2005_New Mexico": 292,
+    "2005_Niagara": 293,
+    "2005_North Carolina": 294,
+    "2005_NC State": 295,
+    "2005_Northern Iowa": 296,
+    "2005_Oakland": 297,
+    "2005_Ohio": 298,
+    "2005_Oklahoma": 299,
+    "2005_Oklahoma State": 300,
+    "2005_Old Dominion": 301,
+    "2005_Pacific": 302,
+    "2005_Penn": 303,
+    "2005_Pittsburgh": 304,
+    "2005_Saint Mary's": 305,
+    "2005_Southeastern Louisiana": 306,
+    "2005_Southern Illinois": 307,
+    "2005_Stanford": 308,
+    "2005_Syracuse": 309,
+    "2005_Texas": 310,
+    "2005_Texas Tech": 311,
+    "2005_UAB": 312,
+    "2005_UCF": 313,
+    "2005_UCLA": 314,
+    "2005_UTEP": 315,
+    "2005_Utah": 316,
+    "2005_Utah State": 317,
+    "2005_Vermont": 318,
+    "2005_Villanova": 319,
+    "2005_Wake Forest": 320,
+    "2005_Washington": 321,
+    "2005_West Virginia": 322,
+    "2005_Winthrop": 323,
+    "2005_Wisconsin": 324,
+    "2006_Air Force": 325,
+    "2006_Alabama": 326,
+    "2006_Albany": 327,
+    "2006_Arizona": 328,
+    "2006_Arkansas": 329,
+    "2006_Belmont": 330,
+    "2006_Boston College": 331,
+    "2006_Bradley": 332,
+    "2006_Bucknell": 333,
+    "2006_California": 334,
+    "2006_UConn": 335,
+    "2006_Davidson": 336,
+    "2006_Duke": 337,
+    "2006_Florida": 338,
+    "2006_George Mason": 339,
+    "2006_George Washington": 340,
+    "2006_Georgetown": 341,
+    "2006_Gonzaga": 342,
+    "2006_Hampton": 343,
+    "2006_Illinois": 344,
+    "2006_Indiana": 345,
+    "2006_Iona": 346,
+    "2006_Iowa": 347,
+    "2006_Kansas": 348,
+    "2006_Kent St.": 349,
+    "2006_Kentucky": 350,
+    "2006_LSU": 351,
+    "2006_Marquette": 352,
+    "2006_Memphis": 353,
+    "2006_Michigan State": 354,
+    "2006_Milwaukee": 355,
+    "2006_Monmouth": 356,
+    "2006_Montana": 357,
+    "2006_Murray State": 358,
+    "2006_Nevada": 359,
+    "2006_North Carolina": 360,
+    "2006_NC State": 361,
+    "2006_Northern Iowa": 362,
+    "2006_Northwestern St.": 363,
+    "2006_Ohio State": 364,
+    "2006_Oklahoma": 365,
+    "2006_Oral Roberts": 366,
+    "2006_Pacific": 367,
+    "2006_Penn": 368,
+    "2006_Pittsburgh": 369,
+    "2006_San Diego State": 370,
+    "2006_Seton Hall": 371,
+    "2006_South Alabama": 372,
+    "2006_Southern": 373,
+    "2006_Southern Illinois": 374,
+    "2006_Syracuse": 375,
+    "2006_Tennessee": 376,
+    "2006_Texas": 377,
+    "2006_Texas A&M": 378,
+    "2006_UAB": 379,
+    "2006_UCLA": 380,
+    "2006_UNC Wilmington": 381,
+    "2006_Utah State": 382,
+    "2006_Villanova": 383,
+    "2006_Washington": 384,
+    "2006_West Virginia": 385,
+    "2006_Wichita State": 386,
+    "2006_Winthrop": 387,
+    "2006_Wisconsin": 388,
+    "2006_Xavier": 389,
+    "2007_Albany": 390,
+    "2007_Arizona": 391,
+    "2007_Arkansas": 392,
+    "2007_BYU": 393,
+    "2007_Belmont": 394,
+    "2007_Boston College": 395,
+    "2007_Butler": 396,
+    "2007_Central Connecticut State": 397,
+    "2007_Creighton": 398,
+    "2007_Davidson": 399,
+    "2007_Duke": 400,
+    "2007_Eastern Kentucky": 401,
+    "2007_Florida": 402,
+    "2007_Florida A&M": 403,
+    "2007_George Washington": 404,
+    "2007_Georgetown": 405,
+    "2007_Georgia Tech": 406,
+    "2007_Gonzaga": 407,
+    "2007_Holy Cross": 408,
+    "2007_Illinois": 409,
+    "2007_Indiana": 410,
+    "2007_Jackson St.": 411,
+    "2007_Kansas": 412,
+    "2007_Kentucky": 413,
+    "2007_Long Beach State": 414,
+    "2007_Louisville": 415,
+    "2007_Marquette": 416,
+    "2007_Maryland": 417,
+    "2007_Memphis": 418,
+    "2007_Miami (OH)": 419,
+    "2007_Michigan State": 420,
+    "2007_Nevada": 421,
+    "2007_New Mexico State": 422,
+    "2007_Niagara": 423,
+    "2007_North Carolina": 424,
+    "2007_North Texas": 425,
+    "2007_Notre Dame": 426,
+    "2007_Ohio State": 427,
+    "2007_Old Dominion": 428,
+    "2007_Oral Roberts": 429,
+    "2007_Oregon": 430,
+    "2007_Penn": 431,
+    "2007_Pittsburgh": 432,
+    "2007_Purdue": 433,
+    "2007_Southern Illinois": 434,
+    "2007_Stanford": 435,
+    "2007_Tennessee": 436,
+    "2007_Texas": 437,
+    "2007_Texas A&M": 438,
+    "2007_Texas A&M-CC": 439,
+    "2007_Texas Tech": 440,
+    "2007_UCLA": 441,
+    "2007_UNLV": 442,
+    "2007_Southern California": 443,
+    "2007_VCU": 444,
+    "2007_Vanderbilt": 445,
+    "2007_Villanova": 446,
+    "2007_Virginia": 447,
+    "2007_Virginia Tech": 448,
+    "2007_Washington State": 449,
+    "2007_Weber State": 450,
+    "2007_Winthrop": 451,
+    "2007_Wisconsin": 452,
+    "2007_Wright State": 453,
+    "2007_Xavier": 454,
+    "2008_American": 455,
+    "2008_Arizona": 456,
+    "2008_Arkansas": 457,
+    "2008_Austin Peay": 458,
+    "2008_BYU": 459,
+    "2008_Baylor": 460,
+    "2008_Belmont": 461,
+    "2008_Boise State": 462,
+    "2008_Butler": 463,
+    "2008_Cal State Fullerton": 464,
+    "2008_Clemson": 465,
+    "2008_UConn": 466,
+    "2008_Coppin State": 467,
+    "2008_Cornell": 468,
+    "2008_Davidson": 469,
+    "2008_Drake": 470,
+    "2008_Duke": 471,
+    "2008_George Mason": 472,
+    "2008_Georgetown": 473,
+    "2008_Georgia": 474,
+    "2008_Gonzaga": 475,
+    "2008_Indiana": 476,
+    "2008_Kansas": 477,
+    "2008_Kansas State": 478,
+    "2008_Kent St.": 479,
+    "2008_Kentucky": 480,
+    "2008_Louisville": 481,
+    "2008_Marquette": 482,
+    "2008_Memphis": 483,
+    "2008_Miami": 484,
+    "2008_Michigan State": 485,
+    "2008_Mississippi State": 486,
+    "2008_Mississippi Valley St.": 487,
+    "2008_Mount St. Mary's": 488,
+    "2008_North Carolina": 489,
+    "2008_Notre Dame": 490,
+    "2008_Oklahoma": 491,
+    "2008_Oral Roberts": 492,
+    "2008_Oregon": 493,
+    "2008_Pittsburgh": 494,
+    "2008_Portland State": 495,
+    "2008_Purdue": 496,
+    "2008_Saint Joseph's": 497,
+    "2008_Saint Mary's": 498,
+    "2008_San Diego": 499,
+    "2008_Siena": 500,
+    "2008_South Alabama": 501,
+    "2008_Stanford": 502,
+    "2008_Temple": 503,
+    "2008_Tennessee": 504,
+    "2008_Texas": 505,
+    "2008_Texas A&M": 506,
+    "2008_UCLA": 507,
+    "2008_UMBC": 508,
+    "2008_UNLV": 509,
+    "2008_Southern California": 510,
+    "2008_UT Arlington": 511,
+    "2008_Vanderbilt": 512,
+    "2008_Villanova": 513,
+    "2008_Washington State": 514,
+    "2008_West Virginia": 515,
+    "2008_Western Kentucky": 516,
+    "2008_Winthrop": 517,
+    "2008_Wisconsin": 518,
+    "2008_Xavier": 519,
+    "2009_Akron": 520,
+    "2009_Alabama State": 521,
+    "2009_American": 522,
+    "2009_Arizona": 523,
+    "2009_Arizona State": 524,
+    "2009_BYU": 525,
+    "2009_Binghamton": 526,
+    "2009_Boston College": 527,
+    "2009_Butler": 528,
+    "2009_Cal State Northridge": 529,
+    "2009_California": 530,
+    "2009_Chattanooga": 531,
+    "2009_Clemson": 532,
+    "2009_Cleveland State": 533,
+    "2009_UConn": 534,
+    "2009_Cornell": 535,
+    "2009_Dayton": 536,
+    "2009_Duke": 537,
+    "2009_East Tennessee St.": 538,
+    "2009_Florida St.": 539,
+    "2009_Gonzaga": 540,
+    "2009_Illinois": 541,
+    "2009_Kansas": 542,
+    "2009_LSU": 543,
+    "2009_Louisville": 544,
+    "2009_Marquette": 545,
+    "2009_Maryland": 546,
+    "2009_Memphis": 547,
+    "2009_Michigan": 548,
+    "2009_Michigan State": 549,
+    "2009_Minnesota": 550,
+    "2009_Mississippi State": 551,
+    "2009_Missouri": 552,
+    "2009_Morehead State": 553,
+    "2009_Morgan St.": 554,
+    "2009_North Carolina": 555,
+    "2009_North Dakota State": 556,
+    "2009_Northern Iowa": 557,
+    "2009_Ohio State": 558,
+    "2009_Oklahoma": 559,
+    "2009_Oklahoma State": 560,
+    "2009_Pittsburgh": 561,
+    "2009_Portland State": 562,
+    "2009_Purdue": 563,
+    "2009_Radford": 564,
+    "2009_Robert Morris": 565,
+    "2009_Siena": 566,
+    "2009_Stephen F. Austin": 567,
+    "2009_Syracuse": 568,
+    "2009_Temple": 569,
+    "2009_Tennessee": 570,
+    "2009_Texas": 571,
+    "2009_Texas A&M": 572,
+    "2009_UCLA": 573,
+    "2009_Southern California": 574,
+    "2009_Utah": 576,
+    "2009_Utah State": 577,
+    "2009_VCU": 578,
+    "2009_Villanova": 579,
+    "2009_Wake Forest": 580,
+    "2009_Washington": 581,
+    "2009_West Virginia": 582,
+    "2009_Western Kentucky": 583,
+    "2009_Wisconsin": 584,
+    "2009_Xavier": 585,
+    "2010_Arkansas Pine Bluff": 586,
+    "2010_BYU": 587,
+    "2010_Baylor": 588,
+    "2010_Butler": 589,
+    "2010_California": 590,
+    "2010_Clemson": 591,
+    "2010_Cornell": 592,
+    "2010_Duke": 593,
+    "2010_East Tennessee St.": 594,
+    "2010_Florida": 595,
+    "2010_Florida St.": 596,
+    "2010_Georgetown": 597,
+    "2010_Georgia Tech": 598,
+    "2010_Gonzaga": 599,
+    "2010_Houston": 600,
+    "2010_Kansas": 601,
+    "2010_Kansas State": 602,
+    "2010_Kentucky": 603,
+    "2010_Lehigh": 604,
+    "2010_Louisville": 605,
+    "2010_Marquette": 606,
+    "2010_Maryland": 607,
+    "2010_Michigan State": 608,
+    "2010_Minnesota": 609,
+    "2010_Missouri": 610,
+    "2010_Montana": 611,
+    "2010_Morgan St.": 612,
+    "2010_Murray State": 613,
+    "2010_New Mexico": 614,
+    "2010_New Mexico State": 615,
+    "2010_North Texas": 616,
+    "2010_Northern Iowa": 617,
+    "2010_Notre Dame": 618,
+    "2010_Oakland": 619,
+    "2010_Ohio": 620,
+    "2010_Ohio State": 621,
+    "2010_Oklahoma State": 622,
+    "2010_Old Dominion": 623,
+    "2010_Pittsburgh": 624,
+    "2010_Purdue": 625,
+    "2010_Richmond": 626,
+    "2010_Robert Morris": 627,
+    "2010_Saint Mary's": 628,
+    "2010_Sam Houston State": 629,
+    "2010_San Diego State": 630,
+    "2010_Siena": 631,
+    "2010_Syracuse": 632,
+    "2010_Temple": 633,
+    "2010_Tennessee": 634,
+    "2010_Texas": 635,
+    "2010_Texas A&M": 636,
+    "2010_UC Santa Barbara": 637,
+    "2010_UNLV": 638,
+    "2010_UTEP": 639,
+    "2010_Utah State": 640,
+    "2010_Vanderbilt": 641,
+    "2010_Vermont": 642,
+    "2010_Villanova": 643,
+    "2010_Wake Forest": 644,
+    "2010_Washington": 645,
+    "2010_West Virginia": 646,
+    "2010_Winthrop": 647,
+    "2010_Wisconsin": 648,
+    "2010_Wofford": 649,
+    "2010_Xavier": 650,
+    "2011_Akron": 651,
+    "2011_Alabama State": 652,
+    "2011_Arizona": 653,
+    "2011_Arkansas Little Rock": 654,
+    "2011_BYU": 655,
+    "2011_Belmont": 656,
+    "2011_Boston University": 657,
+    "2011_Bucknell": 658,
+    "2011_Butler": 659,
+    "2011_Cincinnati": 660,
+    "2011_Clemson": 661,
+    "2011_UConn": 662,
+    "2011_Duke": 663,
+    "2011_Florida": 664,
+    "2011_Florida St.": 665,
+    "2011_George Mason": 666,
+    "2011_Georgetown": 667,
+    "2011_Georgia": 668,
+    "2011_Gonzaga": 669,
+    "2011_Hampton": 670,
+    "2011_Illinois": 671,
+    "2011_Indiana State": 672,
+    "2011_Kansas": 673,
+    "2011_Kansas State": 674,
+    "2011_Kentucky": 675,
+    "2011_LIU": 676,
+    "2011_Louisville": 677,
+    "2011_Marquette": 678,
+    "2011_Memphis": 679,
+    "2011_Michigan": 680,
+    "2011_Michigan State": 681,
+    "2011_Missouri": 682,
+    "2011_Morehead State": 683,
+    "2011_North Carolina": 684,
+    "2011_Northern Colorado": 685,
+    "2011_Notre Dame": 686,
+    "2011_Oakland": 687,
+    "2011_Ohio State": 688,
+    "2011_Old Dominion": 689,
+    "2011_Penn State": 690,
+    "2011_Pittsburgh": 691,
+    "2011_Princeton": 692,
+    "2011_Purdue": 693,
+    "2011_Richmond": 694,
+    "2011_Saint Peter's": 695,
+    "2011_San Diego State": 696,
+    "2011_St. John's": 697,
+    "2011_Syracuse": 698,
+    "2011_Temple": 699,
+    "2011_Tennessee": 700,
+    "2011_Texas": 701,
+    "2011_Texas A&M": 702,
+    "2011_UAB": 703,
+    "2011_UC Santa Barbara": 704,
+    "2011_UCLA": 705,
+    "2011_UNC Asheville": 706,
+    "2011_UNLV": 707,
+    "2011_Southern California": 708,
+    "2011_UT San Antonio": 709,
+    "2011_Utah State": 710,
+    "2011_VCU": 711,
+    "2011_Vanderbilt": 712,
+    "2011_Villanova": 713,
+    "2011_Washington": 714,
+    "2011_West Virginia": 715,
+    "2011_Wisconsin": 716,
+    "2011_Wofford": 717,
+    "2011_Xavier": 718,
+    "2012_Alabama": 719,
+    "2012_BYU": 720,
+    "2012_Baylor": 721,
+    "2012_Belmont": 722,
+    "2012_California": 723,
+    "2012_Cincinnati": 724,
+    "2012_Colorado": 725,
+    "2012_Colorado State": 726,
+    "2012_UConn": 727,
+    "2012_Creighton": 728,
+    "2012_Davidson": 729,
+    "2012_Detroit Mercy": 730,
+    "2012_Duke": 731,
+    "2012_Florida": 732,
+    "2012_Florida St.": 733,
+    "2012_Georgetown": 734,
+    "2012_Gonzaga": 735,
+    "2012_Harvard": 736,
+    "2012_Indiana": 737,
+    "2012_Iona": 738,
+    "2012_Iowa State": 739,
+    "2012_Kansas": 740,
+    "2012_Kansas State": 741,
+    "2012_Kentucky": 742,
+    "2012_LIU": 743,
+    "2012_Lamar": 744,
+    "2012_Lehigh": 745,
+    "2012_Long Beach State": 746,
+    "2012_Louisville": 747,
+    "2012_Loyola MD": 748,
+    "2012_Marquette": 749,
+    "2012_Memphis": 750,
+    "2012_Michigan": 751,
+    "2012_Michigan State": 752,
+    "2012_Mississippi Valley St.": 753,
+    "2012_Missouri": 754,
+    "2012_Montana": 755,
+    "2012_Murray State": 756,
+    "2012_New Mexico": 757,
+    "2012_New Mexico State": 758,
+    "2012_Norfolk State": 759,
+    "2012_North Carolina": 760,
+    "2012_NC State": 761,
+    "2012_Notre Dame": 762,
+    "2012_Ohio": 763,
+    "2012_Ohio State": 764,
+    "2012_Purdue": 765,
+    "2012_Saint Louis": 766,
+    "2012_Saint Mary's": 767,
+    "2012_San Diego State": 768,
+    "2012_South Dakota State": 769,
+    "2012_South Florida": 770,
+    "2012_Southern Miss": 771,
+    "2012_St. Bonaventure": 772,
+    "2012_Syracuse": 773,
+    "2012_Temple": 774,
+    "2012_Texas": 775,
+    "2012_UNC Asheville": 776,
+    "2012_UNLV": 777,
+    "2012_VCU": 778,
+    "2012_Vanderbilt": 779,
+    "2012_Vermont": 780,
+    "2012_Virginia": 781,
+    "2012_West Virginia": 782,
+    "2012_Western Kentucky": 783,
+    "2012_Wichita State": 784,
+    "2012_Wisconsin": 785,
+    "2012_Xavier": 786,
+    "2013_Akron": 787,
+    "2013_Albany": 788,
+    "2013_Arizona": 789,
+    "2013_Belmont": 790,
+    "2013_Boise State": 791,
+    "2013_Bucknell": 792,
+    "2013_Butler": 793,
+    "2013_California": 794,
+    "2013_Cincinnati": 795,
+    "2013_Colorado": 796,
+    "2013_Colorado State": 797,
+    "2013_Creighton": 798,
+    "2013_Davidson": 799,
+    "2013_Duke": 800,
+    "2013_Florida": 801,
+    "2013_Florida Gulf Coast": 802,
+    "2013_Georgetown": 803,
+    "2013_Gonzaga": 804,
+    "2013_Harvard": 805,
+    "2013_Illinois": 806,
+    "2013_Indiana": 807,
+    "2013_Iona": 808,
+    "2013_Iowa State": 809,
+    "2013_James Madison": 810,
+    "2013_Kansas": 811,
+    "2013_Kansas State": 812,
+    "2013_LIU": 813,
+    "2013_La Salle": 814,
+    "2013_Liberty": 815,
+    "2013_Louisville": 816,
+    "2013_Marquette": 817,
+    "2013_Memphis": 818,
+    "2013_Miami": 819,
+    "2013_Michigan": 820,
+    "2013_Michigan State": 821,
+    "2013_Middle Tennessee": 822,
+    "2013_Minnesota": 823,
+    "2013_Mississippi": 824,
+    "2013_Missouri": 825,
+    "2013_Montana": 826,
+    "2013_New Mexico": 827,
+    "2013_New Mexico State": 828,
+    "2013_North Carolina": 829,
+    "2013_North Carolina A&T": 830,
+    "2013_NC State": 831,
+    "2013_Northwestern St.": 832,
+    "2013_Notre Dame": 833,
+    "2013_Ohio State": 834,
+    "2013_Oklahoma": 835,
+    "2013_Oklahoma State": 836,
+    "2013_Oregon": 837,
+    "2013_Pacific": 838,
+    "2013_Pittsburgh": 839,
+    "2013_Saint Louis": 840,
+    "2013_Saint Mary's": 841,
+    "2013_San Diego State": 842,
+    "2013_South Dakota State": 843,
+    "2013_Southern": 844,
+    "2013_Syracuse": 845,
+    "2013_Temple": 846,
+    "2013_UCLA": 847,
+    "2013_UNLV": 848,
+    "2013_VCU": 849,
+    "2013_Valparaiso": 850,
+    "2013_Villanova": 851,
+    "2013_Western Kentucky": 852,
+    "2013_Wichita State": 853,
+    "2013_Wisconsin": 854,
+    "2014_Albany": 855,
+    "2014_American": 856,
+    "2014_Arizona": 857,
+    "2014_Arizona State": 858,
+    "2014_BYU": 859,
+    "2014_Baylor": 860,
+    "2014_Cal Poly": 861,
+    "2014_Cincinnati": 862,
+    "2014_Coastal Carolina": 863,
+    "2014_Colorado": 864,
+    "2014_UConn": 865,
+    "2014_Creighton": 866,
+    "2014_Dayton": 867,
+    "2014_Delaware": 868,
+    "2014_Duke": 869,
+    "2014_Eastern Kentucky": 870,
+    "2014_Florida": 871,
+    "2014_George Washington": 872,
+    "2014_Gonzaga": 873,
+    "2014_Harvard": 874,
+    "2014_Iowa": 875,
+    "2014_Iowa State": 876,
+    "2014_Kansas": 877,
+    "2014_Kansas State": 878,
+    "2014_Kentucky": 879,
+    "2014_Louisiana Lafayette": 880,
+    "2014_Louisville": 881,
+    "2014_Manhattan": 882,
+    "2014_Massachusetts": 883,
+    "2014_Memphis": 884,
+    "2014_Mercer": 885,
+    "2014_Michigan": 886,
+    "2014_Michigan State": 887,
+    "2014_Milwaukee": 888,
+    "2014_Mount St. Mary's": 889,
+    "2014_Nebraska": 890,
+    "2014_New Mexico": 891,
+    "2014_New Mexico State": 892,
+    "2014_North Carolina": 893,
+    "2014_North Carolina Central": 894,
+    "2014_NC State": 895,
+    "2014_North Dakota State": 896,
+    "2014_Ohio State": 897,
+    "2014_Oklahoma": 898,
+    "2014_Oklahoma State": 899,
+    "2014_Oregon": 900,
+    "2014_Pittsburgh": 901,
+    "2014_Providence": 902,
+    "2014_Saint Joseph's": 903,
+    "2014_Saint Louis": 904,
+    "2014_San Diego State": 905,
+    "2014_Stanford": 906,
+    "2014_Stephen F. Austin": 907,
+    "2014_Syracuse": 908,
+    "2014_Tennessee": 909,
+    "2014_Texas": 910,
+    "2014_Texas Southern": 911,
+    "2014_Tulsa": 912,
+    "2014_UCLA": 913,
+    "2014_VCU": 914,
+    "2014_Villanova": 915,
+    "2014_Virginia": 916,
+    "2014_Weber State": 917,
+    "2014_Western Michigan": 918,
+    "2014_Wichita State": 919,
+    "2014_Wisconsin": 920,
+    "2014_Wofford": 921,
+    "2014_Xavier": 922,
+    "2015_Albany": 923,
+    "2015_Arizona": 924,
+    "2015_Arkansas": 925,
+    "2015_BYU": 926,
+    "2015_Baylor": 927,
+    "2015_Belmont": 928,
+    "2015_Boise State": 929,
+    "2015_Buffalo": 930,
+    "2015_Butler": 931,
+    "2015_Cincinnati": 932,
+    "2015_Coastal Carolina": 933,
+    "2015_Davidson": 934,
+    "2015_Dayton": 935,
+    "2015_Duke": 936,
+    "2015_Eastern Washington": 937,
+    "2015_Georgetown": 938,
+    "2015_Georgia": 939,
+    "2015_Georgia State": 940,
+    "2015_Gonzaga": 941,
+    "2015_Hampton": 942,
+    "2015_Harvard": 943,
+    "2015_Indiana": 944,
+    "2015_Iowa": 945,
+    "2015_Iowa State": 946,
+    "2015_Kansas": 947,
+    "2015_Kentucky": 948,
+    "2015_LSU": 949,
+    "2015_Lafayette": 950,
+    "2015_Louisville": 951,
+    "2015_Manhattan": 952,
+    "2015_Maryland": 953,
+    "2015_Michigan State": 954,
+    "2015_Mississippi": 955,
+    "2015_New Mexico State": 956,
+    "2015_North Carolina": 957,
+    "2015_NC State": 958,
+    "2015_North Dakota State": 959,
+    "2015_North Florida": 960,
+    "2015_Northeastern": 961,
+    "2015_Northern Iowa": 962,
+    "2015_Notre Dame": 963,
+    "2015_Ohio State": 964,
+    "2015_Oklahoma": 965,
+    "2015_Oklahoma State": 966,
+    "2015_Oregon": 967,
+    "2015_Providence": 968,
+    "2015_Purdue": 969,
+    "2015_Robert Morris": 970,
+    "2015_SMU": 971,
+    "2015_San Diego State": 972,
+    "2015_St. John's": 973,
+    "2015_Stephen F. Austin": 974,
+    "2015_Texas": 975,
+    "2015_Texas Southern": 976,
+    "2015_UAB": 977,
+    "2015_UC Irvine": 978,
+    "2015_UCLA": 979,
+    "2015_Utah": 981,
+    "2015_VCU": 982,
+    "2015_Valparaiso": 983,
+    "2015_Villanova": 984,
+    "2015_Virginia": 985,
+    "2015_West Virginia": 986,
+    "2015_Wichita State": 987,
+    "2015_Wisconsin": 988,
+    "2015_Wofford": 989,
+    "2015_Wyoming": 990,
+    "2015_Xavier": 991,
+    "2016_Arizona": 992,
+    "2016_Arkansas Little Rock": 993,
+    "2016_Austin Peay": 994,
+    "2016_Baylor": 995,
+    "2016_Buffalo": 996,
+    "2016_Butler": 997,
+    "2016_Cal State Bakersfield": 998,
+    "2016_California": 999,
+    "2016_Chattanooga": 1000,
+    "2016_Cincinnati": 1001,
+    "2016_Colorado": 1002,
+    "2016_UConn": 1003,
+    "2016_Dayton": 1004,
+    "2016_Duke": 1005,
+    "2016_Fairleigh Dickinson": 1006,
+    "2016_Florida Gulf Coast": 1007,
+    "2016_Fresno State": 1008,
+    "2016_Gonzaga": 1009,
+    "2016_Green Bay": 1010,
+    "2016_Hampton": 1011,
+    "2016_Hawaii": 1012,
+    "2016_Holy Cross": 1013,
+    "2016_Indiana": 1014,
+    "2016_Iona": 1015,
+    "2016_Iowa": 1016,
+    "2016_Iowa State": 1017,
+    "2016_Kansas": 1018,
+    "2016_Kentucky": 1019,
+    "2016_Maryland": 1020,
+    "2016_Miami": 1021,
+    "2016_Michigan": 1022,
+    "2016_Michigan State": 1023,
+    "2016_Middle Tennessee": 1024,
+    "2016_North Carolina": 1025,
+    "2016_Northern Iowa": 1026,
+    "2016_Notre Dame": 1027,
+    "2016_Oklahoma": 1028,
+    "2016_Oregon": 1029,
+    "2016_Oregon State": 1030,
+    "2016_Pittsburgh": 1031,
+    "2016_Providence": 1032,
+    "2016_Purdue": 1033,
+    "2016_Saint Joseph's": 1034,
+    "2016_Seton Hall": 1035,
+    "2016_South Dakota State": 1036,
+    "2016_Southern": 1037,
+    "2016_Stephen F. Austin": 1038,
+    "2016_Stony Brook": 1039,
+    "2016_Syracuse": 1040,
+    "2016_Temple": 1041,
+    "2016_Texas": 1042,
+    "2016_Texas A&M": 1043,
+    "2016_Texas Tech": 1044,
+    "2016_Tulsa": 1045,
+    "2016_UNC Asheville": 1046,
+    "2016_UNC Wilmington": 1047,
+    "2016_Southern California": 1048,
+    "2016_Utah": 1050,
+    "2016_VCU": 1051,
+    "2016_Vanderbilt": 1052,
+    "2016_Villanova": 1053,
+    "2016_Virginia": 1054,
+    "2016_Weber State": 1055,
+    "2016_West Virginia": 1056,
+    "2016_Wichita State": 1057,
+    "2016_Wisconsin": 1058,
+    "2016_Xavier": 1059,
+    "2016_Yale": 1060,
+    "2017_Arizona": 1061,
+    "2017_Arkansas": 1062,
+    "2017_Baylor": 1063,
+    "2017_Bucknell": 1064,
+    "2017_Butler": 1065,
+    "2017_Cincinnati": 1066,
+    "2017_Creighton": 1067,
+    "2017_Dayton": 1068,
+    "2017_Duke": 1069,
+    "2017_East Tennessee St.": 1070,
+    "2017_Florida": 1071,
+    "2017_Florida Gulf Coast": 1072,
+    "2017_Florida St.": 1073,
+    "2017_Gonzaga": 1074,
+    "2017_Iona": 1075,
+    "2017_Iowa State": 1076,
+    "2017_Jacksonville State": 1077,
+    "2017_Kansas": 1078,
+    "2017_Kansas State": 1079,
+    "2017_Kent St.": 1080,
+    "2017_Kentucky": 1081,
+    "2017_Louisville": 1082,
+    "2017_Marquette": 1083,
+    "2017_Maryland": 1084,
+    "2017_Miami": 1085,
+    "2017_Michigan": 1086,
+    "2017_Michigan State": 1087,
+    "2017_Middle Tennessee": 1088,
+    "2017_Minnesota": 1089,
+    "2017_Mount St. Mary's": 1090,
+    "2017_Nevada": 1091,
+    "2017_New Mexico State": 1092,
+    "2017_New Orleans": 1093,
+    "2017_North Carolina": 1094,
+    "2017_North Carolina Central": 1095,
+    "2017_North Dakota": 1096,
+    "2017_Northern Kentucky": 1097,
+    "2017_Northwestern": 1098,
+    "2017_Notre Dame": 1099,
+    "2017_Oklahoma State": 1100,
+    "2017_Oregon": 1101,
+    "2017_Princeton": 1102,
+    "2017_Providence": 1103,
+    "2017_Purdue": 1104,
+    "2017_Rhode Island": 1105,
+    "2017_SMU": 1106,
+    "2017_Saint Mary's": 1107,
+    "2017_Seton Hall": 1108,
+    "2017_South Carolina": 1109,
+    "2017_South Dakota State": 1110,
+    "2017_Texas Southern": 1111,
+    "2017_Troy": 1112,
+    "2017_UC Davis": 1113,
+    "2017_UCLA": 1114,
+    "2017_UNC Wilmington": 1115,
+    "2017_Southern California": 1116,
+    "2017_VCU": 1117,
+    "2017_Vanderbilt": 1118,
+    "2017_Vermont": 1119,
+    "2017_Villanova": 1120,
+    "2017_Virginia": 1121,
+    "2017_Virginia Tech": 1122,
+    "2017_Wake Forest": 1123,
+    "2017_West Virginia": 1124,
+    "2017_Wichita State": 1125,
+    "2017_Winthrop": 1126,
+    "2017_Wisconsin": 1127,
+    "2017_Xavier": 1128,
+    "2018_Alabama": 1129,
+    "2018_Arizona": 1130,
+    "2018_Arizona State": 1131,
+    "2018_Arkansas": 1132,
+    "2018_Auburn": 1133,
+    "2018_Bucknell": 1134,
+    "2018_Buffalo": 1135,
+    "2018_Butler": 1136,
+    "2018_Cal State Fullerton": 1137,
+    "2018_Cincinnati": 1138,
+    "2018_Clemson": 1139,
+    "2018_College of Charleston": 1140,
+    "2018_Creighton": 1141,
+    "2018_Davidson": 1142,
+    "2018_Duke": 1143,
+    "2018_Florida": 1144,
+    "2018_Florida St.": 1145,
+    "2018_Georgia State": 1146,
+    "2018_Gonzaga": 1147,
+    "2018_Houston": 1148,
+    "2018_Iona": 1149,
+    "2018_Kansas": 1150,
+    "2018_Kansas State": 1151,
+    "2018_Kentucky": 1152,
+    "2018_LIU": 1153,
+    "2018_Lipscomb": 1154,
+    "2018_Loyola Chicago": 1155,
+    "2018_Marshall": 1156,
+    "2018_Miami": 1157,
+    "2018_Michigan": 1158,
+    "2018_Michigan State": 1159,
+    "2018_Missouri": 1160,
+    "2018_Montana": 1161,
+    "2018_Murray State": 1162,
+    "2018_Nevada": 1163,
+    "2018_New Mexico State": 1164,
+    "2018_North Carolina": 1165,
+    "2018_North Carolina Central": 1166,
+    "2018_NC State": 1167,
+    "2018_Ohio State": 1168,
+    "2018_Oklahoma": 1169,
+    "2018_Penn": 1170,
+    "2018_Providence": 1171,
+    "2018_Purdue": 1172,
+    "2018_Radford": 1173,
+    "2018_Rhode Island": 1174,
+    "2018_San Diego State": 1175,
+    "2018_Seton Hall": 1176,
+    "2018_South Dakota State": 1177,
+    "2018_St. Bonaventure": 1178,
+    "2018_Stephen F. Austin": 1179,
+    "2018_Syracuse": 1180,
+    "2018_TCU": 1181,
+    "2018_Tennessee": 1182,
+    "2018_Texas": 1183,
+    "2018_Texas A&M": 1184,
+    "2018_Texas Southern": 1185,
+    "2018_Texas Tech": 1186,
+    "2018_UCLA": 1187,
+    "2018_UMBC": 1188,
+    "2018_UNC Greensboro": 1189,
+    "2018_Villanova": 1190,
+    "2018_Virginia": 1191,
+    "2018_Virginia Tech": 1192,
+    "2018_West Virginia": 1193,
+    "2018_Wichita State": 1194,
+    "2018_Wright State": 1195,
+    "2018_Xavier": 1196,
+    "2019_Abilene Christian": 1197,
+    "2019_Arizona State": 1198,
+    "2019_Auburn": 1199,
+    "2019_Baylor": 1200,
+    "2019_Belmont": 1201,
+    "2019_Bradley": 1202,
+    "2019_Buffalo": 1203,
+    "2019_Cincinnati": 1204,
+    "2019_Colgate": 1205,
+    "2019_Duke": 1206,
+    "2019_Fairleigh Dickinson": 1207,
+    "2019_Florida": 1208,
+    "2019_Florida St.": 1209,
+    "2019_Gardner Webb": 1210,
+    "2019_Georgia State": 1211,
+    "2019_Gonzaga": 1212,
+    "2019_Houston": 1213,
+    "2019_Iona": 1214,
+    "2019_Iowa": 1215,
+    "2019_Iowa State": 1216,
+    "2019_Kansas": 1217,
+    "2019_Kansas State": 1218,
+    "2019_Kentucky": 1219,
+    "2019_LSU": 1220,
+    "2019_Liberty": 1221,
+    "2019_Louisville": 1222,
+    "2019_Marquette": 1223,
+    "2019_Maryland": 1224,
+    "2019_Michigan": 1225,
+    "2019_Michigan State": 1226,
+    "2019_Minnesota": 1227,
+    "2019_Mississippi": 1228,
+    "2019_Mississippi State": 1229,
+    "2019_Montana": 1230,
+    "2019_Murray State": 1231,
+    "2019_Nevada": 1232,
+    "2019_New Mexico State": 1233,
+    "2019_North Carolina": 1234,
+    "2019_North Carolina Central": 1235,
+    "2019_North Dakota State": 1236,
+    "2019_Northeastern": 1237,
+    "2019_Northern Kentucky": 1238,
+    "2019_Ohio State": 1239,
+    "2019_Oklahoma": 1240,
+    "2019_Old Dominion": 1241,
+    "2019_Oregon": 1242,
+    "2019_Prairie View A&M": 1243,
+    "2019_Purdue": 1244,
+    "2019_Saint Louis": 1245,
+    "2019_Saint Mary's": 1246,
+    "2019_Seton Hall": 1247,
+    "2019_St. John's": 1248,
+    "2019_Syracuse": 1249,
+    "2019_Temple": 1250,
+    "2019_Tennessee": 1251,
+    "2019_Texas Tech": 1252,
+    "2019_UC Irvine": 1253,
+    "2019_UCF": 1254,
+    "2019_Utah State": 1255,
+    "2019_VCU": 1256,
+    "2019_Vermont": 1257,
+    "2019_Villanova": 1258,
+    "2019_Virginia": 1259,
+    "2019_Virginia Tech": 1260,
+    "2019_Washington": 1261,
+    "2019_Wisconsin": 1262,
+    "2019_Wofford": 1263,
+    "2019_Yale": 1264,
+    "2021_Abilene Christian": 1265,
+    "2021_Alabama": 1266,
+    "2021_Appalachian State": 1267,
+    "2021_Arkansas": 1268,
+    "2021_BYU": 1269,
+    "2021_Baylor": 1270,
+    "2021_Clemson": 1271,
+    "2021_Cleveland State": 1272,
+    "2021_Colgate": 1273,
+    "2021_Colorado": 1274,
+    "2021_UConn": 1275,
+    "2021_Creighton": 1276,
+    "2021_Drake": 1277,
+    "2021_Drexel": 1278,
+    "2021_Eastern Washington": 1279,
+    "2021_Florida": 1280,
+    "2021_Florida St.": 1281,
+    "2021_Georgetown": 1282,
+    "2021_Georgia Tech": 1283,
+    "2021_Gonzaga": 1284,
+    "2021_Grand Canyon": 1285,
+    "2021_Hartford": 1286,
+    "2021_Houston": 1287,
+    "2021_Illinois": 1288,
+    "2021_Iona": 1289,
+    "2021_Iowa": 1290,
+    "2021_Kansas": 1291,
+    "2021_LSU": 1292,
+    "2021_Liberty": 1293,
+    "2021_Loyola Chicago": 1294,
+    "2021_Maryland": 1295,
+    "2021_Michigan": 1296,
+    "2021_Michigan State": 1297,
+    "2021_Missouri": 1298,
+    "2021_Morehead State": 1299,
+    "2021_Mount St. Mary's": 1300,
+    "2021_Norfolk State": 1301,
+    "2021_North Carolina": 1302,
+    "2021_North Texas": 1303,
+    "2021_Ohio": 1304,
+    "2021_Ohio State": 1305,
+    "2021_Oklahoma": 1306,
+    "2021_Oklahoma State": 1307,
+    "2021_Oral Roberts": 1308,
+    "2021_Oregon": 1309,
+    "2021_Oregon State": 1310,
+    "2021_Purdue": 1311,
+    "2021_Rutgers": 1312,
+    "2021_San Diego State": 1313,
+    "2021_St. Bonaventure": 1314,
+    "2021_Syracuse": 1315,
+    "2021_Tennessee": 1316,
+    "2021_Texas": 1317,
+    "2021_Texas Southern": 1318,
+    "2021_Texas Tech": 1319,
+    "2021_UC Santa Barbara": 1320,
+    "2021_UCLA": 1321,
+    "2021_UNC Greensboro": 1322,
+    "2021_Southern California": 1323,
+    "2021_Utah State": 1324,
+    "2021_VCU": 1325,
+    "2021_Villanova": 1326,
+    "2021_Virginia": 1327,
+    "2021_Virginia Tech": 1328,
+    "2021_West Virginia": 1329,
+    "2021_Wichita State": 1330,
+    "2021_Winthrop": 1331,
+    "2021_Wisconsin": 1332,
+    "2022_Akron": 1333,
+    "2022_Alabama": 1334,
+    "2022_Arizona": 1335,
+    "2022_Arkansas": 1336,
+    "2022_Auburn": 1337,
+    "2022_Baylor": 1338,
+    "2022_Boise State": 1339,
+    "2022_Bryant": 1340,
+    "2022_Cal State Fullerton": 1341,
+    "2022_Chattanooga": 1342,
+    "2022_Colgate": 1343,
+    "2022_Colorado State": 1344,
+    "2022_UConn": 1345,
+    "2022_Creighton": 1346,
+    "2022_Davidson": 1347,
+    "2022_Delaware": 1348,
+    "2022_Duke": 1349,
+    "2022_Georgia State": 1350,
+    "2022_Gonzaga": 1351,
+    "2022_Houston": 1352,
+    "2022_Illinois": 1353,
+    "2022_Indiana": 1354,
+    "2022_Iowa": 1355,
+    "2022_Iowa State": 1356,
+    "2022_Jacksonville State": 1357,
+    "2022_Kansas": 1358,
+    "2022_Kentucky": 1359,
+    "2022_LSU": 1360,
+    "2022_Longwood": 1361,
+    "2022_Loyola Chicago": 1362,
+    "2022_Marquette": 1363,
+    "2022_Memphis": 1364,
+    "2022_Miami": 1365,
+    "2022_Michigan": 1366,
+    "2022_Michigan State": 1367,
+    "2022_Montana State": 1368,
+    "2022_Murray State": 1369,
+    "2022_New Mexico State": 1370,
+    "2022_Norfolk State": 1371,
+    "2022_North Carolina": 1372,
+    "2022_Notre Dame": 1373,
+    "2022_Ohio State": 1374,
+    "2022_Providence": 1375,
+    "2022_Purdue": 1376,
+    "2022_Richmond": 1377,
+    "2022_Rutgers": 1378,
+    "2022_Saint Mary's": 1379,
+    "2022_Saint Peter's": 1380,
+    "2022_San Diego State": 1381,
+    "2022_San Francisco": 1382,
+    "2022_Seton Hall": 1383,
+    "2022_South Dakota State": 1384,
+    "2022_TCU": 1385,
+    "2022_Tennessee": 1386,
+    "2022_Texas": 1387,
+    "2022_Texas A&M-CC": 1388,
+    "2022_Texas Southern": 1389,
+    "2022_Texas Tech": 1390,
+    "2022_UAB": 1391,
+    "2022_UCLA": 1392,
+    "2022_Southern California": 1393,
+    "2022_Vermont": 1394,
+    "2022_Villanova": 1395,
+    "2022_Virginia Tech": 1396,
+    "2022_Wisconsin": 1397,
+    "2022_Wright State": 1398,
+    "2022_Wyoming": 1399,
+    "2022_Yale": 1400,
+    "2023_Alabama": 1401,
+    "2023_Arizona": 1402,
+    "2023_Arizona State": 1403,
+    "2023_Arkansas": 1404,
+    "2023_Auburn": 1405,
+    "2023_Baylor": 1406,
+    "2023_Boise State": 1407,
+    "2023_Charleston": 1408,
+    "2023_Colgate": 1409,
+    "2023_UConn": 1410,
+    "2023_Creighton": 1411,
+    "2023_Drake": 1412,
+    "2023_Duke": 1413,
+    "2023_Fairleigh Dickinson": 1414,
+    "2023_Florida Atlantic": 1415,
+    "2023_Furman": 1416,
+    "2023_Gonzaga": 1417,
+    "2023_Grand Canyon": 1418,
+    "2023_Houston": 1419,
+    "2023_Howard": 1420,
+    "2023_Illinois": 1421,
+    "2023_Indiana": 1422,
+    "2023_Iona": 1423,
+    "2023_Iowa": 1424,
+    "2023_Iowa State": 1425,
+    "2023_Kansas": 1426,
+    "2023_Kansas State": 1427,
+    "2023_Kennesaw State": 1428,
+    "2023_Kent St.": 1429,
+    "2023_Kentucky": 1430,
+    "2023_Louisiana": 1431,
+    "2023_Marquette": 1432,
+    "2023_Maryland": 1433,
+    "2023_Memphis": 1434,
+    "2023_Miami": 1435,
+    "2023_Michigan State": 1436,
+    "2023_Mississippi State": 1437,
+    "2023_Missouri": 1438,
+    "2023_Montana State": 1439,
+    "2023_N.C. State": 1440,
+    "2023_Nevada": 1441,
+    "2023_Northern Kentucky": 1442,
+    "2023_Northwestern": 1443,
+    "2023_Oral Roberts": 1444,
+    "2023_Penn State": 1445,
+    "2023_Pittsburgh": 1446,
+    "2023_Princeton": 1447,
+    "2023_Providence": 1448,
+    "2023_Purdue": 1449,
+    "2023_Saint Mary's": 1450,
+    "2023_San Diego State": 1451,
+    "2023_Southeast Missouri St.": 1452,
+    "2023_TCU": 1453,
+    "2023_Tennessee": 1454,
+    "2023_Texas": 1455,
+    "2023_Texas A&M": 1456,
+    "2023_Texas A&M-CC": 1457,
+    "2023_Texas Southern": 1458,
+    "2023_UC Santa Barbara": 1459,
+    "2023_UCLA": 1460,
+    "2023_UNC Asheville": 1461,
+    "2023_Southern California": 1462,
+    "2023_Utah State": 1463,
+    "2023_VCU": 1464,
+    "2023_Vermont": 1465,
+    "2023_Virginia": 1466,
+    "2023_West Virginia": 1467,
+    "2023_Xavier": 1468,
+    "2024_Akron": 1469,
+    "2024_Alabama": 1470,
+    "2024_Arizona": 1471,
+    "2024_Auburn": 1472,
+    "2024_BYU": 1473,
+    "2024_Baylor": 1474,
+    "2024_Boise State": 1475,
+    "2024_Charleston": 1476,
+    "2024_Clemson": 1477,
+    "2024_Colgate": 1478,
+    "2024_Colorado": 1479,
+    "2024_Colorado State": 1480,
+    "2024_UConn": 1481,
+    "2024_Creighton": 1482,
+    "2024_Dayton": 1483,
+    "2024_Drake": 1484,
+    "2024_Duke": 1485,
+    "2024_Duquesne": 1486,
+    "2024_Florida": 1487,
+    "2024_Florida Atlantic": 1488,
+    "2024_Gonzaga": 1489,
+    "2024_Grambling": 1490,
+    "2024_Grand Canyon": 1491,
+    "2024_Houston": 1492,
+    "2024_Howard": 1493,
+    "2024_Illinois": 1494,
+    "2024_Iowa State": 1495,
+    "2024_James Madison": 1496,
+    "2024_Kansas": 1497,
+    "2024_Kentucky": 1498,
+    "2024_Long Beach State": 1499,
+    "2024_Longwood": 1500,
+    "2024_Marquette": 1501,
+    "2024_McNeese": 1502,
+    "2024_Michigan State": 1503,
+    "2024_Mississippi State": 1504,
+    "2024_Montana State": 1505,
+    "2024_Morehead State": 1506,
+    "2024_N.C. State": 1507,
+    "2024_Nebraska": 1508,
+    "2024_Nevada": 1509,
+    "2024_New Mexico": 1510,
+    "2024_North Carolina": 1511,
+    "2024_Northwestern": 1512,
+    "2024_Oakland": 1513,
+    "2024_Oregon": 1514,
+    "2024_Purdue": 1515,
+    "2024_Saint Mary's": 1516,
+    "2024_Saint Peter's": 1517,
+    "2024_Samford": 1518,
+    "2024_San Diego State": 1519,
+    "2024_South Carolina": 1520,
+    "2024_South Dakota State": 1521,
+    "2024_Stetson": 1523,
+    "2024_TCU": 1524,
+    "2024_Tennessee": 1525,
+    "2024_Texas": 1526,
+    "2024_Texas A&M": 1527,
+    "2024_Texas Tech": 1528,
+    "2024_UAB": 1529,
+    "2024_Utah State": 1530,
+    "2024_Vermont": 1531,
+    "2024_Virginia": 1532,
+    "2024_Wagner": 1533,
+    "2024_Washington State": 1534,
+    "2024_Western Kentucky": 1535,
+    "2024_Wisconsin": 1536,
+    "2024_Yale": 1537,
+    "2025_Akron": 1538,
+    "2025_Alabama": 1539,
+    "2025_Alabama State": 1540,
+    "2025_American": 1541,
+    "2025_Arizona": 1542,
+    "2025_Arkansas": 1543,
+    "2025_Auburn": 1544,
+    "2025_BYU": 1545,
+    "2025_Baylor": 1546,
+    "2025_Bryant": 1547,
+    "2025_Clemson": 1548,
+    "2025_Colorado State": 1549,
+    "2025_UConn": 1550,
+    "2025_Creighton": 1551,
+    "2025_Drake": 1552,
+    "2025_Duke": 1553,
+    "2025_Florida": 1554,
+    "2025_Georgia": 1555,
+    "2025_Gonzaga": 1556,
+    "2025_Grand Canyon": 1557,
+    "2025_High Point": 1558,
+    "2025_Houston": 1559,
+    "2025_Illinois": 1560,
+    "2025_Iowa State": 1561,
+    "2025_Kansas": 1562,
+    "2025_Kentucky": 1563,
+    "2025_Liberty": 1564,
+    "2025_Lipscomb": 1565,
+    "2025_Louisville": 1566,
+    "2025_Marquette": 1567,
+    "2025_Maryland": 1568,
+    "2025_McNeese": 1569,
+    "2025_Memphis": 1570,
+    "2025_Michigan": 1571,
+    "2025_Michigan State": 1572,
+    "2025_Mississippi": 1573,
+    "2025_Mississippi State": 1574,
+    "2025_Missouri": 1575,
+    "2025_Montana": 1576,
+    "2025_Mount St. Mary's": 1577,
+    "2025_Nebraska Omaha": 1578,
+    "2025_New Mexico": 1579,
+    "2025_Norfolk State": 1580,
+    "2025_North Carolina": 1581,
+    "2025_Oklahoma": 1582,
+    "2025_Oregon": 1583,
+    "2025_Purdue": 1584,
+    "2025_Robert Morris": 1585,
+    "2025_SIUE": 1586,
+    "2025_Saint Francis": 1587,
+    "2025_Saint Mary's": 1588,
+    "2025_San Diego State": 1589,
+    "2025_St. John's": 1590,
+    "2025_Tennessee": 1591,
+    "2025_Texas": 1592,
+    "2025_Texas A&M": 1593,
+    "2025_Texas Tech": 1594,
+    "2025_Troy": 1595,
+    "2025_UC San Diego": 1596,
+    "2025_UCLA": 1597,
+    "2025_UNC Wilmington": 1598,
+    "2025_Utah State": 1599,
+    "2025_VCU": 1600,
+    "2025_Vanderbilt": 1601,
+    "2025_Wisconsin": 1602,
+    "2025_Wofford": 1603,
+    "2025_Xavier": 1604,
+    "2025_Yale": 1605,
+    "2026_Akron": 1606,
+    "2026_Alabama": 1607,
+    "2026_Arizona": 1608,
+    "2026_Arkansas": 1609,
+    "2026_BYU": 1610,
+    "2026_Cal Baptist": 1611,
+    "2026_Clemson": 1612,
+    "2026_UConn": 1613,
+    "2026_Duke": 1614,
+    "2026_Florida": 1615,
+    "2026_Georgia": 1616,
+    "2026_Gonzaga": 1617,
+    "2026_Hawaii": 1618,
+    "2026_High Point": 1619,
+    "2026_Hofstra": 1620,
+    "2026_Houston": 1621,
+    "2026_Idaho": 1622,
+    "2026_Illinois": 1623,
+    "2026_Iowa": 1624,
+    "2026_Iowa State": 1625,
+    "2026_Kansas": 1626,
+    "2026_Kentucky": 1627,
+    "2026_Lehigh": 1628,
+    "2026_Lipscomb": 1629,
+    "2026_Louisville": 1630,
+    "2026_McNeese": 1631,
+    "2026_Miami (OH)": 1632,
+    "2026_Michigan": 1633,
+    "2026_Michigan State": 1634,
+    "2026_Missouri": 1635,
+    "2026_N.C. State": 1636,
+    "2026_Nebraska": 1637,
+    "2026_North Carolina": 1638,
+    "2026_North Dakota State": 1639,
+    "2026_Northern Iowa": 1640,
+    "2026_Ohio State": 1641,
+    "2026_Penn": 1642,
+    "2026_Prairie View A&M": 1643,
+    "2026_Purdue": 1644,
+    "2026_Queens": 1645,
+    "2026_SIUE": 1646,
+    "2026_SMU": 1647,
+    "2026_Saint Louis": 1648,
+    "2026_Saint Mary's": 1649,
+    "2026_Santa Clara": 1650,
+    "2026_Siena": 1651,
+    "2026_South Florida": 1652,
+    "2026_St. John's": 1653,
+    "2026_TCU": 1654,
+    "2026_Tennessee": 1655,
+    "2026_Texas": 1656,
+    "2026_Texas A&M": 1657,
+    "2026_Texas Tech": 1658,
+    "2026_Troy": 1659,
+    "2026_UCF": 1660,
+    "2026_UCLA": 1661,
+    "2026_UMBC": 1662,
+    "2026_Utah State": 1663,
+    "2026_VCU": 1664,
+    "2026_Vanderbilt": 1665,
+    "2026_Villanova": 1666,
+    "2026_Virginia": 1667,
+    "2026_Wisconsin": 1668,
+    "2026_Wright State": 1669
+  },
+  "unique_years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "source_cols": [
+    "source_1",
+    "source_2",
+    "source_3",
+    "source_4"
+  ]
+}

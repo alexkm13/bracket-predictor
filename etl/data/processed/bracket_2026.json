@@ -1,0 +1,8 @@
+{
+  "regions": {
+    "East": ["Duke", "Siena", "Ohio State", "TCU", "St. John's", "Northern Iowa", "Kansas", "Cal Baptist", "Louisville", "South Florida", "Michigan State", "North Dakota State", "UCLA", "UCF", "UConn", "Furman"],
+    "South": ["Florida", "Prairie View A&M", "Lehigh", "Clemson", "Iowa", "Vanderbilt", "McNeese", "Nebraska", "Troy", "North Carolina", "VCU", "Illinois", "Penn", "Saint Mary's", "Texas A&M", "Houston", "Idaho"],
+    "West": ["Arizona", "LIU", "Villanova", "Utah State", "Wisconsin", "High Point", "Arkansas", "Hawaii", "BYU", "Texas", "N.C. State", "Gonzaga", "Kennesaw", "Miami FL", "Missouri", "Purdue", "Queens"],
+    "Midwest": ["Michigan", "UMBC", "Howard", "Georgia", "Saint Louis", "Texas Tech", "Akron", "Alabama", "Hofstra", "Tennessee", "Miami (OH)", "SMU", "Virginia", "Wright State", "Kentucky", "Santa Clara", "Iowa State", "Tennessee State"]
+  }
+}

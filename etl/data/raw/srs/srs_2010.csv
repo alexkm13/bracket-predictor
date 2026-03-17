@@ -1,0 +1,335 @@
+team,srs,season
+Duke,25.21,2010
+Kansas,24.68,2010
+Syracuse,21.72,2010
+Kentucky,21.13,2010
+Kansas State,19.88,2010
+Ohio State,19.49,2010
+West Virginia,19.16,2010
+Brigham Young,18.82,2010
+Texas,18.56,2010
+Baylor,17.97,2010
+Wisconsin,17.84,2010
+Maryland,17.75,2010
+Purdue,17.52,2010
+Missouri,17.39,2010
+California,17.29,2010
+Georgetown,17.03,2010
+Villanova,16.72,2010
+Xavier,16.23,2010
+Tennessee,16.05,2010
+Clemson,15.71,2010
+Minnesota,15.64,2010
+Washington,15.64,2010
+Michigan State,15.33,2010
+Texas A&M,15.24,2010
+Vanderbilt,15.24,2010
+Marquette,15.17,2010
+Florida State,14.64,2010
+Butler,14.37,2010
+Pittsburgh,14.3,2010
+Georgia Tech,14.11,2010
+Louisville,14.08,2010
+Arizona State,13.8,2010
+Utah State,13.62,2010
+Mississippi,13.46,2010
+Saint Mary's (CA),13.38,2010
+Dayton,13.25,2010
+Notre Dame,13.14,2010
+UTEP,12.66,2010
+Nevada-Las Vegas,12.57,2010
+Mississippi State,12.55,2010
+Connecticut,12.5,2010
+New Mexico,12.49,2010
+Temple,12.44,2010
+Oklahoma State,12.34,2010
+Gonzaga,12.11,2010
+Northern Iowa,12.03,2010
+Florida,11.89,2010
+Memphis,11.74,2010
+Virginia Tech,11.65,2010
+Illinois,11.58,2010
+Wake Forest,11.45,2010
+Old Dominion,11.39,2010
+Miami (FL),11.35,2010
+San Diego State,11.34,2010
+Seton Hall,10.43,2010
+Alabama,10.34,2010
+Virginia Commonwealth,10.23,2010
+North Carolina,10.14,2010
+Michigan,10.04,2010
+Richmond,10.03,2010
+Cincinnati,9.98,2010
+Iowa State,9.6,2010
+Boston College,9.58,2010
+UAB,9.46,2010
+St. John's (NY),9.23,2010
+Rhode Island,9.16,2010
+Southern California,8.93,2010
+Virginia,8.8,2010
+Cornell,8.76,2010
+South Florida,8.72,2010
+Murray State,8.69,2010
+Siena,8.48,2010
+NC State,8.47,2010
+Tulsa,8.46,2010
+Northwestern,8.32,2010
+South Carolina,8.26,2010
+Wichita State,8.06,2010
+Arizona,7.97,2010
+Texas Tech,7.97,2010
+Marshall,7.8,2010
+Missouri State,7.57,2010
+Georgia,7.33,2010
+Providence,7.04,2010
+Colorado,7.01,2010
+Wright State,6.81,2010
+Houston,6.74,2010
+Nebraska,6.6,2010
+Penn State,6.58,2010
+Nevada,6.5,2010
+Northeastern,6.48,2010
+Portland,6.35,2010
+Oklahoma,6.24,2010
+Arkansas,5.87,2010
+Illinois State,5.73,2010
+Stanford,5.71,2010
+UCLA,5.7,2010
+Auburn,5.49,2010
+Saint Louis,5.46,2010
+Washington State,5.31,2010
+Kent State,5.28,2010
+Ohio,4.56,2010
+Wofford,4.43,2010
+Utah,4.29,2010
+Southern Mississippi,4.21,2010
+Oregon,4.0,2010
+Charlotte,3.96,2010
+Montana,3.93,2010
+Oregon State,3.76,2010
+Bradley,3.74,2010
+Sam Houston,3.71,2010
+Weber State,3.71,2010
+Creighton,3.59,2010
+Morehead State,3.51,2010
+Southern Illinois,3.44,2010
+George Washington,3.12,2010
+Pacific,2.9,2010
+Louisiana Tech,2.89,2010
+Akron,2.82,2010
+William & Mary,2.82,2010
+Southern Methodist,2.39,2010
+Western Kentucky,2.32,2010
+Iona,2.31,2010
+Iowa,2.12,2010
+New Mexico State,2.06,2010
+Northern Colorado,2.06,2010
+Appalachian State,1.8,2010
+Hofstra,1.65,2010
+IU Indy,1.63,2010
+DePaul,1.61,2010
+Harvard,1.59,2010
+Colorado State,1.35,2010
+Detroit Mercy,1.35,2010
+Belmont,1.3,2010
+Rutgers,1.29,2010
+St. Bonaventure,1.29,2010
+Milwaukee,1.23,2010
+Indiana State,1.11,2010
+Louisiana State,0.97,2010
+Duquesne,0.79,2010
+Indiana,0.76,2010
+Boston University,0.57,2010
+Cleveland State,0.57,2010
+Miami (OH),0.56,2010
+Drake,0.54,2010
+Western Michigan,0.43,2010
+Fairfield,0.4,2010
+Green Bay,0.33,2010
+Niagara,0.32,2010
+Fresno State,0.14,2010
+Princeton,-0.02,2010
+Drexel,-0.03,2010
+UCF,-0.03,2010
+UC Santa Barbara,-0.13,2010
+Idaho,-0.19,2010
+TCU,-0.25,2010
+La Salle,-0.28,2010
+Long Beach State,-0.42,2010
+George Mason,-0.44,2010
+Oakland,-0.64,2010
+Coastal Carolina,-0.78,2010
+College of Charleston,-0.81,2010
+East Tennessee State,-0.83,2010
+Oral Roberts,-0.88,2010
+Boise State,-1.11,2010
+Morgan State,-1.18,2010
+Western Carolina,-1.24,2010
+Vermont,-1.26,2010
+Loyola Marymount,-1.47,2010
+Jacksonville,-1.71,2010
+Massachusetts,-1.76,2010
+Middle Tennessee,-1.99,2010
+Buffalo,-2.03,2010
+Texas A&M-Corpus Christi,-2.05,2010
+San Jose State,-2.06,2010
+Eastern Kentucky,-2.07,2010
+Lipscomb,-2.07,2010
+Saint Joseph's,-2.13,2010
+Davidson,-2.26,2010
+Stephen F. Austin,-2.42,2010
+North Texas,-2.49,2010
+San Diego,-2.6,2010
+Saint Peter's,-2.73,2010
+Denver,-2.76,2010
+Cal State Fullerton,-2.87,2010
+UTSA,-2.9,2010
+Valparaiso,-2.9,2010
+Troy,-3.04,2010
+Campbell,-3.13,2010
+Montana State,-3.18,2010
+Tulane,-3.2,2010
+Lehigh,-3.33,2010
+The Citadel,-3.44,2010
+Eastern Michigan,-3.46,2010
+San Francisco,-3.48,2010
+Portland State,-3.49,2010
+Quinnipiac,-3.5,2010
+Central Michigan,-3.58,2010
+Stony Brook,-3.64,2010
+Rider,-3.71,2010
+Robert Morris,-3.71,2010
+Georgia State,-3.74,2010
+Austin Peay,-3.85,2010
+Southeastern Louisiana,-3.97,2010
+Arkansas State,-4.01,2010
+UNC Wilmington,-4.35,2010
+Mount St. Mary's,-4.38,2010
+Florida Atlantic,-4.48,2010
+Wyoming,-4.58,2010
+Evansville,-4.61,2010
+Manhattan,-4.68,2010
+Bowling Green,-4.7,2010
+Louisiana,-4.74,2010
+Ball State,-4.85,2010
+Loyola (IL),-4.85,2010
+Air Force,-4.9,2010
+Hawaii,-4.91,2010
+James Madison,-4.96,2010
+Eastern Illinois,-5.0,2010
+Mercer,-5.05,2010
+Canisius,-5.19,2010
+Loyola (MD),-5.23,2010
+Rice,-5.72,2010
+Cal State Northridge,-5.81,2010
+Santa Clara,-5.84,2010
+East Carolina,-5.91,2010
+South Dakota State,-6.05,2010
+UC Davis,-6.23,2010
+Youngstown State,-6.41,2010
+Radford,-6.42,2010
+Maine,-6.53,2010
+Hampton,-6.75,2010
+UC Riverside,-6.99,2010
+Furman,-7.01,2010
+Samford,-7.32,2010
+Texas State,-7.38,2010
+UC Irvine,-7.49,2010
+Northern Arizona,-7.54,2010
+Illinois-Chicago,-7.58,2010
+Northern Illinois,-7.64,2010
+South Alabama,-7.72,2010
+Delaware,-7.86,2010
+Bucknell,-7.94,2010
+Lafayette,-7.96,2010
+Cal Poly,-7.99,2010
+Holy Cross,-8.03,2010
+UT Arlington,-8.06,2010
+Jacksonville State,-8.18,2010
+UNC Greensboro,-8.24,2010
+Arkansas-Pine Bluff,-8.29,2010
+Pepperdine,-8.44,2010
+Towson,-8.46,2010
+North Dakota State,-8.53,2010
+Chattanooga,-8.56,2010
+Winthrop,-8.68,2010
+Delaware State,-9.08,2010
+Army,-9.11,2010
+South Carolina State,-9.31,2010
+Purdue Fort Wayne,-9.42,2010
+North Florida,-9.53,2010
+New Hampshire,-9.54,2010
+Tennessee State,-9.57,2010
+Tennessee Tech,-9.58,2010
+Yale,-9.94,2010
+Little Rock,-10.06,2010
+Kennesaw State,-10.08,2010
+Idaho State,-10.29,2010
+Elon,-10.4,2010
+Binghamton,-10.6,2010
+Brown,-10.68,2010
+Louisiana-Monroe,-10.75,2010
+Nicholls State,-10.99,2010
+Lamar,-11.11,2010
+Texas Southern,-11.12,2010
+Monmouth,-11.2,2010
+Colgate,-11.34,2010
+Sacred Heart,-11.39,2010
+American,-11.47,2010
+Long Island University,-11.56,2010
+Columbia,-11.75,2010
+McNeese State,-11.82,2010
+Western Illinois,-11.84,2010
+Norfolk State,-11.89,2010
+Eastern Washington,-11.91,2010
+Albany (NY),-11.94,2010
+Navy,-12.01,2010
+North Carolina A&T,-12.02,2010
+Sacramento State,-12.41,2010
+Georgia Southern,-12.57,2010
+Florida International,-12.81,2010
+Savannah State,-12.9,2010
+Bethune-Cookman,-13.14,2010
+Fordham,-13.18,2010
+Jackson State,-13.21,2010
+Liberty,-13.22,2010
+Charleston Southern,-13.25,2010
+Pennsylvania,-13.31,2010
+New Orleans,-13.5,2010
+Hartford,-13.77,2010
+St. Francis (NY),-13.83,2010
+Kansas City,-13.88,2010
+UNC Asheville,-14.36,2010
+Toledo,-14.39,2010
+Alabama State,-14.41,2010
+Southeast Missouri State,-14.49,2010
+High Point,-14.63,2010
+Central Connecticut State,-14.68,2010
+Longwood,-14.69,2010
+Coppin State,-14.89,2010
+Northwestern State,-14.98,2010
+FDU,-15.56,2010
+Prairie View,-15.79,2010
+Saint Francis (PA),-15.87,2010
+Maryland-Eastern Shore,-16.18,2010
+Utah Valley,-16.18,2010
+Maryland-Baltimore County,-16.92,2010
+Centenary (LA),-17.16,2010
+Marist,-17.21,2010
+Texas-Rio Grande Valley,-17.31,2010
+Southern Utah,-17.42,2010
+Tennessee-Martin,-17.46,2010
+Stetson,-17.62,2010
+Wagner,-18.05,2010
+Dartmouth,-18.46,2010
+Florida A&M,-18.8,2010
+Howard,-19.49,2010
+NJIT,-19.59,2010
+Mississippi Valley State,-19.69,2010
+VMI,-19.91,2010
+Alabama A&M,-20.19,2010
+Gardner-Webb,-20.32,2010
+Chicago State,-21.8,2010
+Grambling,-23.05,2010
+Southern,-23.96,2010
+Alcorn State,-30.36,2010

@@ -1,0 +1,352 @@
+team,srs,season
+Kentucky,28.72,2015
+Duke,24.97,2015
+Wisconsin,24.61,2015
+Arizona,24.33,2015
+Villanova,23.13,2015
+Virginia,21.73,2015
+Gonzaga,21.12,2015
+Utah,20.98,2015
+North Carolina,20.63,2015
+Ohio State,19.68,2015
+Notre Dame,19.23,2015
+Oklahoma,18.65,2015
+Kansas,18.47,2015
+Louisville,18.12,2015
+Iowa State,17.94,2015
+Baylor,17.85,2015
+Michigan State,17.46,2015
+Butler,16.64,2015
+Texas,16.16,2015
+Iowa,15.83,2015
+Wichita State,15.56,2015
+Georgetown,15.48,2015
+Xavier,15.42,2015
+West Virginia,15.12,2015
+NC State,14.11,2015
+Arkansas,14.07,2015
+Providence,13.71,2015
+Brigham Young,13.53,2015
+Maryland,13.32,2015
+Florida,13.27,2015
+Oklahoma State,12.95,2015
+Indiana,12.94,2015
+Southern Methodist,12.94,2015
+Purdue,12.93,2015
+Virginia Commonwealth,12.79,2015
+Northern Iowa,12.54,2015
+Georgia,12.42,2015
+Illinois,12.42,2015
+Minnesota,12.34,2015
+Stanford,12.33,2015
+UCLA,12.07,2015
+Miami (FL),12.0,2015
+Davidson,11.97,2015
+Syracuse,11.91,2015
+Vanderbilt,11.89,2015
+St. John's (NY),11.85,2015
+San Diego State,11.81,2015
+Oregon,11.43,2015
+Louisiana State,11.39,2015
+Mississippi,11.39,2015
+TCU,11.1,2015
+Dayton,10.98,2015
+Texas A&M,10.73,2015
+Cincinnati,10.72,2015
+South Carolina,10.55,2015
+Alabama,10.52,2015
+Boise State,10.01,2015
+Michigan,9.56,2015
+Arizona State,9.52,2015
+Rhode Island,9.31,2015
+Saint Mary's (CA),8.68,2015
+Richmond,8.65,2015
+Stephen F. Austin,8.61,2015
+Kansas State,8.48,2015
+Pittsburgh,8.45,2015
+Connecticut,8.28,2015
+Temple,8.2,2015
+Colorado State,8.12,2015
+George Washington,8.07,2015
+Illinois State,7.96,2015
+Seton Hall,7.95,2015
+Buffalo,7.93,2015
+Penn State,7.77,2015
+Clemson,7.73,2015
+Old Dominion,7.68,2015
+Creighton,7.48,2015
+Tennessee,7.23,2015
+Georgia Tech,7.16,2015
+Memphis,7.15,2015
+Murray State,7.13,2015
+Marquette,7.08,2015
+Colorado,7.01,2015
+Florida State,6.69,2015
+Tulsa,6.66,2015
+Boston College,6.32,2015
+Valparaiso,6.29,2015
+Northwestern,6.11,2015
+Oregon State,5.93,2015
+Nebraska,5.9,2015
+Louisiana Tech,5.75,2015
+Green Bay,5.7,2015
+Washington,5.57,2015
+Central Michigan,5.56,2015
+Georgia State,5.47,2015
+Nevada-Las Vegas,5.41,2015
+California,5.36,2015
+San Diego,5.03,2015
+UTEP,4.89,2015
+Toledo,4.86,2015
+La Salle,4.85,2015
+Wake Forest,4.62,2015
+Harvard,4.47,2015
+St. Bonaventure,3.93,2015
+Pepperdine,3.86,2015
+Wyoming,3.81,2015
+Hofstra,3.78,2015
+Texas Tech,3.77,2015
+Iona,3.71,2015
+New Mexico State,3.71,2015
+Akron,3.65,2015
+UC Irvine,3.63,2015
+Massachusetts,3.59,2015
+Yale,3.53,2015
+UC Santa Barbara,3.47,2015
+Evansville,3.36,2015
+South Dakota State,3.32,2015
+DePaul,3.3,2015
+Auburn,3.27,2015
+San Francisco,3.08,2015
+Cleveland State,3.07,2015
+Portland,3.06,2015
+Sam Houston,2.97,2015
+Bowling Green,2.93,2015
+Utah State,2.92,2015
+William & Mary,2.82,2015
+New Mexico,2.8,2015
+Hawaii,2.65,2015
+Wofford,2.56,2015
+Mississippi State,2.53,2015
+Loyola (IL),2.35,2015
+UC Davis,2.19,2015
+Southern California,2.15,2015
+Kent State,2.04,2015
+Northeastern,2.03,2015
+Eastern Michigan,1.96,2015
+UAB,1.94,2015
+Charlotte,1.76,2015
+Long Beach State,1.64,2015
+Virginia Tech,1.29,2015
+Vermont,1.21,2015
+Missouri,1.13,2015
+Western Kentucky,1.12,2015
+Louisiana,0.82,2015
+Eastern Washington,0.79,2015
+North Carolina Central,0.66,2015
+Belmont,0.35,2015
+Western Michigan,0.25,2015
+Rutgers,0.23,2015
+Middle Tennessee,0.21,2015
+Washington State,0.14,2015
+Eastern Kentucky,-0.03,2015
+Stony Brook,-0.03,2015
+Canisius,-0.04,2015
+Saint Joseph's,-0.23,2015
+Albany (NY),-0.34,2015
+Columbia,-0.38,2015
+Santa Clara,-0.38,2015
+Georgia Southern,-0.4,2015
+Indiana State,-0.49,2015
+Cal Poly,-0.57,2015
+Morehead State,-0.66,2015
+North Florida,-0.82,2015
+Coastal Carolina,-1.02,2015
+Oakland,-1.28,2015
+Manhattan,-1.34,2015
+Princeton,-1.34,2015
+George Mason,-1.43,2015
+Quinnipiac,-1.46,2015
+Tulane,-1.51,2015
+Rider,-1.6,2015
+Chattanooga,-1.63,2015
+North Dakota State,-1.72,2015
+Montana,-1.75,2015
+Northern Illinois,-1.79,2015
+Florida Gulf Coast,-1.81,2015
+Air Force,-1.85,2015
+Louisiana-Monroe,-1.99,2015
+Mercer,-2.01,2015
+Houston,-2.06,2015
+Tennessee-Martin,-2.12,2015
+St. Francis (NY),-2.14,2015
+Fordham,-2.15,2015
+Monmouth,-2.18,2015
+Fresno State,-2.23,2015
+Detroit Mercy,-2.25,2015
+South Carolina Upstate,-2.28,2015
+High Point,-2.47,2015
+UNC Wilmington,-2.53,2015
+James Madison,-2.65,2015
+East Carolina,-2.84,2015
+Rice,-2.86,2015
+Colgate,-2.91,2015
+Duquesne,-2.93,2015
+Saint Peter's,-2.95,2015
+Lehigh,-3.0,2015
+Robert Morris,-3.02,2015
+Dartmouth,-3.11,2015
+Purdue Fort Wayne,-3.13,2015
+Pacific,-3.19,2015
+NJIT,-3.21,2015
+UTSA,-3.33,2015
+Lafayette,-3.37,2015
+Northern Arizona,-3.48,2015
+Southern Illinois,-3.48,2015
+American,-3.56,2015
+Cornell,-3.58,2015
+UT Arlington,-3.59,2015
+Bucknell,-3.66,2015
+Miami (OH),-3.75,2015
+New Hampshire,-3.76,2015
+Oral Roberts,-3.83,2015
+Radford,-3.89,2015
+Winthrop,-3.9,2015
+Denver,-3.96,2015
+Loyola Marymount,-4.13,2015
+Ohio,-4.15,2015
+Bradley,-4.3,2015
+Charleston Southern,-4.48,2015
+Sacramento State,-4.62,2015
+UC Riverside,-4.65,2015
+Norfolk State,-4.66,2015
+East Tennessee State,-4.8,2015
+Milwaukee,-4.85,2015
+South Dakota,-4.9,2015
+Missouri State,-4.92,2015
+North Texas,-4.95,2015
+South Florida,-4.96,2015
+Ball State,-5.06,2015
+Southeast Missouri State,-5.23,2015
+Gardner-Webb,-5.24,2015
+Texas State,-5.25,2015
+Little Rock,-5.38,2015
+Saint Louis,-5.38,2015
+Northwestern State,-5.48,2015
+Eastern Illinois,-5.52,2015
+Texas A&M-Corpus Christi,-5.58,2015
+Boston University,-5.63,2015
+Saint Francis (PA),-5.68,2015
+Drexel,-5.71,2015
+UCF,-5.73,2015
+Idaho,-5.75,2015
+Western Carolina,-5.83,2015
+Seattle,-5.85,2015
+Elon,-5.91,2015
+Texas Southern,-5.98,2015
+Nevada,-6.03,2015
+Drake,-6.04,2015
+Mount St. Mary's,-6.14,2015
+Incarnate Word,-6.15,2015
+Holy Cross,-6.23,2015
+Bryant,-6.28,2015
+Cal State Bakersfield,-6.4,2015
+Wright State,-6.41,2015
+Marshall,-6.45,2015
+Tennessee Tech,-6.49,2015
+Army,-6.5,2015
+Maryland-Eastern Shore,-6.55,2015
+Cal State Northridge,-6.61,2015
+Grand Canyon,-6.62,2015
+Northern Colorado,-6.82,2015
+Northern Kentucky,-6.85,2015
+Siena,-6.93,2015
+Towson,-7.02,2015
+Omaha,-7.18,2015
+UNC Asheville,-7.19,2015
+Brown,-7.23,2015
+College of Charleston,-7.23,2015
+SIU Edwardsville,-7.28,2015
+Weber State,-7.29,2015
+Sacred Heart,-7.36,2015
+Youngstown State,-7.63,2015
+Portland State,-7.75,2015
+Delaware,-7.76,2015
+Florida International,-7.78,2015
+Florida Atlantic,-7.8,2015
+Illinois-Chicago,-7.86,2015
+Navy,-7.87,2015
+UNC Greensboro,-7.99,2015
+Kansas City,-8.01,2015
+Hampton,-8.25,2015
+IU Indy,-8.28,2015
+Pennsylvania,-8.32,2015
+Cal State Fullerton,-8.58,2015
+Hartford,-8.58,2015
+Fairfield,-8.63,2015
+Troy,-8.72,2015
+Alabama State,-8.97,2015
+Long Island University,-9.09,2015
+Niagara,-9.27,2015
+Samford,-9.41,2015
+South Alabama,-9.46,2015
+Lamar,-9.75,2015
+Appalachian State,-9.81,2015
+VMI,-9.85,2015
+Howard,-9.89,2015
+Southern,-9.95,2015
+Southern Mississippi,-10.03,2015
+McNeese State,-10.05,2015
+Arkansas State,-10.1,2015
+Furman,-10.55,2015
+Marist,-10.55,2015
+Loyola (MD),-10.75,2015
+Delaware State,-10.78,2015
+Lipscomb,-10.82,2015
+Prairie View,-10.86,2015
+Southeastern Louisiana,-10.97,2015
+Campbell,-11.13,2015
+Massachusetts-Lowell,-11.21,2015
+Wagner,-11.47,2015
+Idaho State,-11.52,2015
+New Orleans,-11.86,2015
+Southern Utah,-11.98,2015
+North Dakota,-12.16,2015
+FDU,-12.22,2015
+Jackson State,-12.36,2015
+Austin Peay,-12.45,2015
+Jacksonville State,-12.65,2015
+Utah Valley,-12.72,2015
+Montana State,-12.91,2015
+The Citadel,-12.91,2015
+Longwood,-12.96,2015
+Houston Christian,-13.18,2015
+Binghamton,-13.45,2015
+Western Illinois,-13.81,2015
+Texas-Rio Grande Valley,-14.46,2015
+Chicago State,-14.76,2015
+Tennessee State,-14.93,2015
+Bethune-Cookman,-15.52,2015
+Arkansas-Pine Bluff,-15.65,2015
+Nicholls State,-15.84,2015
+Liberty,-16.01,2015
+Maryland-Baltimore County,-16.17,2015
+Morgan State,-16.19,2015
+San Jose State,-16.22,2015
+Stetson,-16.22,2015
+Presbyterian,-16.26,2015
+Central Connecticut State,-16.56,2015
+Jacksonville,-16.7,2015
+North Carolina A&T,-16.76,2015
+Alabama A&M,-17.15,2015
+Abilene Christian,-17.2,2015
+Kennesaw State,-17.33,2015
+South Carolina State,-17.37,2015
+Maine,-17.8,2015
+Coppin State,-17.84,2015
+Savannah State,-18.17,2015
+Alcorn State,-20.75,2015
+Central Arkansas,-22.84,2015
+Mississippi Valley State,-23.94,2015
+Florida A&M,-26.04,2015
+Grambling,-30.67,2015

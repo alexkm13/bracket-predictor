@@ -1,0 +1,365 @@
+team,srs,season
+Duke,30.72,2025
+Auburn,28.68,2025
+Houston,28.45,2025
+Florida,27.78,2025
+Alabama,25.54,2025
+Tennessee,24.2,2025
+Gonzaga,23.75,2025
+Maryland,23.33,2025
+Texas Tech,23.05,2025
+Arizona,22.94,2025
+Michigan State,22.43,2025
+Iowa State,22.33,2025
+Illinois,21.59,2025
+Kentucky,21.26,2025
+St. John's (NY),21.25,2025
+Purdue,20.8,2025
+Wisconsin,20.73,2025
+Michigan,20.21,2025
+Kansas,20.09,2025
+UCLA,19.68,2025
+Missouri,19.49,2025
+Texas A&M,19.3,2025
+Brigham Young,19.07,2025
+Baylor,18.77,2025
+Louisville,18.49,2025
+Mississippi,18.28,2025
+Marquette,18.19,2025
+Oregon,18.0,2025
+Connecticut,17.87,2025
+Ohio State,17.86,2025
+Clemson,17.81,2025
+Saint Mary's (CA),17.43,2025
+North Carolina,17.27,2025
+Mississippi State,17.14,2025
+Arkansas,17.09,2025
+Creighton,16.49,2025
+Georgia,16.36,2025
+Texas,15.65,2025
+Xavier,15.25,2025
+New Mexico,15.2,2025
+West Virginia,14.89,2025
+Oklahoma,14.86,2025
+Vanderbilt,14.66,2025
+Indiana,14.63,2025
+Virginia Commonwealth,14.45,2025
+Northwestern,14.4,2025
+Southern Methodist,14.35,2025
+Cincinnati,14.23,2025
+Colorado State,13.94,2025
+Boise State,13.86,2025
+Nebraska,13.86,2025
+Penn State,13.57,2025
+Utah State,13.56,2025
+Villanova,13.28,2025
+Pittsburgh,13.27,2025
+Santa Clara,13.22,2025
+Southern California,12.97,2025
+Iowa,12.85,2025
+San Diego State,12.77,2025
+UC San Diego,12.63,2025
+Memphis,12.15,2025
+Utah,11.44,2025
+Kansas State,10.89,2025
+Arizona State,10.62,2025
+UCF,10.59,2025
+TCU,10.49,2025
+San Francisco,10.46,2025
+Rutgers,10.41,2025
+Butler,10.03,2025
+Louisiana State,9.93,2025
+South Carolina,9.89,2025
+Wake Forest,9.63,2025
+Colorado,9.62,2025
+Drake,9.6,2025
+Nevada,9.44,2025
+McNeese State,9.14,2025
+Stanford,8.78,2025
+Oregon State,8.62,2025
+Minnesota,8.48,2025
+Florida State,8.43,2025
+Georgetown,8.18,2025
+Dayton,8.14,2025
+North Texas,7.7,2025
+UC Irvine,7.6,2025
+Liberty,7.42,2025
+Saint Joseph's,7.28,2025
+George Mason,7.2,2025
+Providence,7.17,2025
+Notre Dame,7.07,2025
+Oklahoma State,6.89,2025
+Yale,6.66,2025
+Nevada-Las Vegas,6.65,2025
+Bradley,6.4,2025
+Georgia Tech,6.3,2025
+Washington,6.26,2025
+Arkansas State,5.81,2025
+Virginia,5.71,2025
+NC State,5.56,2025
+California,5.48,2025
+DePaul,5.3,2025
+High Point,5.3,2025
+Northern Iowa,5.24,2025
+Grand Canyon,4.97,2025
+Syracuse,4.95,2025
+UAB,4.7,2025
+Washington State,4.67,2025
+Lipscomb,4.39,2025
+Florida Atlantic,3.72,2025
+Troy,3.55,2025
+Loyola (IL),3.41,2025
+Akron,3.22,2025
+Saint Louis,3.04,2025
+St. Bonaventure,2.92,2025
+Virginia Tech,2.62,2025
+Middle Tennessee,2.52,2025
+Chattanooga,2.37,2025
+UNC Wilmington,2.36,2025
+Wichita State,2.29,2025
+South Dakota State,2.15,2025
+George Washington,2.0,2025
+Belmont,1.94,2025
+Illinois State,1.91,2025
+Utah Valley,1.91,2025
+Cal State Northridge,1.83,2025
+Jacksonville State,1.76,2025
+South Alabama,1.52,2025
+Louisiana Tech,1.45,2025
+Kent State,1.42,2025
+Tulane,1.24,2025
+Loyola Marymount,1.2,2025
+Duquesne,1.18,2025
+Samford,1.13,2025
+North Dakota State,1.11,2025
+Northern Colorado,1.1,2025
+Rhode Island,1.06,2025
+Davidson,1.02,2025
+North Alabama,1.02,2025
+St. Thomas,1.01,2025
+Cornell,0.91,2025
+New Mexico State,0.86,2025
+Murray State,0.81,2025
+Kennesaw State,0.5,2025
+San Jose State,0.5,2025
+Robert Morris,0.4,2025
+Miami (FL),0.38,2025
+Milwaukee,0.35,2025
+UC Santa Barbara,0.28,2025
+Wofford,-0.13,2025
+Furman,-0.15,2025
+Seattle,-0.21,2025
+Temple,-0.24,2025
+Boston College,-0.25,2025
+Seton Hall,-0.26,2025
+Western Kentucky,-0.5,2025
+College of Charleston,-0.6,2025
+Illinois-Chicago,-0.63,2025
+UTEP,-0.63,2025
+Wyoming,-0.67,2025
+East Carolina,-0.69,2025
+Miami (OH),-0.92,2025
+Texas A&M-Corpus Christi,-0.99,2025
+UNC Greensboro,-0.99,2025
+Purdue Fort Wayne,-1.0,2025
+East Tennessee State,-1.07,2025
+California Baptist,-1.13,2025
+Montana,-1.45,2025
+UC Riverside,-1.47,2025
+Cleveland State,-1.55,2025
+Omaha,-1.61,2025
+Winthrop,-1.68,2025
+James Madison,-1.72,2025
+Towson,-1.92,2025
+Bryant,-1.99,2025
+Rice,-2.08,2025
+Nicholls State,-2.13,2025
+South Florida,-2.15,2025
+Lamar,-2.17,2025
+Southern Illinois,-2.22,2025
+Marshall,-2.26,2025
+Cal Poly,-2.47,2025
+UTSA,-2.55,2025
+Appalachian State,-2.59,2025
+Ohio,-2.63,2025
+Oakland,-2.67,2025
+Radford,-2.72,2025
+Montana State,-2.77,2025
+Pepperdine,-2.82,2025
+Princeton,-2.85,2025
+Sam Houston,-2.86,2025
+Florida Gulf Coast,-2.89,2025
+Valparaiso,-2.9,2025
+Massachusetts,-3.08,2025
+Indiana State,-3.15,2025
+Hawaii,-3.57,2025
+Texas State,-3.6,2025
+Drexel,-3.64,2025
+La Salle,-3.64,2025
+Norfolk State,-3.72,2025
+Youngstown State,-3.85,2025
+Eastern Kentucky,-3.86,2025
+Missouri State,-3.94,2025
+Idaho State,-3.95,2025
+Southeastern Louisiana,-4.0,2025
+Jacksonville,-4.29,2025
+Elon,-4.32,2025
+Portland State,-4.41,2025
+Fordham,-4.44,2025
+Central Connecticut State,-4.47,2025
+Central Michigan,-4.51,2025
+South Carolina State,-4.62,2025
+Longwood,-4.63,2025
+Northeastern,-4.64,2025
+Merrimack,-4.65,2025
+Dartmouth,-4.74,2025
+Northern Kentucky,-4.79,2025
+Southeast Missouri State,-4.84,2025
+Wright State,-4.89,2025
+Hofstra,-4.97,2025
+Northwestern State,-5.07,2025
+Brown,-5.21,2025
+Hampton,-5.21,2025
+Bucknell,-5.35,2025
+UNC Asheville,-5.36,2025
+Campbell,-5.39,2025
+Queens (NC),-5.41,2025
+Charlotte,-5.45,2025
+Richmond,-5.48,2025
+UT Arlington,-5.55,2025
+Fresno State,-5.6,2025
+Incarnate Word,-5.61,2025
+Kansas City,-5.66,2025
+South Dakota,-5.69,2025
+Abilene Christian,-5.84,2025
+Cal State Bakersfield,-5.93,2025
+Tulsa,-5.93,2025
+Quinnipiac,-5.94,2025
+Evansville,-6.02,2025
+Toledo,-6.03,2025
+Texas-Rio Grande Valley,-6.05,2025
+Delaware,-6.11,2025
+SIU Edwardsville,-6.12,2025
+William & Mary,-6.26,2025
+UC Davis,-6.41,2025
+Northern Arizona,-6.53,2025
+Maine,-6.58,2025
+Presbyterian,-6.68,2025
+Florida International,-6.72,2025
+Southern,-6.83,2025
+Little Rock,-6.86,2025
+Pacific,-7.11,2025
+Portland,-7.29,2025
+North Dakota,-7.39,2025
+Siena,-7.46,2025
+Georgia State,-7.51,2025
+Georgia Southern,-7.53,2025
+American,-7.64,2025
+Massachusetts-Lowell,-7.64,2025
+Manhattan,-7.67,2025
+Colgate,-7.71,2025
+Harvard,-7.89,2025
+Mount St. Mary's,-7.91,2025
+Ball State,-7.95,2025
+Idaho,-8.0,2025
+Stephen F. Austin,-8.01,2025
+Tennessee State,-8.01,2025
+Vermont,-8.06,2025
+Air Force,-8.07,2025
+Monmouth,-8.14,2025
+Houston Christian,-8.17,2025
+Gardner-Webb,-8.21,2025
+San Diego,-8.37,2025
+Mercer,-8.44,2025
+North Florida,-8.48,2025
+Iona,-8.58,2025
+Eastern Washington,-8.85,2025
+Marist,-8.95,2025
+Alabama State,-8.99,2025
+Sacred Heart,-9.0,2025
+Columbia,-9.18,2025
+Eastern Michigan,-9.21,2025
+Jackson State,-9.39,2025
+Bowling Green,-9.53,2025
+Western Michigan,-9.55,2025
+Austin Peay,-9.57,2025
+Weber State,-9.64,2025
+Old Dominion,-9.71,2025
+Albany (NY),-9.75,2025
+Navy,-9.9,2025
+Southern Mississippi,-9.91,2025
+Lafayette,-10.19,2025
+Bethune-Cookman,-10.22,2025
+Texas Southern,-10.27,2025
+Lehigh,-10.29,2025
+Long Beach State,-10.29,2025
+Utah Tech,-10.29,2025
+Tarleton State,-10.31,2025
+Denver,-10.4,2025
+Pennsylvania,-10.56,2025
+Southern Utah,-10.63,2025
+Saint Peter's,-10.64,2025
+Louisiana,-10.7,2025
+Long Island University,-10.97,2025
+Boston University,-11.0,2025
+Tennessee Tech,-11.09,2025
+Charleston Southern,-11.12,2025
+Tennessee-Martin,-11.18,2025
+VMI,-11.25,2025
+IU Indy,-11.52,2025
+Maryland-Baltimore County,-11.56,2025
+Oral Roberts,-11.71,2025
+Loyola (MD),-11.85,2025
+FDU,-11.96,2025
+Howard,-12.02,2025
+Rider,-12.06,2025
+Army,-12.11,2025
+Coastal Carolina,-12.13,2025
+Delaware State,-12.24,2025
+East Texas A&M,-12.38,2025
+Grambling,-12.44,2025
+Holy Cross,-12.54,2025
+Eastern Illinois,-12.62,2025
+Saint Francis (PA),-12.76,2025
+Niagara,-12.79,2025
+North Carolina Central,-12.91,2025
+Stonehill,-13.12,2025
+Lindenwood,-13.17,2025
+Green Bay,-13.21,2025
+North Carolina A&T,-13.28,2025
+Florida A&M,-13.37,2025
+Detroit Mercy,-13.46,2025
+Binghamton,-13.5,2025
+Morehead State,-13.65,2025
+Stony Brook,-13.84,2025
+Southern Indiana,-13.86,2025
+Alcorn State,-14.06,2025
+Sacramento State,-14.1,2025
+Fairfield,-14.52,2025
+Louisiana-Monroe,-15.1,2025
+Morgan State,-15.13,2025
+Buffalo,-15.16,2025
+Central Arkansas,-15.16,2025
+New Orleans,-15.16,2025
+Western Illinois,-15.22,2025
+Bellarmine,-15.26,2025
+West Georgia,-15.57,2025
+Mercyhurst,-15.65,2025
+South Carolina Upstate,-15.67,2025
+Wagner,-15.75,2025
+Western Carolina,-15.83,2025
+Cal State Fullerton,-15.96,2025
+Northern Illinois,-16.6,2025
+Stetson,-16.7,2025
+Le Moyne,-17.81,2025
+NJIT,-17.92,2025
+The Citadel,-18.37,2025
+Canisius,-19.26,2025
+Prairie View,-19.3,2025
+New Hampshire,-19.8,2025
+Alabama A&M,-20.52,2025
+Maryland-Eastern Shore,-20.65,2025
+Chicago State,-21.12,2025
+Coppin State,-21.26,2025
+Arkansas-Pine Bluff,-24.34,2025
+Mississippi Valley State,-34.6,2025

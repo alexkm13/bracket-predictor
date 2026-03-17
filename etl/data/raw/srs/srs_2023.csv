@@ -1,0 +1,364 @@
+team,srs,season
+Alabama,23.19,2023
+Connecticut,22.95,2023
+Houston,22.2,2023
+UCLA,22.11,2023
+Tennessee,20.84,2023
+Texas,20.56,2023
+Kansas,19.2,2023
+Arizona,19.08,2023
+Gonzaga,18.99,2023
+Purdue,18.23,2023
+Creighton,17.83,2023
+Saint Mary's (CA),17.41,2023
+Baylor,17.3,2023
+Marquette,17.07,2023
+Xavier,16.03,2023
+Arkansas,15.99,2023
+West Virginia,15.95,2023
+Duke,15.83,2023
+San Diego State,15.81,2023
+Kansas State,15.79,2023
+TCU,15.61,2023
+Iowa State,15.36,2023
+Indiana,14.94,2023
+Illinois,14.81,2023
+Kentucky,14.76,2023
+Maryland,14.58,2023
+Rutgers,14.58,2023
+Memphis,14.5,2023
+Auburn,14.35,2023
+Michigan State,14.25,2023
+Utah State,14.23,2023
+Iowa,14.08,2023
+Miami (FL),13.98,2023
+Florida Atlantic,13.92,2023
+Oregon,13.83,2023
+Texas A&M,13.76,2023
+Northwestern,13.68,2023
+Virginia,13.28,2023
+Southern California,13.06,2023
+Penn State,13.04,2023
+Ohio State,12.99,2023
+North Carolina,12.94,2023
+Providence,12.89,2023
+Boise State,12.78,2023
+Oklahoma State,12.62,2023
+Texas Tech,12.58,2023
+NC State,12.5,2023
+Michigan,12.43,2023
+Cincinnati,11.77,2023
+Mississippi State,11.43,2023
+Missouri,11.41,2023
+Oklahoma,11.38,2023
+Utah,11.34,2023
+Arizona State,11.29,2023
+Colorado,11.17,2023
+UCF,11.09,2023
+Seton Hall,11.0,2023
+Wisconsin,10.98,2023
+UAB,10.96,2023
+Florida,10.9,2023
+New Mexico,10.82,2023
+North Texas,10.71,2023
+Villanova,10.61,2023
+Pittsburgh,10.59,2023
+Clemson,10.53,2023
+Washington State,10.53,2023
+Nevada,10.01,2023
+Virginia Commonwealth,9.89,2023
+Stanford,9.64,2023
+Brigham Young,9.43,2023
+Virginia Tech,9.36,2023
+Vanderbilt,8.98,2023
+Dayton,8.71,2023
+St. John's (NY),8.64,2023
+Oral Roberts,8.55,2023
+Santa Clara,8.55,2023
+Utah Valley,8.48,2023
+College of Charleston,8.4,2023
+Liberty,8.36,2023
+Wake Forest,8.25,2023
+Drake,7.84,2023
+Yale,7.81,2023
+Iona,7.61,2023
+Kent State,7.53,2023
+Nevada-Las Vegas,7.2,2023
+Sam Houston,7.15,2023
+Marshall,7.13,2023
+Nebraska,7.12,2023
+Washington,6.78,2023
+Bradley,6.51,2023
+Saint Louis,6.04,2023
+San Francisco,6.0,2023
+Butler,5.85,2023
+Wichita State,5.78,2023
+Toledo,5.76,2023
+Mississippi,5.73,2023
+Colorado State,5.64,2023
+Tulane,5.46,2023
+Syracuse,5.39,2023
+San Jose State,5.17,2023
+Loyola Marymount,4.98,2023
+Hofstra,4.96,2023
+James Madison,4.96,2023
+Furman,4.89,2023
+Indiana State,4.86,2023
+Princeton,4.76,2023
+Temple,4.68,2023
+Grand Canyon,4.43,2023
+Louisiana,4.27,2023
+Akron,4.19,2023
+UC Irvine,4.16,2023
+Charlotte,3.9,2023
+South Alabama,3.58,2023
+Duquesne,3.48,2023
+Southern Utah,3.39,2023
+Louisiana State,3.32,2023
+Southern Mississippi,3.31,2023
+UC Santa Barbara,3.3,2023
+Middle Tennessee,2.95,2023
+DePaul,2.9,2023
+Fresno State,2.6,2023
+Hawaii,2.36,2023
+Fordham,2.26,2023
+Colgate,2.2,2023
+Montana State,2.18,2023
+Notre Dame,2.09,2023
+Georgia Tech,2.08,2023
+Wyoming,2.02,2023
+Air Force,2.0,2023
+Davidson,1.99,2023
+South Florida,1.95,2023
+Belmont,1.88,2023
+Georgia,1.8,2023
+Cal State Fullerton,1.73,2023
+George Mason,1.73,2023
+Portland,1.68,2023
+Youngstown State,1.67,2023
+UNC Greensboro,1.66,2023
+Vermont,1.63,2023
+Eastern Washington,1.47,2023
+Richmond,1.43,2023
+Troy,1.39,2023
+Southern Illinois,1.15,2023
+Boston College,1.09,2023
+Ohio,1.07,2023
+Seattle,0.91,2023
+Pennsylvania,0.85,2023
+Stephen F. Austin,0.73,2023
+UC Riverside,0.72,2023
+Cornell,0.63,2023
+Massachusetts-Lowell,0.63,2023
+Kennesaw State,0.6,2023
+Samford,0.5,2023
+Missouri State,0.35,2023
+Towson,0.24,2023
+California Baptist,0.21,2023
+Louisiana Tech,0.1,2023
+Oregon State,0.08,2023
+Pepperdine,-0.12,2023
+Southern Methodist,-0.12,2023
+Utah Tech,-0.16,2023
+East Carolina,-0.29,2023
+Minnesota,-0.3,2023
+UC Davis,-0.31,2023
+Saint Joseph's,-0.33,2023
+Florida State,-0.38,2023
+Old Dominion,-0.41,2023
+Pacific,-0.56,2023
+Long Beach State,-0.58,2023
+Harvard,-0.71,2023
+UTEP,-0.74,2023
+Tarleton State,-0.76,2023
+Western Kentucky,-0.81,2023
+Northern Kentucky,-0.83,2023
+Georgetown,-1.07,2023
+Montana,-1.15,2023
+UNC Wilmington,-1.17,2023
+Ball State,-1.2,2023
+St. Bonaventure,-1.32,2023
+Massachusetts,-1.34,2023
+Eastern Kentucky,-1.47,2023
+Appalachian State,-1.5,2023
+New Mexico State,-1.56,2023
+UNC Asheville,-1.74,2023
+Longwood,-1.75,2023
+South Dakota State,-1.82,2023
+Radford,-1.86,2023
+George Washington,-1.93,2023
+Lipscomb,-1.95,2023
+Rice,-1.95,2023
+San Diego,-2.06,2023
+Drexel,-2.27,2023
+South Carolina,-2.28,2023
+Texas State,-2.32,2023
+Chattanooga,-2.34,2023
+Wright State,-2.34,2023
+Quinnipiac,-2.43,2023
+Brown,-2.47,2023
+Texas A&M-Corpus Christi,-2.57,2023
+Cleveland State,-2.6,2023
+Florida Gulf Coast,-2.63,2023
+Northern Iowa,-2.68,2023
+Florida International,-2.71,2023
+Abilene Christian,-2.79,2023
+La Salle,-2.79,2023
+Navy,-2.79,2023
+Stetson,-2.83,2023
+North Carolina Central,-2.91,2023
+Weber State,-2.94,2023
+Buffalo,-2.97,2023
+St. Thomas,-3.1,2023
+Detroit Mercy,-3.21,2023
+Georgia Southern,-3.25,2023
+California,-3.36,2023
+Siena,-3.44,2023
+Rider,-3.49,2023
+Bryant,-3.59,2023
+Norfolk State,-3.72,2023
+Gardner-Webb,-3.84,2023
+Northern Arizona,-3.87,2023
+Grambling,-4.03,2023
+Queens (NC),-4.16,2023
+Rhode Island,-4.16,2023
+Murray State,-4.45,2023
+North Dakota State,-4.56,2023
+Sacramento State,-4.63,2023
+Loyola (IL),-4.65,2023
+Northern Colorado,-4.65,2023
+Milwaukee,-4.69,2023
+Northwestern State,-4.72,2023
+UT Arlington,-4.98,2023
+Wofford,-5.02,2023
+Howard,-5.04,2023
+Mercer,-5.11,2023
+Portland State,-5.17,2023
+Campbell,-5.23,2023
+Louisville,-5.39,2023
+Purdue Fort Wayne,-5.46,2023
+Delaware,-5.57,2023
+Robert Morris,-5.83,2023
+East Tennessee State,-6.0,2023
+Jacksonville,-6.19,2023
+Maryland-Baltimore County,-6.22,2023
+Western Carolina,-6.34,2023
+SIU Edwardsville,-6.45,2023
+Texas-Rio Grande Valley,-6.48,2023
+Northern Illinois,-6.55,2023
+Idaho State,-6.56,2023
+Winthrop,-6.63,2023
+Jacksonville State,-6.67,2023
+North Florida,-6.75,2023
+Niagara,-6.78,2023
+Georgia State,-6.79,2023
+UC San Diego,-6.94,2023
+Fairfield,-6.98,2023
+Canisius,-7.05,2023
+Morehead State,-7.1,2023
+Army,-7.13,2023
+Illinois State,-7.38,2023
+Southeast Missouri State,-7.4,2023
+Bellarmine,-7.42,2023
+South Carolina Upstate,-7.44,2023
+Miami (OH),-7.46,2023
+Cal Poly,-7.51,2023
+Western Illinois,-7.59,2023
+North Dakota,-7.6,2023
+Maryland-Eastern Shore,-7.63,2023
+UTSA,-7.74,2023
+Lafayette,-7.83,2023
+Dartmouth,-7.98,2023
+Southeastern Louisiana,-8.0,2023
+Oakland,-8.06,2023
+Arkansas State,-8.07,2023
+Boston University,-8.1,2023
+Mount St. Mary's,-8.18,2023
+American,-8.26,2023
+Cal State Bakersfield,-8.34,2023
+Marist,-8.44,2023
+Bowling Green,-8.46,2023
+Tulsa,-8.48,2023
+Nicholls State,-8.54,2023
+Southern,-8.57,2023
+Louisiana-Monroe,-8.64,2023
+North Alabama,-8.65,2023
+Tennessee-Martin,-8.67,2023
+Idaho,-8.7,2023
+Valparaiso,-8.72,2023
+Alcorn State,-8.74,2023
+Illinois-Chicago,-8.83,2023
+Southern Indiana,-8.87,2023
+Maine,-8.88,2023
+Prairie View,-8.92,2023
+Coastal Carolina,-8.93,2023
+FDU,-8.98,2023
+Tennessee State,-9.01,2023
+New Hampshire,-9.05,2023
+Lehigh,-9.08,2023
+Tennessee Tech,-9.4,2023
+Charleston Southern,-9.44,2023
+Denver,-9.56,2023
+Kansas City,-9.78,2023
+Manhattan,-9.87,2023
+South Dakota,-9.87,2023
+High Point,-9.88,2023
+Saint Peter's,-9.9,2023
+Bucknell,-9.93,2023
+Northeastern,-10.33,2023
+Cal State Northridge,-10.4,2023
+Binghamton,-10.44,2023
+Western Michigan,-10.55,2023
+Texas Southern,-10.56,2023
+Alabama A&M,-10.78,2023
+Omaha,-10.8,2023
+William & Mary,-10.99,2023
+Eastern Michigan,-11.05,2023
+East Texas A&M,-11.09,2023
+Merrimack,-11.18,2023
+Chicago State,-11.29,2023
+Jackson State,-11.36,2023
+North Carolina A&T,-11.4,2023
+Morgan State,-11.58,2023
+Wagner,-11.81,2023
+Central Michigan,-11.97,2023
+Loyola (MD),-12.05,2023
+The Citadel,-12.13,2023
+Austin Peay,-12.17,2023
+Stony Brook,-12.45,2023
+NJIT,-12.57,2023
+Little Rock,-12.62,2023
+Sacred Heart,-12.78,2023
+Elon,-12.85,2023
+Stonehill,-12.86,2023
+Arkansas-Pine Bluff,-12.99,2023
+Saint Francis (PA),-13.41,2023
+Presbyterian,-13.55,2023
+McNeese State,-13.63,2023
+Central Connecticut State,-13.68,2023
+Central Arkansas,-13.72,2023
+Eastern Illinois,-14.09,2023
+New Orleans,-14.23,2023
+Holy Cross,-14.27,2023
+Albany (NY),-14.36,2023
+Columbia,-14.37,2023
+Coppin State,-14.76,2023
+Lindenwood,-14.8,2023
+Incarnate Word,-15.06,2023
+Evansville,-15.14,2023
+Hampton,-15.25,2023
+Monmouth,-15.64,2023
+VMI,-16.14,2023
+Alabama State,-16.33,2023
+St. Francis (NY),-16.49,2023
+South Carolina State,-16.73,2023
+Bethune-Cookman,-17.15,2023
+Houston Christian,-17.18,2023
+Lamar,-17.4,2023
+Delaware State,-17.7,2023
+Florida A&M,-17.81,2023
+Mississippi Valley State,-18.28,2023
+IU Indy,-19.0,2023
+Green Bay,-20.3,2023
+Hartford,-23.12,2023
+Long Island University,-24.46,2023
